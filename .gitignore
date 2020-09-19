@@ -1,0 +1,38 @@
+.DS_Store
+.idea
+.vscode
+dump.rdb
+
+# Byte-compiled / optimized / DLL files
+*$py.class
+*.py[cod]
+
+# Unit test / coverage reports
+*.cover
+*.py,cover
+.cache
+.coverage
+.coverage.*
+.hypothesis/
+.nox/
+.pytest_cache/
+.tox/
+coverage.xml
+htmlcov/
+nosetests.xml
+
+# pytest
+.pytest_cache
+
+# pyenv
+.python-version
+
+# Environments
+.env
+.venv
+ENV/
+env.bak/
+env/
+venv
+venv.bak/
+venv/
