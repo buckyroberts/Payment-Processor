@@ -1,11 +1,14 @@
 repository,title,issue_id,pr_id,completed_by,completed_date,amount_paid
-Account-Manager,Accounts semantics Update & Side Menu update,301,302,angle943,9/18/20,1500
-Account-Manager,Apples,323,,angle943,9/19/20,2500
-Website,Apples,323,123,angle943,9/20/20,3000
-Website,Another Website Task,456,546,buckyroberts,9/20/20,500
+Account-Manager,Accounts semantics Update & Side Menu update,301,302,angle943,1/1/16,1500
+Account-Manager,Accounts semantics Update & Side Menu update,333,302,angle943,1/1/16,1500
+Account-Manager,Accounts semantics Update & Side Menu update,444,302,angle943,1/3/17,1500
+Account-Manager,Apples,323,,angle943,1/1/16,2500
+Website,Apples,323,123,angle943,9/9/20,3000
+Website,Another Website Task,456,546,buckyroberts,9/10/20,500
 Bank,Some account manager task,433,546,buckyroberts,9/20/20,500
 Validator,hello,301,302,angle943,9/18/20,1500
 Account-Manager,is,323,,kristykjlee,9/19/20,2500
 thenewboston-python,there,323,123,angle943,9/20/20,3000
 thenewboston-python,anybody,456,546,kristykjlee,9/20/20,500
 Account-Manager,out there,433,546,buckyroberts,9/20/20,500
+Account-Manager,is,222,,kristykjlee,9/20/20,10000
