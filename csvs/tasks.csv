@@ -1,2 +1,2 @@
-repository,title,issue_id,pr_id,completed_date,amount_paid
-Account-Manager,Accounts semantics Update & Side Menu update,301,302,9/18/20,1500
+repository,title,issue_id,pr_id,completed_by,completed_date,amount_paid
+Account-Manager,Accounts semantics Update & Side Menu update,301,302,5943963,9/18/20,1500
