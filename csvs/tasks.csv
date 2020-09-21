@@ -1,14 +1,9 @@
 repository,title,issue_id,pr_id,completed_by,completed_date,amount_paid
-Account-Manager,Accounts semantics Update & Side Menu update,301,302,angle943,1/1/16,1500
-Account-Manager,Accounts semantics Update & Side Menu update,333,302,angle943,1/1/16,1500
-Account-Manager,Accounts semantics Update & Side Menu update,444,302,angle943,1/3/17,1500
-Account-Manager,Apples,323,,angle943,1/1/16,2500
-Website,Apples,323,123,angle943,9/9/20,3000
-Website,Another Website Task,456,546,buckyroberts,9/10/20,500
-Bank,Some account manager task,433,546,buckyroberts,9/20/20,500
-Validator,hello,301,302,angle943,9/18/20,1500
-Account-Manager,is,323,,kristykjlee,9/19/20,2500
-thenewboston-python,there,323,123,angle943,9/20/20,3000
-thenewboston-python,anybody,456,546,kristykjlee,9/20/20,500
-Account-Manager,out there,433,546,buckyroberts,9/20/20,500
-Account-Manager,is,222,,kristykjlee,9/20/20,10000
+Account-Manager,Add Success Toast,232,246,leelatanniru,9/3/20,2500
+Website,Design 1-2-3 Bubbles,182,,kristykjlee,9/16/20,2500
+Account-Manager,When points are sent to friend the from sender account balance should get reduced,296,,webdeveloperswj,9/17/20,5000
+Account-Manager,No notification received when points sent or received,299,,webdeveloperswj,9/17/20,5000
+Account-Manager,Accounts Semantics & Side Menu Update,301,302,angle943,9/18/20,2500
+Website,Homepage Update (1-2-3 Bubbles),184,186,buckyroberts,9/20/20,2500
+Website,Add Basic Leaderboard Page,191,186,buckyroberts,9/20/20,2500
+Website,Create Tasks and Help Pages,200,201,buckyroberts,9/20/20,2500
