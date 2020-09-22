@@ -9,3 +9,4 @@ Website,Add Basic Leaderboard Page,191,186,buckyroberts,9/20/20,2500
 Website,Create Tasks and Help Pages,200,201,buckyroberts,9/20/20,2500
 Account-Manager,Should say Friend's Account instead of My Account,306,,Niekon01,9/21/20,5000
 Account-Manager,"Create new account modal button should say ""Create"" instead of ""Add""",307,,Niekon01,9/21/20,5000
+Account-Manager,Closes #306 and fixed a wording issue,306,308,Niekon01,9/21/20,5000
