@@ -19,3 +19,21 @@ Account-Manager,Create Jest Tests for 'parseQueryParams',225,313,avgust13,9/22/2
 Account-Manager,Simple Text Update for Table Column Headers,269,313,avgust13,9/22/20,2500
 Website,Leaderboard and Tasks Repository Filter URLs,204,226,thesanjeevsharma,9/22/20,10000
 Account-Manager,"Create new account modal button should say ""Create"" instead of ""Add""",307,314,angle943,9/22/20,5000
+Account-Manager,Unable to switch to Bank of different network (different PV),309,319,avgust13,9/23/20,5000
+Account-Manager,"[Desktop Windows] In user friend list , user should not get added with same nickname while editing nickname",318,325,avgust13,9/24/20,5000
+Account-Manager,Connection Status Logic,276,334,avgust13,9/26/20,10000
+Account-Manager,"[Windows] When user try to add already existing bank then error message displayed should be modified",329,336,avgust13,9/27/20,500
+Account-Manager,"[Windows] Error message can be changed",344,345,avgust13,9/30/20,500
+Account-Manager,"[Windows] User should not be able to add himself as friend",337,350,avgust13,9/30/20,5000
+Account-Manager,"[Desktop] While sending points, Point should not accept decimal values",339,352,tpikachu,9/30/20,5000
+Account-Manager,"No error message displayed when already present Validator is added",351,357,avgust13,9/30/20,2500
+Account-Manager,"Up/down arrows should work even after focusing on a disabled option",349,362,hawyar,10/2/20,2500
+Account-Manager,"Standardize all dates in tables",348,364,buckyroberts,10/2/20,5000
+Account-Manager,"[Windows] When there is no unread notification, Mark all as read text is not needed",361,373,hawyar,10/4/20,2500
+Account-Manager,"Add copy button for My Signing Key",369,374,leelatanniru,10/4/20,2500
+Account-Manager,"Build a 32-bit app",366,376,tpikachu,10/4/20,5000
+Account-Manager,"Add Signing Keys Update for Banks & Validators",353,379,avgust13,10/6/20,50000
+Account-Manager,"Bank OVERVIEW UI update",354,379,avgust13,10/6/20,5000
+Account-Manager,"Move "Daily Rate" to separate panel",399,401,leelatanniru,10/14/20,5000
+Account-Manager,"[Windows] When right clicked on any text under Validators, Banks, My Accounts and My Friend gives option for copy link",360,403,brian316,10/14/20,2500
+Account-Manager,"Error message can be improved when user enters invalid IP Address for bank account",395,405,brian316,10/17/20,1000
