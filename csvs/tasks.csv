@@ -77,11 +77,11 @@ Website,"Put "Hello World" in your OWN language!",351,363,moki298,11/1/20,500
 Website,"Add a Q&A on how to open up a pull request",353,367,aayushi14,11/1/20,1000
 Website,"When going to `/tasks`, make it automatically default to `/tasks/All`",349,365,aayushi14,11/1/20,2000
 Website,"Make the Footer's background color go all the way to the bottom",369,370,itsnikhil,11/2/20,1000
-Website,"Put "Hello World" in your OWN language!",369,351,itsnikhil,11/2/20,500
-Website,"Put "Hello World" in your OWN language!",369,380,xmac11,11/2/20,500
-Website,"Put "Hello World" in your OWN language!",369,381,rizqyep,11/2/20,500
-Website,"Put "Hello World" in your OWN language!",369,382,DucPhamTV,11/2/20,500
-Website,"Put "Hello World" in your OWN language!",369,379,shahraizali,11/2/20,500
+Website,"Put "Hello World" in your OWN language!",351,351,itsnikhil,11/2/20,500
+Website,"Put "Hello World" in your OWN language!",351,380,xmac11,11/2/20,500
+Website,"Put "Hello World" in your OWN language!",351,381,rizqyep,11/2/20,500
+Website,"Put "Hello World" in your OWN language!",351,382,DucPhamTV,11/2/20,500
+Website,"Put "Hello World" in your OWN language!",351,379,shahraizali,11/2/20,500
 Account-Manager,"While Editing nickname duplicate name should not be accepted",400,397,shahraizali,10/13/20,2500
 thenewboston-python,"JSONDecodeError simplejson.decoder in raw_decode",64,,shahraizali,10/16/20,5000
 Website,"[iPhone5/SE] Site moves horizontally",371,384,lapstjup,11/2/20,500
@@ -104,7 +104,7 @@ Website,"Rename 'Points' to 'Coins'",438,442,amarjeet987,11/4/20,7500
 Website,"iPhone clicking on top of the iphone doesn't scroll the website up",402,443,lapstjup,11/4/20,2500
 Website,"Opening Left Menu Logic",388,444,thesanjeevsharma,11/4/20,10000
 Website,"iPad homepage scrolling issue",355,443,lapstjup,11/4/20,2500
-Website,"Put "Hello World" in your OWN language!",369,457,robMakasi,11/4/20,500
+Website,"Put "Hello World" in your OWN language!",351,457,robMakasi,11/4/20,500
 Website,"Sign In, Sign Out, Profile Page",315,,kristykjlee,11/3/20,25000
 Website,"Switch thenewboston & bitcoin block on landing page",441,,kristykjlee,11/4/20,500
 Website,"Donations page",440,,kristykjlee,11/4/20,5000
@@ -113,4 +113,24 @@ Website,"Switch thenewboston & bitcoin block on landing page",441,449,angle943,1
 Account-Manager,"Rename 'Points' to 'Coins'",422,424,thesanjeevsharma,11/4/20,5000
 Website,"Front-end Responsiveness/UX expert",448,450,aayushi14,11/4/20,2500
 Website,"Python / Django Developer",411,452,aayushi14,11/4/20,2500
+Account-Manager,"upgrade react-scripts",423,427,amarjeet987,11/5/20,2500
+Account-Manager,"Zoom function in the window tab not doing anything.",415,428,Hristijan95,11/5/20,2500
+Account-Manager,"Update overall style guide/colors",55,59,Hristijan95,7/19/20,7500
+Website,"Make the command 'npm run lint' run for Windows/Linux users",455,458,moki298,11/5/20,7500
+Website,"Put "Hello World" in your OWN language!",351,466,Vangaorth,11/5/20,500
+Website,"Update "Send Coin" image",445,467,Niekon01,11/5/20,2500
+Website,"Put "Hello World" in your OWN language!",351,470,jagdisharma,11/5/20,500
+Website,"Put "Hello World" in your OWN language!",351,473,ZokaSoce,11/5/20,500
+Website,"Put "Hello World" in your OWN language!",351,474,fadyadal,11/5/20,500
+Website,"Put "Hello World" in your OWN language!",351,475,henctv,11/5/20,500
+Website,"Put "Hello World" in your OWN language!",351,476,cubedtear,11/5/20,500
+Website,"Put "Hello World" in your OWN language!",351,477,Ramin-RX7,11/5/20,500
+Website,"Put "Hello World" in your OWN language!",351,478,AntonFredrikSvensson,11/5/20,500
+Website,"Put "Hello World" in your OWN language!",351,479,ganeshvicky,11/5/20,500
+Website,"Put "Hello World" in your OWN language!",351,481,danielivert,11/5/20,500
+Website,"Put "Hello World" in your OWN language!",351,483,VictorABoye,11/5/20,500
+Website,"Put "Hello World" in your OWN language!",351,484,hLudde,11/5/20,500
+Website,"Put "Hello World" in your OWN language!",351,485,phase7,11/5/20,500
+Website,"Put "Hello World" in your OWN language!",351,486,JayBIOS,11/5/20,500
+Website,"Put "Hello World" in your OWN language!",351,490,VJKLFT,11/5/20,500
 Website,"Static Teams Page",503,508,buckyroberts,11/5/20,500
