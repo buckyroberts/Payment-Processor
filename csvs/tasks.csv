@@ -22,115 +22,116 @@ Account-Manager,"Create new account modal button should say ""Create"" instead o
 Account-Manager,Unable to switch to Bank of different network (different PV),309,319,avgust13,9/23/20,5000
 Account-Manager,"[Desktop Windows] In user friend list , user should not get added with same nickname while editing nickname",318,325,avgust13,9/24/20,5000
 Account-Manager,Connection Status Logic,276,334,avgust13,9/26/20,10000
-Account-Manager,"[Windows] When user try to add already existing bank then error message displayed should be modified",329,336,avgust13,9/27/20,500
-Account-Manager,"[Windows] Error message can be changed",344,345,avgust13,9/30/20,500
-Account-Manager,"[Windows] User should not be able to add himself as friend",337,350,avgust13,9/30/20,5000
+Account-Manager,[Windows] When user try to add already existing bank then error message displayed should be modified,329,336,avgust13,9/27/20,500
+Account-Manager,[Windows] Error message can be changed,344,345,avgust13,9/30/20,500
+Account-Manager,[Windows] User should not be able to add himself as friend,337,350,avgust13,9/30/20,5000
 Account-Manager,"[Desktop] While sending points, Point should not accept decimal values",339,352,tpikachu,9/30/20,5000
-Account-Manager,"No error message displayed when already present Validator is added",351,357,avgust13,9/30/20,2500
-Account-Manager,"Up/down arrows should work even after focusing on a disabled option",349,362,hawyar,10/2/20,2500
-Account-Manager,"Standardize all dates in tables",348,364,buckyroberts,10/2/20,5000
+Account-Manager,No error message displayed when already present Validator is added,351,357,avgust13,9/30/20,2500
+Account-Manager,Up/down arrows should work even after focusing on a disabled option,349,362,hawyar,10/2/20,2500
+Account-Manager,Standardize all dates in tables,348,364,buckyroberts,10/2/20,5000
 Account-Manager,"[Windows] When there is no unread notification, Mark all as read text is not needed",361,373,hawyar,10/4/20,2500
-Account-Manager,"Add copy button for My Signing Key",369,374,leelatanniru,10/4/20,2500
-Account-Manager,"Build a 32-bit app",366,376,tpikachu,10/4/20,5000
-Account-Manager,"Add Signing Keys Update for Banks & Validators",353,379,avgust13,10/6/20,50000
-Account-Manager,"Bank OVERVIEW UI update",354,379,avgust13,10/6/20,5000
-Account-Manager,"Move "Daily Rate" to separate panel",399,401,leelatanniru,10/14/20,5000
+Account-Manager,Add copy button for My Signing Key,369,374,leelatanniru,10/4/20,2500
+Account-Manager,Build a 32-bit app,366,376,tpikachu,10/4/20,5000
+Account-Manager,Add Signing Keys Update for Banks & Validators,353,379,avgust13,10/6/20,50000
+Account-Manager,Bank OVERVIEW UI update,354,379,avgust13,10/6/20,5000
+Account-Manager,"Move Daily Rate"" to separate panel""",399,401,leelatanniru,10/14/20,5000
 Account-Manager,"[Windows] When right clicked on any text under Validators, Banks, My Accounts and My Friend gives option for copy link",360,403,brian316,10/14/20,2500
-Account-Manager,"Error message can be improved when user enters invalid IP Address for bank account",395,405,brian316,10/17/20,1000
+Account-Manager,Error message can be improved when user enters invalid IP Address for bank account,395,405,brian316,10/17/20,1000
 Website,"When there are more than one channel then only text should be: To apply, send us a message through any of the following channels: otherwise text should be: To apply, send us a message through the following channel:",255,264,thesanjeevsharma,10/2/20,500
-Website,"Openings Page Update",273,278,thesanjeevsharma,10/10/20,10000
-Website,"[All mobile devices] Page is not responsive it moves horizontally",301,306,GermaVinsmoke,10/19/20,2500
-Website,"[All mobile devices] Section should be aligned inline with other section above it",305,307,GermaVinsmoke,10/19/20,1000
-Website,"[All mobile devices] Page is not responsive",299,308,angle943,10/19/20,2500
-Website,"[All mobile devices] Page is not responsive",300,308,angle943,10/19/20,2500
-Account-Manager,"Success message coming should be aligned at center of icon aside to it",411,412,moki298,10/20/20,2500
-Website,"[All mobile Devices] Page is not responsive",298,310,GermaVinsmoke,10/20/20,2500
-Website,"Highlighted section should be less in height",206,290,dahelg,10/11/20,2500
-Website,"[iPhone 320Px] Text goes out of section",248,289,itsnikhil,10/10/20,1000
-Website,"Documentation CSS issue.",295,312,angle943,10/21/20,1000
-Website,"[iPhone SE] Page moved horizontally",220,266,lapstjup,10/2/20,5000
-Website,"Update social media buttons on the main marketing page",321,,kristykjlee,10/24/20,1000
-Website,"FAQ page",320,,kristykjlee,10/24/20,2500
-Website,"Updated Top Navigation",317,,kristykjlee,10/24/20,2500
-Website,"Updated Footer",318,,kristykjlee,10/24/20,2500
-Website,"Social Media page",319,,kristykjlee,10/24/20,2500
-Website,"Add the functionality to use font-weight with our Inter Font",293,313,colfax23,10/26/20,10000
-Website,"Update social media buttons on the main marketing page",321,323,aayushi14,10/27/20,1000
-Website,"Updated Footer",318,325,thesanjeevsharma,10/27/20,2500
-Website,"Update Account Manager Guide Pages",280,328,colfax23,10/27/20,1000
-Account-Manager,"Add the functionality to use font-weight with our Inter Font",416,419,colfax23,10/27/20,7500
-Website,"Landing Page Style Update",283,314,moki298,10/28/20,7500
-Website,"FAQ page",320,338,brmendez,10/30/20,2500
-Website,"Help to Social page",319,339,colfax23,10/30/20,2500
-Website,"Replace Footer icons with mdi-icons",335,340,thesanjeevsharma,10/30/20,1000
-Website,"Replace Homepage Social Media Hero icons to use SVG Icons",336,344,aayushi14,10/31/20,500
-Website,"Landing Page V2",333,,kristykjlee,10/31/20,2500
-Website,"Updated Top Navigation",317,343,angle943,10/31/20,5000
-Website,"Landing Page V2",333,346,aayushi14,11/1/20,2500
-Website,"Hello World in Different Languages for Marketing Site",322,350,angle943,11/1/20,500
-Website,"Put "Hello World" in your OWN language!",351,354,dorlivniopen,11/1/20,500
-Website,"no more stickies on website",357,,kristykjlee,11/1/20,500
-Website,"no more stickies on website",357,358,angle943,11/1/20,500
-Website,"Footer Update V2",330,359,angle943,11/1/20,500
-Website,"Put "Hello World" in your OWN language!",351,361,aayushi14,11/1/20,500
-Website,"Put "Hello World" in your OWN language!",351,363,moki298,11/1/20,500
-Website,"Add a Q&A on how to open up a pull request",353,367,aayushi14,11/1/20,1000
+Website,Openings Page Update,273,278,thesanjeevsharma,10/10/20,10000
+Website,[All mobile devices] Page is not responsive it moves horizontally,301,306,GermaVinsmoke,10/19/20,2500
+Website,[All mobile devices] Section should be aligned inline with other section above it,305,307,GermaVinsmoke,10/19/20,1000
+Website,[All mobile devices] Page is not responsive,299,308,angle943,10/19/20,2500
+Website,[All mobile devices] Page is not responsive,300,308,angle943,10/19/20,2500
+Account-Manager,Success message coming should be aligned at center of icon aside to it,411,412,moki298,10/20/20,2500
+Website,[All mobile Devices] Page is not responsive,298,310,GermaVinsmoke,10/20/20,2500
+Website,Highlighted section should be less in height,206,290,dahelg,10/11/20,2500
+Website,[iPhone 320Px] Text goes out of section,248,289,itsnikhil,10/10/20,1000
+Website,Documentation CSS issue.,295,312,angle943,10/21/20,1000
+Website,[iPhone SE] Page moved horizontally,220,266,lapstjup,10/2/20,5000
+Website,Update social media buttons on the main marketing page,321,,kristykjlee,10/24/20,1000
+Website,FAQ page,320,,kristykjlee,10/24/20,2500
+Website,Updated Top Navigation,317,,kristykjlee,10/24/20,2500
+Website,Updated Footer,318,,kristykjlee,10/24/20,2500
+Website,Social Media page,319,,kristykjlee,10/24/20,2500
+Website,Add the functionality to use font-weight with our Inter Font,293,313,colfax23,10/26/20,10000
+Website,Update social media buttons on the main marketing page,321,323,aayushi14,10/27/20,1000
+Website,Updated Footer,318,325,thesanjeevsharma,10/27/20,2500
+Website,Update Account Manager Guide Pages,280,328,colfax23,10/27/20,1000
+Account-Manager,Add the functionality to use font-weight with our Inter Font,416,419,colfax23,10/27/20,7500
+Website,Landing Page Style Update,283,314,moki298,10/28/20,7500
+Website,FAQ page,320,338,brmendez,10/30/20,2500
+Website,Help to Social page,319,339,colfax23,10/30/20,2500
+Website,Replace Footer icons with mdi-icons,335,340,thesanjeevsharma,10/30/20,1000
+Website,Replace Homepage Social Media Hero icons to use SVG Icons,336,344,aayushi14,10/31/20,500
+Website,Landing Page V2,333,,kristykjlee,10/31/20,2500
+Website,Updated Top Navigation,317,343,angle943,10/31/20,5000
+Website,Landing Page V2,333,346,aayushi14,11/1/20,2500
+Website,Hello World in Different Languages for Marketing Site,322,350,angle943,11/1/20,500
+Website,"Put Hello World"" in your OWN language!""",351,354,dorlivniopen,11/1/20,500
+Website,no more stickies on website,357,,kristykjlee,11/1/20,500
+Website,no more stickies on website,357,358,angle943,11/1/20,500
+Website,Footer Update V2,330,359,angle943,11/1/20,500
+Website,"Put Hello World"" in your OWN language!""",351,361,aayushi14,11/1/20,500
+Website,"Put Hello World"" in your OWN language!""",351,363,moki298,11/1/20,500
+Website,Add a Q&A on how to open up a pull request,353,367,aayushi14,11/1/20,1000
 Website,"When going to `/tasks`, make it automatically default to `/tasks/All`",349,365,aayushi14,11/1/20,2000
-Website,"Make the Footer's background color go all the way to the bottom",369,370,itsnikhil,11/2/20,1000
-Website,"Put "Hello World" in your OWN language!",351,351,itsnikhil,11/2/20,500
-Website,"Put "Hello World" in your OWN language!",351,380,xmac11,11/2/20,500
-Website,"Put "Hello World" in your OWN language!",351,381,rizqyep,11/2/20,500
-Website,"Put "Hello World" in your OWN language!",351,382,DucPhamTV,11/2/20,500
-Website,"Put "Hello World" in your OWN language!",351,379,shahraizali,11/2/20,500
-Account-Manager,"While Editing nickname duplicate name should not be accepted",400,397,shahraizali,10/13/20,2500
-thenewboston-python,"JSONDecodeError simplejson.decoder in raw_decode",64,,shahraizali,10/16/20,5000
-Website,"[iPhone5/SE] Site moves horizontally",371,384,lapstjup,11/2/20,500
-Website,"Upgrade A couple of our dependency libraries",368,376,amarjeet987,11/3/20,2500
-Website,"Head of Python Client Library Development",401,404,itsnikhil,11/3/20,2500
-Website,"Blockchain Cryptocurrency Researcher",400,405,itsnikhil,11/3/20,2500
-Website,"YouTube Educator",403,409,itsnikhil,11/3/20,2500
-Website,"Head of Guerrilla Marketing",410,414,itsnikhil,11/3/20,2500
-Website,"Senior DevOps Engineer",394,416,lapstjup,11/3/20,2500
-Website,"Opening Updates",387,418,itsnikhil,11/3/20,1000
-Website,"Remove a line in all of our job openings",395,419,itsnikhil,11/3/20,500
-Website,"Junior Python (Django) Developer",398,421,itsnikhil,11/3/20,2500
-Website,"Opening's starting content not in focus",417,422,lapstjup,11/3/20,500
-Website,"Cloud Security Engineer",390,425,aayushi14,11/3/20,2500
-Website,"Vertical scrollbar appearing in left menu",423,436,angle943,11/3/20,500
-Website,"[Laptop Devices] Site is not responsive moves horizontally",366,435,Niekon01,11/3/20,1000
-Website,"Overlapping of text on top of expanded navbar",437,439,angle943,11/3/20,500
-Website,"Update our README.md",420,424,thesanjeevsharma,11/4/20,5000
-Website,"Rename 'Points' to 'Coins'",438,442,amarjeet987,11/4/20,7500
-Website,"iPhone clicking on top of the iphone doesn't scroll the website up",402,443,lapstjup,11/4/20,2500
-Website,"Opening Left Menu Logic",388,444,thesanjeevsharma,11/4/20,10000
-Website,"iPad homepage scrolling issue",355,443,lapstjup,11/4/20,2500
-Website,"Put "Hello World" in your OWN language!",351,457,robMakasi,11/4/20,500
+Website,Make the Footer's background color go all the way to the bottom,369,370,itsnikhil,11/2/20,1000
+Website,"Put Hello World"" in your OWN language!""",351,351,itsnikhil,11/2/20,500
+Website,"Put Hello World"" in your OWN language!""",351,380,xmac11,11/2/20,500
+Website,"Put Hello World"" in your OWN language!""",351,381,rizqyep,11/2/20,500
+Website,"Put Hello World"" in your OWN language!""",351,382,DucPhamTV,11/2/20,500
+Website,"Put Hello World"" in your OWN language!""",351,379,shahraizali,11/2/20,500
+Account-Manager,While Editing nickname duplicate name should not be accepted,400,397,shahraizali,10/13/20,2500
+thenewboston-python,JSONDecodeError simplejson.decoder in raw_decode,64,,shahraizali,10/16/20,5000
+Website,[iPhone5/SE] Site moves horizontally,371,384,lapstjup,11/2/20,500
+Website,Upgrade A couple of our dependency libraries,368,376,amarjeet987,11/3/20,2500
+Website,Head of Python Client Library Development,401,404,itsnikhil,11/3/20,2500
+Website,Blockchain Cryptocurrency Researcher,400,405,itsnikhil,11/3/20,2500
+Website,YouTube Educator,403,409,itsnikhil,11/3/20,2500
+Website,Head of Guerrilla Marketing,410,414,itsnikhil,11/3/20,2500
+Website,Senior DevOps Engineer,394,416,lapstjup,11/3/20,2500
+Website,Opening Updates,387,418,itsnikhil,11/3/20,1000
+Website,Remove a line in all of our job openings,395,419,itsnikhil,11/3/20,500
+Website,Junior Python (Django) Developer,398,421,itsnikhil,11/3/20,2500
+Website,Opening's starting content not in focus,417,422,lapstjup,11/3/20,500
+Website,Cloud Security Engineer,390,425,aayushi14,11/3/20,2500
+Website,Vertical scrollbar appearing in left menu,423,436,angle943,11/3/20,500
+Website,[Laptop Devices] Site is not responsive moves horizontally,366,435,Niekon01,11/3/20,1000
+Website,Overlapping of text on top of expanded navbar,437,439,angle943,11/3/20,500
+Website,Update our README.md,420,424,thesanjeevsharma,11/4/20,5000
+Website,Rename 'Points' to 'Coins',438,442,amarjeet987,11/4/20,7500
+Website,iPhone clicking on top of the iphone doesn't scroll the website up,402,443,lapstjup,11/4/20,2500
+Website,Opening Left Menu Logic,388,444,thesanjeevsharma,11/4/20,10000
+Website,iPad homepage scrolling issue,355,443,lapstjup,11/4/20,2500
+Website,"Put Hello World"" in your OWN language!""",351,457,robMakasi,11/4/20,500
 Website,"Sign In, Sign Out, Profile Page",315,,kristykjlee,11/3/20,25000
-Website,"Switch thenewboston & bitcoin block on landing page",441,,kristykjlee,11/4/20,500
-Website,"Donations page",440,,kristykjlee,11/4/20,5000
-Website,"Donations page",440,453,angle943,11/4/20,5000
-Website,"Switch thenewboston & bitcoin block on landing page",441,449,angle943,11/4/20,500
-Account-Manager,"Rename 'Points' to 'Coins'",422,424,thesanjeevsharma,11/4/20,5000
-Website,"Front-end Responsiveness/UX expert",448,450,aayushi14,11/4/20,2500
-Website,"Python / Django Developer",411,452,aayushi14,11/4/20,2500
-Account-Manager,"upgrade react-scripts",423,427,amarjeet987,11/5/20,2500
-Account-Manager,"Zoom function in the window tab not doing anything.",415,428,Hristijan95,11/5/20,2500
-Account-Manager,"Update overall style guide/colors",55,59,Hristijan95,7/19/20,7500
-Website,"Make the command 'npm run lint' run for Windows/Linux users",455,458,moki298,11/5/20,7500
-Website,"Put "Hello World" in your OWN language!",351,466,Vangaorth,11/5/20,500
-Website,"Update "Send Coin" image",445,467,Niekon01,11/5/20,2500
-Website,"Put "Hello World" in your OWN language!",351,470,jagdisharma,11/5/20,500
-Website,"Put "Hello World" in your OWN language!",351,473,ZokaSoce,11/5/20,500
-Website,"Put "Hello World" in your OWN language!",351,474,fadyadal,11/5/20,500
-Website,"Put "Hello World" in your OWN language!",351,475,henctv,11/5/20,500
-Website,"Put "Hello World" in your OWN language!",351,476,cubedtear,11/5/20,500
-Website,"Put "Hello World" in your OWN language!",351,477,Ramin-RX7,11/5/20,500
-Website,"Put "Hello World" in your OWN language!",351,478,AntonFredrikSvensson,11/5/20,500
-Website,"Put "Hello World" in your OWN language!",351,479,ganeshvicky,11/5/20,500
-Website,"Put "Hello World" in your OWN language!",351,481,danielivert,11/5/20,500
-Website,"Put "Hello World" in your OWN language!",351,483,VictorABoye,11/5/20,500
-Website,"Put "Hello World" in your OWN language!",351,484,hLudde,11/5/20,500
-Website,"Put "Hello World" in your OWN language!",351,485,phase7,11/5/20,500
-Website,"Put "Hello World" in your OWN language!",351,486,JayBIOS,11/5/20,500
-Website,"Put "Hello World" in your OWN language!",351,490,VJKLFT,11/5/20,500
-Website,"Static Teams Page",503,508,buckyroberts,11/5/20,500
+Website,Switch thenewboston & bitcoin block on landing page,441,,kristykjlee,11/4/20,500
+Website,Donations page,440,,kristykjlee,11/4/20,5000
+Website,Donations page,440,453,angle943,11/4/20,5000
+Website,Switch thenewboston & bitcoin block on landing page,441,449,angle943,11/4/20,500
+Account-Manager,Rename 'Points' to 'Coins',422,424,thesanjeevsharma,11/4/20,5000
+Website,Front-end Responsiveness/UX expert,448,450,aayushi14,11/4/20,2500
+Website,Python / Django Developer,411,452,aayushi14,11/4/20,2500
+Account-Manager,upgrade react-scripts,423,427,amarjeet987,11/5/20,2500
+Account-Manager,Zoom function in the window tab not doing anything.,415,428,Hristijan95,11/5/20,2500
+Account-Manager,Update overall style guide/colors,55,59,Hristijan95,7/19/20,7500
+Website,Make the command 'npm run lint' run for Windows/Linux users,455,458,moki298,11/5/20,7500
+Website,"Put Hello World"" in your OWN language!""",351,466,Vangaorth,11/5/20,500
+Website,"Update Send Coin"" image""",445,467,Niekon01,11/5/20,2500
+Website,"Put Hello World"" in your OWN language!""",351,470,jagdisharma,11/5/20,500
+Website,"Put Hello World"" in your OWN language!""",351,473,ZokaSoce,11/5/20,500
+Website,"Put Hello World"" in your OWN language!""",351,474,fadyadal,11/5/20,500
+Website,"Put Hello World"" in your OWN language!""",351,475,henctv,11/5/20,500
+Website,"Put Hello World"" in your OWN language!""",351,476,cubedtear,11/5/20,500
+Website,"Put Hello World"" in your OWN language!""",351,477,Ramin-RX7,11/5/20,500
+Website,"Put Hello World"" in your OWN language!""",351,478,AntonFredrikSvensson,11/5/20,500
+Website,"Put Hello World"" in your OWN language!""",351,479,ganeshvicky,11/5/20,500
+Website,"Put Hello World"" in your OWN language!""",351,481,danielivert,11/5/20,500
+Website,"Put Hello World"" in your OWN language!""",351,483,VictorABoye,11/5/20,500
+Website,"Put Hello World"" in your OWN language!""",351,484,hLudde,11/5/20,500
+Website,"Put Hello World"" in your OWN language!""",351,485,phase7,11/5/20,500
+Website,"Put Hello World"" in your OWN language!""",351,486,JayBIOS,11/5/20,500
+Website,"Put Hello World"" in your OWN language!""",351,490,VJKLFT,11/5/20,500
+Website,Static Teams Page,503,508,buckyroberts,11/5/20,500
+Website,Task page margin,413,469,itsnikhil,11/6/20,1000
