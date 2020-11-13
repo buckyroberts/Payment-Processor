@@ -1,6 +1,7 @@
 team,title,isLead,payPerDay,createdDate,contributor_id,display_name,github_username,profile_image,slack_username,account_number
 Back-End Developers,Back-End Lead,TRUE,2800,2020-07-08T02:14:59.307535Z,4,Volodymyr,vosi,https://avatars0.githubusercontent.com/u/758024?s=460&v=4,Volodymyr,
 Back-End Developers,Back-End Lead,TRUE,2800,2020-07-08T02:14:59.307535Z,5,Mikhail,fonar,https://ca.slack-edge.com/T07PJD1FZ-U01CTP5N98D-11bd9bb494f5-512,Mikhail,7c7339dab547bc08a8c2ecb9d46675dc4ed01b72321a27e66e923fed0306c952
+Back-End Developers,Senior Django/Python Developer,TRUE,2800,2020-11-13T02:14:59.307535Z,,Santee,sbalasa,https://ca.slack-edge.com/T07PJD1FZ-U01DYUZSU22-9904d0218507-512,Santhosh Balasa,d2131316a7286972bf15bfe914beac2fe56505a6b7a13aa3916a4f355736cbb3
 Back-End Developers,Junior Python (Django) Developer,FALSE,2800,2020-07-08T02:14:59.307535Z,18,Abhi,Abhishek5101,https://ca.slack-edge.com/T07PJD1FZ-U01BPK991R7-8dac7d9c0d9c-512,Abhi,7556e3d9ebe876d1d7244b67495f0d91d2968f1310469ba644cf2119b419a1ec
 Back-End Developers,Head of Python Client Library Development,FALSE,2800,2020-07-08T02:14:59.307535Z,23,Shahraiz Ali,shahraizali,https://avatars3.githubusercontent.com/u/15216270?s=460&u=d417978e0163fb544caf74293278fac7ebf1dabf&v=4,Shahraiz Ali,1d4efd5650e56f28cce68e69058f42b3ea53640639344fb8e1261b7bd4b68e8d
 Back-End Developers,Python Developer,FALSE,2800,2020-11-12-08T02:14:59.307535Z,,Dwayne Sordam,CirXe0N,https://avatars3.githubusercontent.com/u/24738451?v=4,Dwayne,2ffa7fc96ca4c04d18e878e88e49a95556c497df327fedd82e2c663cc4e4e0a2
