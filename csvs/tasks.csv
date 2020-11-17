@@ -266,3 +266,4 @@ Website,Fixed typo in the documentation account: 3972dfcfb9fd488cf90644b599558d3
 Website,Utilise react-helmet-async instead of react-helmet,856,857,jamessspanggg,11/16/20,1000
 Website,Fix console warnings,863,865,jamessspanggg,11/16/20,1000
 Website,Remove package-lock.json and update npm commands to yarn,828,829,ffpetrovic,11/16/20,500
+Website,New contributor added for front end (#866),866,871,KingChampion36,11/16/20,500
