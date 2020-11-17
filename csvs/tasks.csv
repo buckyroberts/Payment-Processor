@@ -269,4 +269,4 @@ Website,Remove package-lock.json and update npm commands to yarn,828,829,ffpetro
 Website,New contributor added for front end (#866),866,871,KingChampion36,11/16/20,500
 Website,Add new user,872,873,VincentHch,11/16/20,500
 Website,added Kotlin-SDK to tasks,876,882,thesanjeevsharma,11/17/20,500
-website,Fixes #550 - Added Sorting in Tasks,550,616,kush-daga,11/16/20,7500
+Website,Fixes #550 - Added Sorting in Tasks,550,616,kush-daga,11/16/20,7500
