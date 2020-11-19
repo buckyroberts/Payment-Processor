@@ -281,3 +281,4 @@ thenewboston-python-client,Bank - post invalid block to bank,18,26,xmac11,11/17/
 thenewboston-python-client,Add Github Actions to automate testing and linting,38,40,sbalasa,11/17/20,5000
 Website,Added Tajik language,351,900,Surac778,11/18/20,500
 Website,Added Esperanto language,351,902,gatvay23924,11/18/20,500
+Website,Added hello world in tatari language,351,904,codemedo,11/19/20,500
