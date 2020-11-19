@@ -270,5 +270,12 @@ Website,New contributor added for front end (#866),866,871,KingChampion36,11/16/
 Website,Add new user,872,873,VincentHch,11/16/20,500
 Website,added Kotlin-SDK to tasks,876,882,thesanjeevsharma,11/17/20,500
 Website,Fixes #550 - Added Sorting in Tasks,550,616,kush-daga,11/16/20,7500
+thenewboston-python-client,Bank - banks api calls,15,24,jtavak,11/17/20,5000
 Website,Added Maori language,351,884,Tuhinga,11/18/20,500
 Website,'Hello World' in Haitian Creole,351,891,lucedawg,11/18/20,500
+thenewboston-python-client,Bank - get bank config,16,34,VincentHch,11/17/20,5000
+thenewboston-python-client,Bank - patch api call for validators path,22,23,velibor7,11/17/20,5000
+thenewboston-python-client,Bank - validator confirmation services api calls,19,37,CirXe0N,11/17/20,5000
+thenewboston-python-client,Bank - confirmation blocks api calls,17,35,VincentHch,11/17/20,5000
+thenewboston-python-client,Bank - post invalid block to bank,18,26,xmac11,11/17/20,5000
+thenewboston-python-client,Add Github Actions to automate testing and linting,38,40,sbalasa,11/17/20,5000
