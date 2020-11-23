@@ -287,3 +287,20 @@ thenewboston-python-client,Bank - blocks api calls,21,36,nishp77,11/23/20,5000
 thenewboston-python-client,Add Github Actions to automate testing and linting,38,40,sbalsa,11/23/20,5000
 thenewboston-python-client,Fix black formatting errors in Codebase,31,32,sbalsa,11/23/20,1000
 thenewboston-python-client,Bank - post upgrade notice,20,42,VincentHch,11/23/20,200
+Website,Added Tajik language,351,900,Surac778,11/18/20,500
+Website,Added Esperanto language,351,902,gatvay23924,11/18/20,500
+Website,Added hello world in tatari language,351,904,codemedo,11/19/20,500
+Website,Add new contributor: Payments Manager Tawanda,892,895,jamessspanggg,11/18/20,500
+Website,Add new contributor: Payments Manager Nikhil,893,894,jamessspanggg,11/18/20,500
+Website,Kotlin software developer,877,897,hasham56,11/18/20,500
+Website,Kotlin SDK member added,878,896,hasham56,11/18/20,500
+Website,Added new contributor,899,901,codemedo,11/18/20,500
+Website,Added Nyanja language,351,913,ysttt12,11/19/20,500
+Website,New Contributor,921,933,AkbarKamran,11/20/20,500
+Website,New member,351,939,aeronye,11/21/20,500
+Website,issue#909 - Long title words break the mobile design in the tasks page,909,917,mersimoski,11/19/20,1000
+Website,Fix proposal for decoupling animation and shuffling logic,890,918,lapstjup,11/21/20,5000
+Website,Adding contributor,915,930,hasham56,11/20/20,500
+Website,New Contributor,914,929,hasham56,11/20/20,500
+Website,Project proposals,934,978,buckyroberts,11/22/20,2500
+Website,Added Avatar component,869,942,thesanjeevsharma,11/22/20,2500
