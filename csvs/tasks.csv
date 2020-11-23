@@ -295,11 +295,3 @@ Website,Adding contributor,915,930,hasham56,11/20/20,500
 Website,New Contributor,914,929,hasham56,11/20/20,500
 Website,Project proposals,934,978,buckyroberts,11/22/20,2500
 Website,Added Avatar component,869,942,thesanjeevsharma,11/22/20,2500
-thenewboston-python-client,Change class methods to private,57,58,makaramkd,11/23/20,200
-thenewboston-python-client,Change class methods to private,55,56,CirXe0N,11/23/20,10000
-thenewboston-python-client,Generate documentation for the codebase using sphinx,49,56,AbhayAysola,11/23/20,5000
-thenewboston-python-client,Add typing annotations to the codebase to help developers reduce code mistakes.,39,44,makaramkd,11/23/20,6000
-thenewboston-python-client,Bank - blocks api calls,21,36,nishp77,11/23/20,5000
-thenewboston-python-client,Add Github Actions to automate testing and linting,38,40,sbalsa,11/23/20,5000
-thenewboston-python-client,Fix black formatting errors in Codebase,31,32,sbalsa,11/23/20,1000
-thenewboston-python-client,Bank - post upgrade notice,20,42,VincentHch,11/23/20,5000
