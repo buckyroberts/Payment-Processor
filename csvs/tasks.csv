@@ -1,309 +1,309 @@
 repository,title,issue_id,pr_id,completed_by,completed_date,amount_paid,bug_bounty
-Account-Manager,Add Success Toast,232,246,leelatanniru,9/3/20,2500
-Website,Design 1-2-3 Bubbles,182,,kristykjlee,9/16/20,2500
-Account-Manager,When points are sent to friend the from sender account balance should get reduced,296,,webdeveloperswj,9/17/20,5000
-Account-Manager,No notification received when points sent or received,299,,webdeveloperswj,9/17/20,5000
-Account-Manager,Accounts Semantics & Side Menu Update,301,302,angle943,9/18/20,2500
-Website,Homepage Update (1-2-3 Bubbles),184,186,buckyroberts,9/20/20,2500
-Website,Add Basic Leaderboard Page,191,186,buckyroberts,9/20/20,2500
-Website,Create Tasks and Help Pages,200,201,buckyroberts,9/20/20,2500
-Account-Manager,Should say Friend's Account instead of My Account,306,,Niekon01,9/21/20,5000
-Account-Manager,"Create new account modal button should say ""Create"" instead of ""Add""",307,,Niekon01,9/21/20,5000
-Account-Manager,Closes #306 and fixed a wording issue,306,308,Niekon01,9/21/20,5000
-Website,[iPhone SE] Page moved horizontally,220,,webdeveloperswj,9/22/20,5000
-Account-Manager,Create Jest Tests for 'formatAddressFromNode',221,313,avgust13,9/22/20,5000
-Account-Manager,Create Jest Tests for 'formatQueryParams',222,313,avgust13,9/22/20,5000
-Account-Manager,Create Jest Tests for 'formatPath' and 'formatPathFromNode',223,313,avgust13,9/22/20,5000
-Account-Manager,Create Jest Tests for 'parseAddressData',224,313,avgust13,9/22/20,5000
-Account-Manager,Create Jest Tests for 'parseQueryParams',225,313,avgust13,9/22/20,5000
-Account-Manager,Simple Text Update for Table Column Headers,269,313,avgust13,9/22/20,2500
-Website,Leaderboard and Tasks Repository Filter URLs,204,226,thesanjeevsharma,9/22/20,10000
-Account-Manager,"Create new account modal button should say ""Create"" instead of ""Add""",307,314,angle943,9/22/20,5000
-Account-Manager,Unable to switch to Bank of different network (different PV),309,319,avgust13,9/23/20,5000
-Account-Manager,"[Desktop Windows] In user friend list , user should not get added with same nickname while editing nickname",318,325,avgust13,9/24/20,5000
-Account-Manager,Connection Status Logic,276,334,avgust13,9/26/20,10000
-Account-Manager,[Windows] When user try to add already existing bank then error message displayed should be modified,329,336,avgust13,9/27/20,500
-Account-Manager,[Windows] Error message can be changed,344,345,avgust13,9/30/20,500
-Account-Manager,[Windows] User should not be able to add himself as friend,337,350,avgust13,9/30/20,5000
-Account-Manager,"[Desktop] While sending points, Point should not accept decimal values",339,352,tpikachu,9/30/20,5000
-Account-Manager,No error message displayed when already present Validator is added,351,357,avgust13,9/30/20,2500
-Account-Manager,Up/down arrows should work even after focusing on a disabled option,349,362,hawyar,10/2/20,2500
-Account-Manager,Standardize all dates in tables,348,364,buckyroberts,10/2/20,5000
-Account-Manager,"[Windows] When there is no unread notification, Mark all as read text is not needed",361,373,hawyar,10/4/20,2500
-Account-Manager,Add copy button for My Signing Key,369,374,leelatanniru,10/4/20,2500
-Account-Manager,Build a 32-bit app,366,376,tpikachu,10/4/20,5000
-Account-Manager,Add Signing Keys Update for Banks & Validators,353,379,avgust13,10/6/20,50000
-Account-Manager,Bank OVERVIEW UI update,354,379,avgust13,10/6/20,5000
-Account-Manager,"Move Daily Rate"" to separate panel""",399,401,leelatanniru,10/14/20,5000
-Account-Manager,"[Windows] When right clicked on any text under Validators, Banks, My Accounts and My Friend gives option for copy link",360,403,brian316,10/14/20,2500
-Account-Manager,Error message can be improved when user enters invalid IP Address for bank account,395,405,brian316,10/17/20,1000
-Website,"When there are more than one channel then only text should be: To apply, send us a message through any of the following channels: otherwise text should be: To apply, send us a message through the following channel:",255,264,thesanjeevsharma,10/2/20,500
-Website,Openings Page Update,273,278,thesanjeevsharma,10/10/20,10000
-Website,[All mobile devices] Page is not responsive it moves horizontally,301,306,GermaVinsmoke,10/19/20,2500
-Website,[All mobile devices] Section should be aligned inline with other section above it,305,307,GermaVinsmoke,10/19/20,1000
-Website,[All mobile devices] Page is not responsive,299,308,angle943,10/19/20,2500
-Website,[All mobile devices] Page is not responsive,300,308,angle943,10/19/20,2500
-Account-Manager,Success message coming should be aligned at center of icon aside to it,411,412,moki298,10/20/20,2500
-Website,[All mobile Devices] Page is not responsive,298,310,GermaVinsmoke,10/20/20,2500
-Website,Highlighted section should be less in height,206,290,dahelg,10/11/20,2500
-Website,[iPhone 320Px] Text goes out of section,248,289,itsnikhil,10/10/20,1000
-Website,Documentation CSS issue.,295,312,angle943,10/21/20,1000
-Website,[iPhone SE] Page moved horizontally,220,266,lapstjup,10/2/20,5000
-Website,Update social media buttons on the main marketing page,321,,kristykjlee,10/24/20,1000
-Website,FAQ page,320,,kristykjlee,10/24/20,2500
-Website,Updated Top Navigation,317,,kristykjlee,10/24/20,2500
-Website,Updated Footer,318,,kristykjlee,10/24/20,2500
-Website,Social Media page,319,,kristykjlee,10/24/20,2500
-Website,Add the functionality to use font-weight with our Inter Font,293,313,colfax23,10/26/20,10000
-Website,Update social media buttons on the main marketing page,321,323,aayushi14,10/27/20,1000
-Website,Updated Footer,318,325,thesanjeevsharma,10/27/20,2500
-Website,Update Account Manager Guide Pages,280,328,colfax23,10/27/20,1000
-Account-Manager,Add the functionality to use font-weight with our Inter Font,416,419,colfax23,10/27/20,7500
-Website,Landing Page Style Update,283,314,moki298,10/28/20,7500
-Website,FAQ page,320,338,brmendez,10/30/20,2500
-Website,Help to Social page,319,339,colfax23,10/30/20,2500
-Website,Replace Footer icons with mdi-icons,335,340,thesanjeevsharma,10/30/20,1000
-Website,Replace Homepage Social Media Hero icons to use SVG Icons,336,344,aayushi14,10/31/20,500
-Website,Landing Page V2,333,,kristykjlee,10/31/20,2500
-Website,Updated Top Navigation,317,343,angle943,10/31/20,5000
-Website,Landing Page V2,333,346,aayushi14,11/1/20,2500
-Website,Hello World in Different Languages for Marketing Site,322,350,angle943,11/1/20,500
-Website,"Put Hello World"" in your OWN language!""",351,354,dorlivniopen,11/1/20,500
-Website,no more stickies on website,357,,kristykjlee,11/1/20,500
-Website,no more stickies on website,357,358,angle943,11/1/20,500
-Website,Footer Update V2,330,359,angle943,11/1/20,500
-Website,"Put Hello World"" in your OWN language!""",351,361,aayushi14,11/1/20,500
-Website,"Put Hello World"" in your OWN language!""",351,363,moki298,11/1/20,500
-Website,Add a Q&A on how to open up a pull request,353,367,aayushi14,11/1/20,1000
-Website,"When going to `/tasks`, make it automatically default to `/tasks/All`",349,365,aayushi14,11/1/20,2000
-Website,Make the Footer's background color go all the way to the bottom,369,370,itsnikhil,11/2/20,1000
-Website,"Put Hello World"" in your OWN language!""",351,351,itsnikhil,11/2/20,500
-Website,"Put Hello World"" in your OWN language!""",351,380,xmac11,11/2/20,500
-Website,"Put Hello World"" in your OWN language!""",351,381,rizqyep,11/2/20,500
-Website,"Put Hello World"" in your OWN language!""",351,382,DucPhamTV,11/2/20,500
-Website,"Put Hello World"" in your OWN language!""",351,379,shahraizali,11/2/20,500
-Account-Manager,While Editing nickname duplicate name should not be accepted,400,397,shahraizali,10/13/20,2500
-thenewboston-python,JSONDecodeError simplejson.decoder in raw_decode,64,,shahraizali,10/16/20,5000
-Website,[iPhone5/SE] Site moves horizontally,371,384,lapstjup,11/2/20,500
-Website,Upgrade A couple of our dependency libraries,368,376,amarjeet987,11/3/20,2500
-Website,Head of Python Client Library Development,401,404,itsnikhil,11/3/20,2500
-Website,Blockchain Cryptocurrency Researcher,400,405,itsnikhil,11/3/20,2500
-Website,YouTube Educator,403,409,itsnikhil,11/3/20,2500
-Website,Head of Guerrilla Marketing,410,414,itsnikhil,11/3/20,2500
-Website,Senior DevOps Engineer,394,416,lapstjup,11/3/20,2500
-Website,Opening Updates,387,418,itsnikhil,11/3/20,1000
-Website,Remove a line in all of our job openings,395,419,itsnikhil,11/3/20,500
-Website,Junior Python (Django) Developer,398,421,itsnikhil,11/3/20,2500
-Website,Opening's starting content not in focus,417,422,lapstjup,11/3/20,500
-Website,Cloud Security Engineer,390,425,aayushi14,11/3/20,2500
-Website,Vertical scrollbar appearing in left menu,423,436,angle943,11/3/20,500
-Website,[Laptop Devices] Site is not responsive moves horizontally,366,435,Niekon01,11/3/20,1000
-Website,Overlapping of text on top of expanded navbar,437,439,angle943,11/3/20,500
-Website,Update our README.md,420,424,thesanjeevsharma,11/4/20,5000
-Website,Rename 'Points' to 'Coins',438,442,amarjeet987,11/4/20,7500
-Website,iPhone clicking on top of the iphone doesn't scroll the website up,402,443,lapstjup,11/4/20,2500
-Website,Opening Left Menu Logic,388,444,thesanjeevsharma,11/4/20,10000
-Website,iPad homepage scrolling issue,355,443,lapstjup,11/4/20,2500
-Website,"Put Hello World"" in your OWN language!""",351,457,robMakasi,11/4/20,500
-Website,"Sign In, Sign Out, Profile Page",315,,kristykjlee,11/3/20,25000
-Website,Switch thenewboston & bitcoin block on landing page,441,,kristykjlee,11/4/20,500
-Website,Donations page,440,,kristykjlee,11/4/20,5000
-Website,Donations page,440,453,angle943,11/4/20,5000
-Website,Switch thenewboston & bitcoin block on landing page,441,449,angle943,11/4/20,500
-Account-Manager,Rename 'Points' to 'Coins',422,424,thesanjeevsharma,11/4/20,5000
-Website,Front-end Responsiveness/UX expert,448,450,aayushi14,11/4/20,2500
-Website,Python / Django Developer,411,452,aayushi14,11/4/20,2500
-Account-Manager,upgrade react-scripts,423,427,amarjeet987,11/5/20,2500
-Account-Manager,Zoom function in the window tab not doing anything.,415,428,Hristijan95,11/5/20,2500
-Account-Manager,Update overall style guide/colors,55,59,Hristijan95,7/19/20,7500
-Website,Make the command 'npm run lint' run for Windows/Linux users,455,458,moki298,11/5/20,7500
-Website,"Put Hello World"" in your OWN language!""",351,466,Vangaorth,11/5/20,500
-Website,"Update Send Coin"" image""",445,467,Niekon01,11/5/20,2500
-Website,"Put Hello World"" in your OWN language!""",351,470,jagdisharma,11/5/20,500
-Website,"Put Hello World"" in your OWN language!""",351,473,ZokaSoce,11/5/20,500
-Website,"Put Hello World"" in your OWN language!""",351,474,fadyadal,11/5/20,500
-Website,"Put Hello World"" in your OWN language!""",351,475,henctv,11/5/20,500
-Website,"Put Hello World"" in your OWN language!""",351,476,cubedtear,11/5/20,500
-Website,"Put Hello World"" in your OWN language!""",351,477,Ramin-RX7,11/5/20,500
-Website,"Put Hello World"" in your OWN language!""",351,478,AntonFredrikSvensson,11/5/20,500
-Website,"Put Hello World"" in your OWN language!""",351,479,ganeshvicky,11/5/20,500
-Website,"Put Hello World"" in your OWN language!""",351,481,danielivert,11/5/20,500
-Website,"Put Hello World"" in your OWN language!""",351,483,VictorABoye,11/5/20,500
-Website,"Put Hello World"" in your OWN language!""",351,484,hLudde,11/5/20,500
-Website,"Put Hello World"" in your OWN language!""",351,485,phase7,11/5/20,500
-Website,"Put Hello World"" in your OWN language!""",351,486,JayBIOS,11/5/20,500
-Website,"Put Hello World"" in your OWN language!""",351,490,VJKLFT,11/5/20,500
-Website,Static Teams Page,503,508,buckyroberts,11/5/20,500
-Website,Task page margin,413,469,itsnikhil,11/6/20,1000
-Website,Added Hello World in Swahili,351,635,alexkimeu0,11/9/20,500
-Website,Docs need some language/grammatical fixes,619,624,sdhiaeddine,11/9/20,1000
-Website,Updated the Team page,627,639,jaelee0409,11/9/20,1000
-Website,Add hello world in javanese,351,642,jamessspanggg,11/9/20,500
-Website,Add hello world in Amharic,351,649,rasabel,11/9/20,500
-Website,Added Hello World in Punjabi,351,623,singh-sarabjeet,11/9/20,500
-Website,Fixes: #399 Added go to top button,399,600,manishram,11/9/20,1000
-Website,Added Hello World in Hungarian language.,351,597,vilihegyi,11/9/20,500
-Website,fix: Apply z-translation to make rotated chevron visible in Safari,446,504,mthomas-io,11/9/20,1000
-Website,Hellow World in Belarusian,351,652,askass,11/9/20,500
-thenewboston-python-client,Implemented some validator features,13,12,jtavak,11/8/20,10000
-thenewboston-python-client,Write and read signing key file,1,9,DucPhamTV,11/8/20,5000
-thenewboston-python-client,Write and read signing key file,2,9,DucPhamTV,11/8/20,5000
-thenewboston-python-client,Implement bank client,3,11,DucPhamTV,11/8/20,5000
-thenewboston-python-client,Implement bank client,4,11,DucPhamTV,11/8/20,5000
-thenewboston-python-client,Implement bank client,5,11,DucPhamTV,11/8/20,5000
-thenewboston-python-client,Implement bank client,6,11,DucPhamTV,11/8/20,5000
-thenewboston-python-client,Implement bank client,7,11,DucPhamTV,11/8/20,5000
-thenewboston-python-client,Implement bank client,8,11,DucPhamTV,11/8/20,5000
-Account-Manager,#435 - Fix Prefix Issue,435,445,whitelionx,11/9/20,1000
-Website,Hello world in Kannada,351,554,avinashupadhya99,11/7/20,500
-Website,Fix safari dropdown positioning,462,468,lapstjup,11/9/20,5000
-Website,hello world in chinese,351,480,alhuang2,11/6/20,500
-Website,#643 - Fix readme spelling mistakes and grammar,643,646,whitelionx,11/9/20,500
-Website,Bug/#645 team lead text alignment issue,645,647,whitelionx,11/9/20,500
-Website,Download page fix,517,489,velibor7,11/6/20,500
-Website,Docs update,643,650,Reeler,11/9/20,500
-Website,Added Hello World In Nepali,351,651,h3cksamrat,11/9/20,500
-Website,Added Yiddish Hello World,351,655,DenverCoder1,11/9/20,500
-Website,Added Urdu,351,379,shahraizali,11/2/20,500
-Website,673 - Marketing analyst opening,673,683,itsnikhil,11/10/20,1000
-Website,Bug - #659 hash link snap issue,659,661,whitelionx,11/9/20,1000
-Website,Add correct translation to Hello World in Tamil.,351,678,virtualdesigner,11/9/20,500
-Website,added hello world in odia,351,682,mprateek14,11/10/20,500
-Website,Added Hello World in isiNdebele,351,691,cebisom,11/10/20,500
-Website,Added Hello World in Tswana,351,687,kagisojamesthomba,11/10/20,500
-Website,Added Hello World in Malay Language,351,567,jonathanlee06,11/11/20,500
-Website,Add Romanian Fix missing space,351,599,ionutzaharia,11/8/20,500
-Website,Add Serbian language,351,684,nberic,11/10/20,500
-Website,Added Hello World in Assamese,351,701,ProdexOne,11/11/20,500
-Website,Hello world in Frisian,351,708,RoyVoetman,11/11/20,500
-Website,Improve Tamil translation of Hello World,351,709,FaiyazMdAbdul,11/11/20,500
-Website,added hello world for Armenian language,351,711,hienqn,11/11/20,500
-Website,Added Afrikaans language,351,713,MirkoHotsHot,11/11/20,500
-Website,added hello world in Kyrgyz language,351,721,zalkar-z,11/11/20,500
-Website,Pashto language added,351,510,naveedahmad99,11/7/20,500
-Website,Hello world in Japanese,351,511,sarveshkolte,11/7/20,500
-Website,Bosnian hello world,351,514,whitelionx,11/7/20,500
-Website,Hello word in lingala,351,516,donmbelembe,11/7/20,500
-Website,Hello World in Serbian,351,526,lukas-kasticky,11/7/20,500
-Website,hello world in turkish (#351),351,528,xZliman,11/7/20,500
-Website,Adding Hello World in Tagalog | Filipino,351,531,wilsongayo,11/7/20,500
-Website,Adding Thai version of Hello world,351,535,reeveng,11/7/20,500
-Website,#351 - Hello world in Estonian,351,538,zinoadidi,11/7/20,500
-Website,Hello World in Albanian,351,539,DinShpati,11/7/20,500
+Account-Manager,Add Success Toast,232,246,leelatanniru,9/3/20,2500,
+Website,Design 1-2-3 Bubbles,182,,kristykjlee,9/16/20,2500,
+Account-Manager,When points are sent to friend the from sender account balance should get reduced,296,,webdeveloperswj,9/17/20,5000,
+Account-Manager,No notification received when points sent or received,299,,webdeveloperswj,9/17/20,5000,
+Account-Manager,Accounts Semantics & Side Menu Update,301,302,angle943,9/18/20,2500,
+Website,Homepage Update (1-2-3 Bubbles),184,186,buckyroberts,9/20/20,2500,
+Website,Add Basic Leaderboard Page,191,186,buckyroberts,9/20/20,2500,
+Website,Create Tasks and Help Pages,200,201,buckyroberts,9/20/20,2500,
+Account-Manager,Should say Friend's Account instead of My Account,306,,Niekon01,9/21/20,5000,
+Account-Manager,"Create new account modal button should say ""Create"" instead of ""Add""",307,,Niekon01,9/21/20,5000,
+Account-Manager,Closes #306 and fixed a wording issue,306,308,Niekon01,9/21/20,5000,
+Website,[iPhone SE] Page moved horizontally,220,,webdeveloperswj,9/22/20,5000,
+Account-Manager,Create Jest Tests for 'formatAddressFromNode',221,313,avgust13,9/22/20,5000,
+Account-Manager,Create Jest Tests for 'formatQueryParams',222,313,avgust13,9/22/20,5000,
+Account-Manager,Create Jest Tests for 'formatPath' and 'formatPathFromNode',223,313,avgust13,9/22/20,5000,
+Account-Manager,Create Jest Tests for 'parseAddressData',224,313,avgust13,9/22/20,5000,
+Account-Manager,Create Jest Tests for 'parseQueryParams',225,313,avgust13,9/22/20,5000,
+Account-Manager,Simple Text Update for Table Column Headers,269,313,avgust13,9/22/20,2500,
+Website,Leaderboard and Tasks Repository Filter URLs,204,226,thesanjeevsharma,9/22/20,10000,
+Account-Manager,"Create new account modal button should say ""Create"" instead of ""Add""",307,314,angle943,9/22/20,5000,
+Account-Manager,Unable to switch to Bank of different network (different PV),309,319,avgust13,9/23/20,5000,
+Account-Manager,"[Desktop Windows] In user friend list , user should not get added with same nickname while editing nickname",318,325,avgust13,9/24/20,5000,
+Account-Manager,Connection Status Logic,276,334,avgust13,9/26/20,10000,
+Account-Manager,[Windows] When user try to add already existing bank then error message displayed should be modified,329,336,avgust13,9/27/20,500,
+Account-Manager,[Windows] Error message can be changed,344,345,avgust13,9/30/20,500,
+Account-Manager,[Windows] User should not be able to add himself as friend,337,350,avgust13,9/30/20,5000,
+Account-Manager,"[Desktop] While sending points, Point should not accept decimal values",339,352,tpikachu,9/30/20,5000,
+Account-Manager,No error message displayed when already present Validator is added,351,357,avgust13,9/30/20,2500,
+Account-Manager,Up/down arrows should work even after focusing on a disabled option,349,362,hawyar,10/2/20,2500,
+Account-Manager,Standardize all dates in tables,348,364,buckyroberts,10/2/20,5000,
+Account-Manager,"[Windows] When there is no unread notification, Mark all as read text is not needed",361,373,hawyar,10/4/20,2500,
+Account-Manager,Add copy button for My Signing Key,369,374,leelatanniru,10/4/20,2500,
+Account-Manager,Build a 32-bit app,366,376,tpikachu,10/4/20,5000,
+Account-Manager,Add Signing Keys Update for Banks & Validators,353,379,avgust13,10/6/20,50000,
+Account-Manager,Bank OVERVIEW UI update,354,379,avgust13,10/6/20,5000,
+Account-Manager,"Move Daily Rate"" to separate panel""",399,401,leelatanniru,10/14/20,5000,
+Account-Manager,"[Windows] When right clicked on any text under Validators, Banks, My Accounts and My Friend gives option for copy link",360,403,brian316,10/14/20,2500,
+Account-Manager,Error message can be improved when user enters invalid IP Address for bank account,395,405,brian316,10/17/20,1000,
+Website,"When there are more than one channel then only text should be: To apply, send us a message through any of the following channels: otherwise text should be: To apply, send us a message through the following channel:",255,264,thesanjeevsharma,10/2/20,500,
+Website,Openings Page Update,273,278,thesanjeevsharma,10/10/20,10000,
+Website,[All mobile devices] Page is not responsive it moves horizontally,301,306,GermaVinsmoke,10/19/20,2500,
+Website,[All mobile devices] Section should be aligned inline with other section above it,305,307,GermaVinsmoke,10/19/20,1000,
+Website,[All mobile devices] Page is not responsive,299,308,angle943,10/19/20,2500,
+Website,[All mobile devices] Page is not responsive,300,308,angle943,10/19/20,2500,
+Account-Manager,Success message coming should be aligned at center of icon aside to it,411,412,moki298,10/20/20,2500,
+Website,[All mobile Devices] Page is not responsive,298,310,GermaVinsmoke,10/20/20,2500,
+Website,Highlighted section should be less in height,206,290,dahelg,10/11/20,2500,
+Website,[iPhone 320Px] Text goes out of section,248,289,itsnikhil,10/10/20,1000,
+Website,Documentation CSS issue.,295,312,angle943,10/21/20,1000,
+Website,[iPhone SE] Page moved horizontally,220,266,lapstjup,10/2/20,5000,
+Website,Update social media buttons on the main marketing page,321,,kristykjlee,10/24/20,1000,
+Website,FAQ page,320,,kristykjlee,10/24/20,2500,
+Website,Updated Top Navigation,317,,kristykjlee,10/24/20,2500,
+Website,Updated Footer,318,,kristykjlee,10/24/20,2500,
+Website,Social Media page,319,,kristykjlee,10/24/20,2500,
+Website,Add the functionality to use font-weight with our Inter Font,293,313,colfax23,10/26/20,10000,
+Website,Update social media buttons on the main marketing page,321,323,aayushi14,10/27/20,1000,
+Website,Updated Footer,318,325,thesanjeevsharma,10/27/20,2500,
+Website,Update Account Manager Guide Pages,280,328,colfax23,10/27/20,1000,
+Account-Manager,Add the functionality to use font-weight with our Inter Font,416,419,colfax23,10/27/20,7500,
+Website,Landing Page Style Update,283,314,moki298,10/28/20,7500,
+Website,FAQ page,320,338,brmendez,10/30/20,2500,
+Website,Help to Social page,319,339,colfax23,10/30/20,2500,
+Website,Replace Footer icons with mdi-icons,335,340,thesanjeevsharma,10/30/20,1000,
+Website,Replace Homepage Social Media Hero icons to use SVG Icons,336,344,aayushi14,10/31/20,500,
+Website,Landing Page V2,333,,kristykjlee,10/31/20,2500,
+Website,Updated Top Navigation,317,343,angle943,10/31/20,5000,
+Website,Landing Page V2,333,346,aayushi14,11/1/20,2500,
+Website,Hello World in Different Languages for Marketing Site,322,350,angle943,11/1/20,500,
+Website,"Put Hello World"" in your OWN language!""",351,354,dorlivniopen,11/1/20,500,
+Website,no more stickies on website,357,,kristykjlee,11/1/20,500,
+Website,no more stickies on website,357,358,angle943,11/1/20,500,
+Website,Footer Update V2,330,359,angle943,11/1/20,500,
+Website,"Put Hello World"" in your OWN language!""",351,361,aayushi14,11/1/20,500,
+Website,"Put Hello World"" in your OWN language!""",351,363,moki298,11/1/20,500,
+Website,Add a Q&A on how to open up a pull request,353,367,aayushi14,11/1/20,1000,
+Website,"When going to `/tasks`, make it automatically default to `/tasks/All`",349,365,aayushi14,11/1/20,2000,
+Website,Make the Footer's background color go all the way to the bottom,369,370,itsnikhil,11/2/20,1000,
+Website,"Put Hello World"" in your OWN language!""",351,351,itsnikhil,11/2/20,500,
+Website,"Put Hello World"" in your OWN language!""",351,380,xmac11,11/2/20,500,
+Website,"Put Hello World"" in your OWN language!""",351,381,rizqyep,11/2/20,500,
+Website,"Put Hello World"" in your OWN language!""",351,382,DucPhamTV,11/2/20,500,
+Website,"Put Hello World"" in your OWN language!""",351,379,shahraizali,11/2/20,500,
+Account-Manager,While Editing nickname duplicate name should not be accepted,400,397,shahraizali,10/13/20,2500,
+thenewboston-python,JSONDecodeError simplejson.decoder in raw_decode,64,,shahraizali,10/16/20,5000,
+Website,[iPhone5/SE] Site moves horizontally,371,384,lapstjup,11/2/20,500,
+Website,Upgrade A couple of our dependency libraries,368,376,amarjeet987,11/3/20,2500,
+Website,Head of Python Client Library Development,401,404,itsnikhil,11/3/20,2500,
+Website,Blockchain Cryptocurrency Researcher,400,405,itsnikhil,11/3/20,2500,
+Website,YouTube Educator,403,409,itsnikhil,11/3/20,2500,
+Website,Head of Guerrilla Marketing,410,414,itsnikhil,11/3/20,2500,
+Website,Senior DevOps Engineer,394,416,lapstjup,11/3/20,2500,
+Website,Opening Updates,387,418,itsnikhil,11/3/20,1000,
+Website,Remove a line in all of our job openings,395,419,itsnikhil,11/3/20,500,
+Website,Junior Python (Django) Developer,398,421,itsnikhil,11/3/20,2500,
+Website,Opening's starting content not in focus,417,422,lapstjup,11/3/20,500,
+Website,Cloud Security Engineer,390,425,aayushi14,11/3/20,2500,
+Website,Vertical scrollbar appearing in left menu,423,436,angle943,11/3/20,500,
+Website,[Laptop Devices] Site is not responsive moves horizontally,366,435,Niekon01,11/3/20,1000,
+Website,Overlapping of text on top of expanded navbar,437,439,angle943,11/3/20,500,
+Website,Update our README.md,420,424,thesanjeevsharma,11/4/20,5000,
+Website,Rename 'Points' to 'Coins',438,442,amarjeet987,11/4/20,7500,
+Website,iPhone clicking on top of the iphone doesn't scroll the website up,402,443,lapstjup,11/4/20,2500,
+Website,Opening Left Menu Logic,388,444,thesanjeevsharma,11/4/20,10000,
+Website,iPad homepage scrolling issue,355,443,lapstjup,11/4/20,2500,
+Website,"Put Hello World"" in your OWN language!""",351,457,robMakasi,11/4/20,500,
+Website,"Sign In, Sign Out, Profile Page",315,,kristykjlee,11/3/20,25000,
+Website,Switch thenewboston & bitcoin block on landing page,441,,kristykjlee,11/4/20,500,
+Website,Donations page,440,,kristykjlee,11/4/20,5000,
+Website,Donations page,440,453,angle943,11/4/20,5000,
+Website,Switch thenewboston & bitcoin block on landing page,441,449,angle943,11/4/20,500,
+Account-Manager,Rename 'Points' to 'Coins',422,424,thesanjeevsharma,11/4/20,5000,
+Website,Front-end Responsiveness/UX expert,448,450,aayushi14,11/4/20,2500,
+Website,Python / Django Developer,411,452,aayushi14,11/4/20,2500,
+Account-Manager,upgrade react-scripts,423,427,amarjeet987,11/5/20,2500,
+Account-Manager,Zoom function in the window tab not doing anything.,415,428,Hristijan95,11/5/20,2500,
+Account-Manager,Update overall style guide/colors,55,59,Hristijan95,7/19/20,7500,
+Website,Make the command 'npm run lint' run for Windows/Linux users,455,458,moki298,11/5/20,7500,
+Website,"Put Hello World"" in your OWN language!""",351,466,Vangaorth,11/5/20,500,
+Website,"Update Send Coin"" image""",445,467,Niekon01,11/5/20,2500,
+Website,"Put Hello World"" in your OWN language!""",351,470,jagdisharma,11/5/20,500,
+Website,"Put Hello World"" in your OWN language!""",351,473,ZokaSoce,11/5/20,500,
+Website,"Put Hello World"" in your OWN language!""",351,474,fadyadal,11/5/20,500,
+Website,"Put Hello World"" in your OWN language!""",351,475,henctv,11/5/20,500,
+Website,"Put Hello World"" in your OWN language!""",351,476,cubedtear,11/5/20,500,
+Website,"Put Hello World"" in your OWN language!""",351,477,Ramin-RX7,11/5/20,500,
+Website,"Put Hello World"" in your OWN language!""",351,478,AntonFredrikSvensson,11/5/20,500,
+Website,"Put Hello World"" in your OWN language!""",351,479,ganeshvicky,11/5/20,500,
+Website,"Put Hello World"" in your OWN language!""",351,481,danielivert,11/5/20,500,
+Website,"Put Hello World"" in your OWN language!""",351,483,VictorABoye,11/5/20,500,
+Website,"Put Hello World"" in your OWN language!""",351,484,hLudde,11/5/20,500,
+Website,"Put Hello World"" in your OWN language!""",351,485,phase7,11/5/20,500,
+Website,"Put Hello World"" in your OWN language!""",351,486,JayBIOS,11/5/20,500,
+Website,"Put Hello World"" in your OWN language!""",351,490,VJKLFT,11/5/20,500,
+Website,Static Teams Page,503,508,buckyroberts,11/5/20,500,
+Website,Task page margin,413,469,itsnikhil,11/6/20,1000,
+Website,Added Hello World in Swahili,351,635,alexkimeu0,11/9/20,500,
+Website,Docs need some language/grammatical fixes,619,624,sdhiaeddine,11/9/20,1000,
+Website,Updated the Team page,627,639,jaelee0409,11/9/20,1000,
+Website,Add hello world in javanese,351,642,jamessspanggg,11/9/20,500,
+Website,Add hello world in Amharic,351,649,rasabel,11/9/20,500,
+Website,Added Hello World in Punjabi,351,623,singh-sarabjeet,11/9/20,500,
+Website,Fixes: #399 Added go to top button,399,600,manishram,11/9/20,1000,
+Website,Added Hello World in Hungarian language.,351,597,vilihegyi,11/9/20,500,
+Website,fix: Apply z-translation to make rotated chevron visible in Safari,446,504,mthomas-io,11/9/20,1000,
+Website,Hellow World in Belarusian,351,652,askass,11/9/20,500,
+thenewboston-python-client,Implemented some validator features,13,12,jtavak,11/8/20,10000,
+thenewboston-python-client,Write and read signing key file,1,9,DucPhamTV,11/8/20,5000,
+thenewboston-python-client,Write and read signing key file,2,9,DucPhamTV,11/8/20,5000,
+thenewboston-python-client,Implement bank client,3,11,DucPhamTV,11/8/20,5000,
+thenewboston-python-client,Implement bank client,4,11,DucPhamTV,11/8/20,5000,
+thenewboston-python-client,Implement bank client,5,11,DucPhamTV,11/8/20,5000,
+thenewboston-python-client,Implement bank client,6,11,DucPhamTV,11/8/20,5000,
+thenewboston-python-client,Implement bank client,7,11,DucPhamTV,11/8/20,5000,
+thenewboston-python-client,Implement bank client,8,11,DucPhamTV,11/8/20,5000,
+Account-Manager,#435 - Fix Prefix Issue,435,445,whitelionx,11/9/20,1000,
+Website,Hello world in Kannada,351,554,avinashupadhya99,11/7/20,500,
+Website,Fix safari dropdown positioning,462,468,lapstjup,11/9/20,5000,
+Website,hello world in chinese,351,480,alhuang2,11/6/20,500,
+Website,#643 - Fix readme spelling mistakes and grammar,643,646,whitelionx,11/9/20,500,
+Website,Bug/#645 team lead text alignment issue,645,647,whitelionx,11/9/20,500,
+Website,Download page fix,517,489,velibor7,11/6/20,500,
+Website,Docs update,643,650,Reeler,11/9/20,500,
+Website,Added Hello World In Nepali,351,651,h3cksamrat,11/9/20,500,
+Website,Added Yiddish Hello World,351,655,DenverCoder1,11/9/20,500,
+Website,Added Urdu,351,379,shahraizali,11/2/20,500,
+Website,673 - Marketing analyst opening,673,683,itsnikhil,11/10/20,1000,
+Website,Bug - #659 hash link snap issue,659,661,whitelionx,11/9/20,1000,
+Website,Add correct translation to Hello World in Tamil.,351,678,virtualdesigner,11/9/20,500,
+Website,added hello world in odia,351,682,mprateek14,11/10/20,500,
+Website,Added Hello World in isiNdebele,351,691,cebisom,11/10/20,500,
+Website,Added Hello World in Tswana,351,687,kagisojamesthomba,11/10/20,500,
+Website,Added Hello World in Malay Language,351,567,jonathanlee06,11/11/20,500,
+Website,Add Romanian Fix missing space,351,599,ionutzaharia,11/8/20,500,
+Website,Add Serbian language,351,684,nberic,11/10/20,500,
+Website,Added Hello World in Assamese,351,701,ProdexOne,11/11/20,500,
+Website,Hello world in Frisian,351,708,RoyVoetman,11/11/20,500,
+Website,Improve Tamil translation of Hello World,351,709,FaiyazMdAbdul,11/11/20,500,
+Website,added hello world for Armenian language,351,711,hienqn,11/11/20,500,
+Website,Added Afrikaans language,351,713,MirkoHotsHot,11/11/20,500,
+Website,added hello world in Kyrgyz language,351,721,zalkar-z,11/11/20,500,
+Website,Pashto language added,351,510,naveedahmad99,11/7/20,500,
+Website,Hello world in Japanese,351,511,sarveshkolte,11/7/20,500,
+Website,Bosnian hello world,351,514,whitelionx,11/7/20,500,
+Website,Hello word in lingala,351,516,donmbelembe,11/7/20,500,
+Website,Hello World in Serbian,351,526,lukas-kasticky,11/7/20,500,
+Website,hello world in turkish (#351),351,528,xZliman,11/7/20,500,
+Website,Adding Hello World in Tagalog | Filipino,351,531,wilsongayo,11/7/20,500,
+Website,Adding Thai version of Hello world,351,535,reeveng,11/7/20,500,
+Website,#351 - Hello world in Estonian,351,538,zinoadidi,11/7/20,500,
+Website,Hello World in Albanian,351,539,DinShpati,11/7/20,500,
 Website,Hello World in Kiswahili,351,545,kenmusima,11/7/20,500
-Website,Added marathi translation for Hello World,351,546,shcul333,11/7/20,500
-Website,Add Hello World in Kurdish,351,548,A-A-2,11/7/20,500
-Website,#351 Added Hello World in Lithuanian language,351,555,JonasPik,11/7/20,500
-Website,added Latvian languag,351,557,Zims,11/8/20,500
-Website,Update hello-world.ts,351,562,Get-ADUser,11/7/20,500
-Website,Added Hello World in sanskrit (india),351,571,manishram,11/7/20,500
-Website,Added Hello World in Sindhi Language,351,575,officialabdulrehman,11/7/20,500
-Website,#581 - Fix no margin issue,589,581,whitelionx,11/7/20,500
-Website,Added Hello World in Malayalam,351,596,rabeeh-ta,11/7/20,500
-Website,Added Hello World in Kikuyu account number: 3972dfcfb9fd488cf90644b599558d3e265bdb883686933f62e8450aaee974b1,351,609,alexkimeu0,11/8/20,500
-Website,Fixed a typo in Albanian language Hello World,351,690,Benett1,11/12/20,500
-Website,Adding Hello World in Irish/Gaelic language,351,720,sbalasa,11/12/20,500
-Website,Added Hello World in Bihari languages (Bhojpuri),351,725,ProdexOne,11/12/20,500
-Website,added Hello World in bulgarian,351,727,ddyakov,11/12/20,500
-Website,zulu hello world,351,735,Tobel158,11/12/20,500
-Website,Added Luxembourgish language,351,736,VincentHch,11/12/20,500
-Website,:globe_with_meridians: Added Hello World in Uzbek language,351,740,sardorml,11/12/20,500
-Website,Links in the navbar cannot be opened in a new tab,752,753,BlueBlazin,11/12/20,500
-Website,Fixes: #523 Assets page,523,641,manishram,11/12/20,7500
-Website,Openings - Hiring Freeze #738 Fixed!,738,739,Akshit1311,11/12/20,1000
-Website,Prevent content jumping in leaderboard page,703,704,jamessspanggg,11/11/20,1000
-Website,Fix Social page heading and links alignment,686,716,cfviotti,11/11/20,500
-Website,[#675] Fix hash link in documentations page,675,676,jamessspanggg,11/10/20,500
-Website,[#679] Fix leaderboard drop down,679,680,jamessspanggg,11/10/20,1000
-Website,added @mersimoski to front-end team,699,700,thesanjeevsharma,11/10/20,500
-Website,updated engineering openings,706,707,thesanjeevsharma,11/10/20,500
-Website,Fixed typos in FAQ page,705,653,DenverCoder1,11/10/20,500
-Website,Fixes #389: Download page needs design update for iPhone 5,389,560,nrednav,11/11/20,2000
-Website,feat: Add contributor to the team of front-end developers,750,755,subhamg,11/12/20,500
-Website,Feature/Account manager docs,761,737,whitelionx,11/12/20,1000
-Website,fixed typo in react/jsx style guide,756,759,ddyakov,11/13/20,500
-Website,Added hello world in khmer language,351,742,sotheavuthnguon,11/12/20,500
-Website,Added Czech language,351,762,The-Veil,11/12/20,500
-Website,Add correct hello-world in Slovak,351,685,danieloravec,11/12/20,500
-Website,Added Hello world in Catalan,351,766,Rosendo6,11/13/20,500
-Website,Changed hello in telugu to real form of hello i.e namaste,351,677,suhailpappu,11/13/20,500
-Website,Fix code highlighting in documentation,733,734,jamessspanggg,11/13/20,1000
-Website,763- fixed incorrect text on Add Friends page,763,764,aayushi14,11/13/20,500
-Website,Hello world in Polish,351,765,P-Sklodowska,11/14/20,500
-Website,Added Maltese language.,351,771,laughablehaha,11/14/20,500
-Website,New Member Added Issue 773,773,777,LunarDeveloper,11/14/20,500
-Website,New contributor added,772,775,hasham56,11/14/20,500
-Website,Add new contributor to the Back-End Developers,745,746,manishram,11/14/20,500
-Website,[#743] Add new front end contributor,743,744,jamessspanggg,11/14/20,500
-Website,Change sorting of members to be based on contributorId,747,788,jamessspanggg,11/14/20,500
-Website,improved correctness and clarity in itroduction page text,800,801,ddyakov,11/14/20,500
-Website,New Contributer #782,782,784,Akshit1311,11/13/20,500
-Website,fixes #787,787,794,YashovardhanSingh,11/13/20,500
-Website,New Contributor Added,793,797,hasham56,11/13/20,500
-Website,donate-card-margin fixes,776,817,rahulkiller104,11/14/20,500
-marketing,LinkedIn Banner,6,,SOHDA31,11/15/20,7500
-Website,Hello world in pali,351,824,KingChampion36,11/15/20,500
-Website,Hello world in Akan,351,692,fosteradorkor,11/15/20,500
-Website,Add Hello World Twi (Akan),351,820,Weav3r,11/15/20,500
-Website,Update of hello-world.ts and a suggestion.,351,698,phoenixArtwork,11/15/20,500
-Website,fix: long-press TopNav links on Android,812,813,PatNeedham,11/15/20,500
-Website,Fix/double focus,830,831,nparoski,11/15/20,1000
-Website,Fixes Left Navigation Links,564,803,manishram,11/15/20,1000
-Website,👌auto select download tab based on user system,819,805,akamfoad,11/15/20,1000
-Website,Complete title of recent task on hover,815,816,manishram,11/15/20,500
-Website,Enforce width of task sections in leaderboard,839,840,jamessspanggg,11/15/20,2000
-Website,Added contributor for issue #821,821,823,KingChampion36,11/15/20,500
-Website,[FAQ] Fix console error in development mode,845,846,jamessspanggg,11/15/20,500
-Website,Page Title Fix: Assets and Openings page,854,855,manishram,11/16/20,500
-Website,Remove empty new line in scripts within deployment guides,858,859,jamessspanggg,11/16/20,500
-Website,Added Hello World in Aragonese,351,861,pabloqb2000,11/16/20,500
-Website,Added Burmese language,351,860,dark121211,11/16/20,500
-Website,Update hello-world.ts,351,874,siemen-subbaiah,11/17/20,500
-Website,Added Hello World in Welsh language,351,868,melsh123221,11/16/20,500
-Website,Added 'Hello world' in Georgian,351,867,Hot-Shot75,11/16/20,500
-Website,Added 'Hello World' in Latin.,351,862,briankinane,11/16/20,500
-Website,Fixed typo in the documentation account: 3972dfcfb9fd488cf90644b599558d3e265bdb883686933f62e8450aaee974b1,889,757,alexkimeu0,11/17/20,500
-Website,Utilise react-helmet-async instead of react-helmet,856,857,jamessspanggg,11/16/20,1000
-Website,Fix console warnings,863,865,jamessspanggg,11/16/20,1000
-Website,Remove package-lock.json and update npm commands to yarn,828,829,ffpetrovic,11/16/20,500
-Website,New contributor added for front end (#866),866,871,KingChampion36,11/16/20,500
-Website,Add new user,872,873,VincentHch,11/16/20,500
-Website,added Kotlin-SDK to tasks,876,882,thesanjeevsharma,11/17/20,500
-Website,Fixes #550 - Added Sorting in Tasks,550,616,kush-daga,11/16/20,7500
-thenewboston-python-client,Bank - banks api calls,15,24,jtavak,11/17/20,5000
-Website,Added Maori language,351,884,Tuhinga,11/18/20,500
-Website,'Hello World' in Haitian Creole,351,891,lucedawg,11/18/20,500
-thenewboston-python-client,Bank - get bank config,16,34,VincentHch,11/17/20,5000
-thenewboston-python-client,Bank - patch api call for validators path,22,23,velibor7,11/17/20,5000
-thenewboston-python-client,Bank - validator confirmation services api calls,19,37,CirXe0N,11/17/20,5000
-thenewboston-python-client,Bank - confirmation blocks api calls,17,35,VincentHch,11/17/20,5000
-thenewboston-python-client,Bank - post invalid block to bank,18,26,xmac11,11/17/20,5000
-thenewboston-python-client,Add Github Actions to automate testing and linting,38,40,sbalasa,11/17/20,5000
-thenewboston-python-client,Change class methods to private,57,58,makaramkd,11/23/20,200
-thenewboston-python-client,Change class methods to private,55,56,CirXe0N,11/23/20,10000
-thenewboston-python-client,Generate documentation for the codebase using sphinx,49,56,AbhayAysola,11/23/20,5000
-thenewboston-python-client,Add typing annotations to the codebase to help developers reduce code mistakes.,39,44,makaramkd,11/23/20,6000
-thenewboston-python-client,Bank - blocks api calls,21,36,nishp77,11/23/20,5000
-thenewboston-python-client,Add Github Actions to automate testing and linting,38,40,sbalsa,11/23/20,5000
-thenewboston-python-client,Fix black formatting errors in Codebase,31,32,sbalsa,11/23/20,1000
-thenewboston-python-client,Bank - post upgrade notice,20,42,VincentHch,11/23/20,200
-Website,Added Tajik language,351,900,Surac778,11/18/20,500
-Website,Added Esperanto language,351,902,gatvay23924,11/18/20,500
-Website,Added hello world in tatari language,351,904,codemedo,11/19/20,500
-Website,Add new contributor: Payments Manager Tawanda,892,895,jamessspanggg,11/18/20,500
-Website,Add new contributor: Payments Manager Nikhil,893,894,jamessspanggg,11/18/20,500
-Website,Kotlin software developer,877,897,hasham56,11/18/20,500
-Website,Kotlin SDK member added,878,896,hasham56,11/18/20,500
-Website,Added new contributor,899,901,codemedo,11/18/20,500
-Website,Added Nyanja language,351,913,ysttt12,11/19/20,500
-Website,New Contributor,921,933,AkbarKamran,11/20/20,500
-Website,New member,351,939,aeronye,11/21/20,500
-Website,issue#909 - Long title words break the mobile design in the tasks page,909,917,mersimoski,11/19/20,1000
-Website,Fix proposal for decoupling animation and shuffling logic,890,918,lapstjup,11/21/20,5000
-Website,Adding contributor,915,930,hasham56,11/20/20,500
-Website,New Contributor,914,929,hasham56,11/20/20,500
-Website,Project proposals,934,978,buckyroberts,11/22/20,2500
-Website,Added Avatar component,869,942,thesanjeevsharma,11/22/20,2500
-Website,Signup modal,461,585,amarjeet987,11/24/20,25000
-Website,feat: GitHub OAuth POC,364,509,thesanjeevsharma,11/24/20,7500
-Website,Hello world Swedish correction,351,987,Godnoken,11/23/20,500
+Website,Added marathi translation for Hello World,351,546,shcul333,11/7/20,500,
+Website,Add Hello World in Kurdish,351,548,A-A-2,11/7/20,500,
+Website,#351 Added Hello World in Lithuanian language,351,555,JonasPik,11/7/20,500,
+Website,added Latvian languag,351,557,Zims,11/8/20,500,
+Website,Update hello-world.ts,351,562,Get-ADUser,11/7/20,500,
+Website,Added Hello World in sanskrit (india),351,571,manishram,11/7/20,500,
+Website,Added Hello World in Sindhi Language,351,575,officialabdulrehman,11/7/20,500,
+Website,#581 - Fix no margin issue,589,581,whitelionx,11/7/20,500,
+Website,Added Hello World in Malayalam,351,596,rabeeh-ta,11/7/20,500,
+Website,Added Hello World in Kikuyu account number: 3972dfcfb9fd488cf90644b599558d3e265bdb883686933f62e8450aaee974b1,351,609,alexkimeu0,11/8/20,500,
+Website,Fixed a typo in Albanian language Hello World,351,690,Benett1,11/12/20,500,
+Website,Adding Hello World in Irish/Gaelic language,351,720,sbalasa,11/12/20,500,
+Website,Added Hello World in Bihari languages (Bhojpuri),351,725,ProdexOne,11/12/20,500,
+Website,added Hello World in bulgarian,351,727,ddyakov,11/12/20,500,
+Website,zulu hello world,351,735,Tobel158,11/12/20,500,
+Website,Added Luxembourgish language,351,736,VincentHch,11/12/20,500,
+Website,:globe_with_meridians: Added Hello World in Uzbek language,351,740,sardorml,11/12/20,500,
+Website,Links in the navbar cannot be opened in a new tab,752,753,BlueBlazin,11/12/20,500,
+Website,Fixes: #523 Assets page,523,641,manishram,11/12/20,7500,
+Website,Openings - Hiring Freeze #738 Fixed!,738,739,Akshit1311,11/12/20,1000,
+Website,Prevent content jumping in leaderboard page,703,704,jamessspanggg,11/11/20,1000,
+Website,Fix Social page heading and links alignment,686,716,cfviotti,11/11/20,500,
+Website,[#675] Fix hash link in documentations page,675,676,jamessspanggg,11/10/20,500,
+Website,[#679] Fix leaderboard drop down,679,680,jamessspanggg,11/10/20,1000,
+Website,added @mersimoski to front-end team,699,700,thesanjeevsharma,11/10/20,500,
+Website,updated engineering openings,706,707,thesanjeevsharma,11/10/20,500,
+Website,Fixed typos in FAQ page,705,653,DenverCoder1,11/10/20,500,
+Website,Fixes #389: Download page needs design update for iPhone 5,389,560,nrednav,11/11/20,2000,
+Website,feat: Add contributor to the team of front-end developers,750,755,subhamg,11/12/20,500,
+Website,Feature/Account manager docs,761,737,whitelionx,11/12/20,1000,
+Website,fixed typo in react/jsx style guide,756,759,ddyakov,11/13/20,500,
+Website,Added hello world in khmer language,351,742,sotheavuthnguon,11/12/20,500,
+Website,Added Czech language,351,762,The-Veil,11/12/20,500,
+Website,Add correct hello-world in Slovak,351,685,danieloravec,11/12/20,500,
+Website,Added Hello world in Catalan,351,766,Rosendo6,11/13/20,500,
+Website,Changed hello in telugu to real form of hello i.e namaste,351,677,suhailpappu,11/13/20,500,
+Website,Fix code highlighting in documentation,733,734,jamessspanggg,11/13/20,1000,
+Website,763- fixed incorrect text on Add Friends page,763,764,aayushi14,11/13/20,500,
+Website,Hello world in Polish,351,765,P-Sklodowska,11/14/20,500,
+Website,Added Maltese language.,351,771,laughablehaha,11/14/20,500,
+Website,New Member Added Issue 773,773,777,LunarDeveloper,11/14/20,500,
+Website,New contributor added,772,775,hasham56,11/14/20,500,
+Website,Add new contributor to the Back-End Developers,745,746,manishram,11/14/20,500,
+Website,[#743] Add new front end contributor,743,744,jamessspanggg,11/14/20,500,
+Website,Change sorting of members to be based on contributorId,747,788,jamessspanggg,11/14/20,500,
+Website,improved correctness and clarity in itroduction page text,800,801,ddyakov,11/14/20,500,
+Website,New Contributer #782,782,784,Akshit1311,11/13/20,500,
+Website,fixes #787,787,794,YashovardhanSingh,11/13/20,500,
+Website,New Contributor Added,793,797,hasham56,11/13/20,500,
+Website,donate-card-margin fixes,776,817,rahulkiller104,11/14/20,500,
+marketing,LinkedIn Banner,6,,SOHDA31,11/15/20,7500,
+Website,Hello world in pali,351,824,KingChampion36,11/15/20,500,
+Website,Hello world in Akan,351,692,fosteradorkor,11/15/20,500,
+Website,Add Hello World Twi (Akan),351,820,Weav3r,11/15/20,500,
+Website,Update of hello-world.ts and a suggestion.,351,698,phoenixArtwork,11/15/20,500,
+Website,fix: long-press TopNav links on Android,812,813,PatNeedham,11/15/20,500,
+Website,Fix/double focus,830,831,nparoski,11/15/20,1000,
+Website,Fixes Left Navigation Links,564,803,manishram,11/15/20,1000,
+Website,👌auto select download tab based on user system,819,805,akamfoad,11/15/20,1000,
+Website,Complete title of recent task on hover,815,816,manishram,11/15/20,500,
+Website,Enforce width of task sections in leaderboard,839,840,jamessspanggg,11/15/20,2000,
+Website,Added contributor for issue #821,821,823,KingChampion36,11/15/20,500,
+Website,[FAQ] Fix console error in development mode,845,846,jamessspanggg,11/15/20,500,
+Website,Page Title Fix: Assets and Openings page,854,855,manishram,11/16/20,500,
+Website,Remove empty new line in scripts within deployment guides,858,859,jamessspanggg,11/16/20,500,
+Website,Added Hello World in Aragonese,351,861,pabloqb2000,11/16/20,500,
+Website,Added Burmese language,351,860,dark121211,11/16/20,500,
+Website,Update hello-world.ts,351,874,siemen-subbaiah,11/17/20,500,
+Website,Added Hello World in Welsh language,351,868,melsh123221,11/16/20,500,
+Website,Added 'Hello world' in Georgian,351,867,Hot-Shot75,11/16/20,500,
+Website,Added 'Hello World' in Latin.,351,862,briankinane,11/16/20,500,
+Website,Fixed typo in the documentation account: 3972dfcfb9fd488cf90644b599558d3e265bdb883686933f62e8450aaee974b1,889,757,alexkimeu0,11/17/20,500,
+Website,Utilise react-helmet-async instead of react-helmet,856,857,jamessspanggg,11/16/20,1000,
+Website,Fix console warnings,863,865,jamessspanggg,11/16/20,1000,
+Website,Remove package-lock.json and update npm commands to yarn,828,829,ffpetrovic,11/16/20,500,
+Website,New contributor added for front end (#866),866,871,KingChampion36,11/16/20,500,
+Website,Add new user,872,873,VincentHch,11/16/20,500,
+Website,added Kotlin-SDK to tasks,876,882,thesanjeevsharma,11/17/20,500,
+Website,Fixes #550 - Added Sorting in Tasks,550,616,kush-daga,11/16/20,7500,
+thenewboston-python-client,Bank - banks api calls,15,24,jtavak,11/17/20,5000,
+Website,Added Maori language,351,884,Tuhinga,11/18/20,500,
+Website,'Hello World' in Haitian Creole,351,891,lucedawg,11/18/20,500,
+thenewboston-python-client,Bank - get bank config,16,34,VincentHch,11/17/20,5000,
+thenewboston-python-client,Bank - patch api call for validators path,22,23,velibor7,11/17/20,5000,
+thenewboston-python-client,Bank - validator confirmation services api calls,19,37,CirXe0N,11/17/20,5000,
+thenewboston-python-client,Bank - confirmation blocks api calls,17,35,VincentHch,11/17/20,5000,
+thenewboston-python-client,Bank - post invalid block to bank,18,26,xmac11,11/17/20,5000,
+thenewboston-python-client,Add Github Actions to automate testing and linting,38,40,sbalasa,11/17/20,5000,
+thenewboston-python-client,Change class methods to private,57,58,makaramkd,11/23/20,200,
+thenewboston-python-client,Change class methods to private,55,56,CirXe0N,11/23/20,10000,
+thenewboston-python-client,Generate documentation for the codebase using sphinx,49,56,AbhayAysola,11/23/20,5000,
+thenewboston-python-client,Add typing annotations to the codebase to help developers reduce code mistakes.,39,44,makaramkd,11/23/20,6000,
+thenewboston-python-client,Bank - blocks api calls,21,36,nishp77,11/23/20,5000,
+thenewboston-python-client,Add Github Actions to automate testing and linting,38,40,sbalsa,11/23/20,5000,
+thenewboston-python-client,Fix black formatting errors in Codebase,31,32,sbalsa,11/23/20,1000,
+thenewboston-python-client,Bank - post upgrade notice,20,42,VincentHch,11/23/20,200,
+Website,Added Tajik language,351,900,Surac778,11/18/20,500,
+Website,Added Esperanto language,351,902,gatvay23924,11/18/20,500,
+Website,Added hello world in tatari language,351,904,codemedo,11/19/20,500,
+Website,Add new contributor: Payments Manager Tawanda,892,895,jamessspanggg,11/18/20,500,
+Website,Add new contributor: Payments Manager Nikhil,893,894,jamessspanggg,11/18/20,500,
+Website,Kotlin software developer,877,897,hasham56,11/18/20,500,
+Website,Kotlin SDK member added,878,896,hasham56,11/18/20,500,
+Website,Added new contributor,899,901,codemedo,11/18/20,500,
+Website,Added Nyanja language,351,913,ysttt12,11/19/20,500,
+Website,New Contributor,921,933,AkbarKamran,11/20/20,500,
+Website,New member,351,939,aeronye,11/21/20,500,
+Website,issue#909 - Long title words break the mobile design in the tasks page,909,917,mersimoski,11/19/20,1000,
+Website,Fix proposal for decoupling animation and shuffling logic,890,918,lapstjup,11/21/20,5000,
+Website,Adding contributor,915,930,hasham56,11/20/20,500,
+Website,New Contributor,914,929,hasham56,11/20/20,500,
+Website,Project proposals,934,978,buckyroberts,11/22/20,2500,
+Website,Added Avatar component,869,942,thesanjeevsharma,11/22/20,2500,
+Website,Signup modal,461,585,amarjeet987,11/24/20,25000,
+Website,feat: GitHub OAuth POC,364,509,thesanjeevsharma,11/24/20,7500,
+Website,Hello world Swedish correction,351,987,Godnoken,11/23/20,500,
