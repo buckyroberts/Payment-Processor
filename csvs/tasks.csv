@@ -1,4 +1,4 @@
-repository,title,issue_id,pr_id,completed_by,completed_date,amount_paid
+repository,title,issue_id,pr_id,completed_by,completed_date,amount_paid,bug_bounty
 Account-Manager,Add Success Toast,232,246,leelatanniru,9/3/20,2500
 Website,Design 1-2-3 Bubbles,182,,kristykjlee,9/16/20,2500
 Account-Manager,When points are sent to friend the from sender account balance should get reduced,296,,webdeveloperswj,9/17/20,5000
