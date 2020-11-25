@@ -273,23 +273,20 @@ Website,Fixes #550 - Added Sorting in Tasks,550,616,kush-daga,11/16/20,7500
 thenewboston-python-client,Bank - banks api calls,15,24,jtavak,11/17/20,5000
 Website,Added Maori language,351,884,Tuhinga,11/18/20,500
 Website,'Hello World' in Haitian Creole,351,891,lucedawg,11/18/20,500
-
 thenewboston-python-client,Bank - get bank config,16,34,VincentHch,11/17/20,5000
 thenewboston-python-client,Bank - patch api call for validators path,22,23,velibor7,11/17/20,5000
 thenewboston-python-client,Bank - validator confirmation services api calls,19,37,CirXe0N,11/17/20,5000
 thenewboston-python-client,Bank - confirmation blocks api calls,17,35,VincentHch,11/17/20,5000
 thenewboston-python-client,Bank - post invalid block to bank,18,26,xmac11,11/17/20,5000
 thenewboston-python-client,Add Github Actions to automate testing and linting,38,40,sbalasa,11/17/20,5000
-
-thenewboston-python-client,Change class methods to private,57,58,makaramkd,11/23/20,200 PAID
-thenewboston-python-client,Add Pagination to the Fetch endpoints,55,56,CirXe0N,11/23/20,10000 PAID
-thenewboston-python-client,Generate documentation for the codebase using sphinx,49,50,AbhayAysola,11/23/20,5000 PAID
-thenewboston-python-client,Add typing annotations to the codebase to help developers reduce code mistakes.,39,44,makaramkd,11/23/20,6000 PAID
+thenewboston-python-client,Change class methods to private,57,58,makaramkd,11/23/20,200
+thenewboston-python-client,Add Pagination to the Fetch endpoints,55,56,CirXe0N,11/23/20,10000
+thenewboston-python-client,Generate documentation for the codebase using sphinx,49,50,AbhayAysola,11/23/20,5000
+thenewboston-python-client,Add typing annotations to the codebase to help developers reduce code mistakes.,39,44,makaramkd,11/23/20,6000
 thenewboston-python-client,Bank - blocks api calls,21,36,nishp77,11/23/20,5000
-thenewboston-python-client,Add Github Actions to automate testing and linting,38,40,sbalsa,11/23/20,5000 PAID
-thenewboston-python-client,Fix black formatting errors in Codebase,31,32,sbalsa,11/23/20,1000 PAID
-thenewboston-python-client,Bank - post upgrade notice,20,42,VincentHch,11/23/20,200 PAID
-
+thenewboston-python-client,Add Github Actions to automate testing and linting,38,40,sbalsa,11/23/20,5000
+thenewboston-python-client,Fix black formatting errors in Codebase,31,32,sbalsa,11/23/20,1000
+thenewboston-python-client,Bank - post upgrade notice,20,42,VincentHch,11/23/20,200
 Website,Added Tajik language,351,900,Surac778,11/18/20,500
 Website,Added Esperanto language,351,902,gatvay23924,11/18/20,500
 Website,Added hello world in tatari language,351,904,codemedo,11/19/20,500
@@ -307,3 +304,16 @@ Website,Adding contributor,915,930,hasham56,11/20/20,500
 Website,New Contributor,914,929,hasham56,11/20/20,500
 Website,Project proposals,934,978,buckyroberts,11/22/20,2500
 Website,Added Avatar component,869,942,thesanjeevsharma,11/22/20,2500
+Website,Signup modal,461,585,amarjeet987,11/24/20,25000,
+Website,feat: GitHub OAuth POC,364,509,thesanjeevsharma,11/24/20,7500,
+Website,Hello world Swedish correction,351,987,Godnoken,11/23/20,500,
+Design,Reddit Banner,67,,shivamyadav37,11/24/20,2000,FALSE
+Design,Coins Memes Infographic,42,,YashovardhanSingh,11/24/20,2000,FALSE
+Website,data(teams): move Rahul to Research,1016,1019,thesanjeevsharma,11/24/20,500,FALSE
+Website,994-removed members from team,994,1010,aayushi14,11/24/20,500,FALSE
+Website,Fix double calls to onClick when clicked on Icons,1014,1015,jamessspanggg,11/24/20,500,TRUE
+Website,added project proposals link to footer,1008,1009,manishram,11/23/20,250,TRUE
+Website,Fixes #935,935,1004,alexkimeu0,11/23/20,500,TRUE
+Website,Added point number 6,996,997,manishram,11/23/20,250,TRUE
+Website,Fix NaN reward,936,938,jamessspanggg,11/20/20,500,TRUE
+
