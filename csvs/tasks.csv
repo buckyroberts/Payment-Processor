@@ -340,4 +340,4 @@ Account-Manager,Editing account nickname does not revalidate the nickname,488,48
 Account-Manager,Editing bank nickname does not revalidate the nickname,490,491,jamessspanggg,11/20/20,1000,TRUE
 Account-Manager,White screen of death at launch,480,484,matheusfillipe,11/20/20,500,TRUE
 Account-Manager,[Suggestion] Move validation values to a constant file,496,497,jamessspanggg,11/22/20,1000,FALSE
-Account-Manager,EAble to give nickname that is very long,494,495,jamessspanggg,11/22/20,500,TRUE
+Account-Manager,Able to give nickname that is very long,494,495,jamessspanggg,11/22/20,500,TRUE
