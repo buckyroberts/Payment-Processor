@@ -344,3 +344,4 @@ Account-Manager,Able to give nickname that is very long,494,495,jamessspanggg,11
 Validator,Fix Flake8 Issues for Validator,91,94,AbhayAysola,11/27/2020,5000,FALSE
 Validator,Generate documentation for the codebase using sphinx,93,95,AbhayAysola,11/26/2020,5000,FALSE
 Website,fixes #1042,1042,1043,YashovardhanSingh,11/27/2020,500,TRUE
+Website,Add new contributor,1039,1040,jamessspanggg,11/27/2020,250,FALSE
