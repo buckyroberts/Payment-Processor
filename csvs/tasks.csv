@@ -335,3 +335,9 @@ Website,972-updated docs cv - config,972,1000,aayushi14,11/26/20,1000,FALSE
 Website,Update document for Bank API /Banks,953,1006,DucPhamTV,11/26/20,1000,FALSE
 Website,Remove contributor,1030,1031,jamessspanggg,11/26/20,250,FALSE
 Wensite,Hello World in Afaan Oromoo,351,949,Toledit,11/26/20,500,FALSE
+Account-Manager,Import/Export Signing Keys Hi-Fi,148,,kristykjlee,11/17/20,5000,FALSE
+Account-Manager,Editing account nickname does not revalidate the nickname,488,489,jamessspanggg,11/20/20,1000,TRUE
+Account-Manager,Editing bank nickname does not revalidate the nickname,490,491,jamessspanggg,11/20/20,1000,TRUE
+Account-Manager,White screen of death at launch,480,484,matheusfillipe,11/20/20,500,TRUE
+Account-Manager,[Suggestion] Move validation values to a constant file,496,497,jamessspanggg,11/22/20,1000,FALSE
+Account-Manager,EAble to give nickname that is very long,494,495,jamessspanggg,11/22/20,500,TRUE
