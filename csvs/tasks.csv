@@ -345,3 +345,4 @@ Validator,Fix Flake8 Issues for Validator,91,94,AbhayAysola,11/27/20,5000,FALSE
 Validator,Generate documentation for the codebase using sphinx,93,95,AbhayAysola,11/26/20,5000,FALSE
 Website,fixes #1042,1042,1043,YashovardhanSingh,11/27/20,500,TRUE
 Website,Add new contributor,1039,1040,jamessspanggg,11/27/20,250,FALSE
+Website,[Documentation]: Updated Docs for Bank - Bank Transactions #952,966,986,UweVanOpfern,11/26/20,1000,FALSE
