@@ -351,3 +351,4 @@ Website,Reuse avatar component in SlideUpAccountDetails,1051,1052,jamessspanggg,
 Website,Fix/ie blank page,211,1044,nparoski,11/28/20,2000,FALSE
 Website,977-updated docs cv - validators,977,1001,aayushi14,11/28/20,1000,FALSE
 Website,Add new job opening,1046,1048,jamessspanggg,11/28/20,250,FALSE
+Website,Add Stylelint as CSS/SCSS linter,1036,1049,jamessspanggg,11/28/20,2500,FALSE
