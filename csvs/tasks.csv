@@ -373,3 +373,5 @@ Website,Added Hello World in Wolfo Language,351,979,dhakal0kushal,11/30/20,500,F
 Website,Add tasks completed in Profile,1063,1065,jamessspanggg,12/2/20,5000,FALSE
 Website,971-updated docs cv - banks,971,999,aayushi14,12/2/20,1000,FALSE
 Website,Updated Docs for Primary Validator - Accounts #962 Fix,962,983,Hristijan95,12/2/20,1000,FALSE
+Bank,Fix Flake8 Issues for Bank,96,101,makaramkd,11/26/20,5000,FALSE
+Bank,Generate documentation for the codebase using sphinx,97,99,AbhayAysola,11/26/20,5000,FALSE
