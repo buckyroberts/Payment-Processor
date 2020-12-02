@@ -379,4 +379,5 @@ Kotlin-SDK,Build AccountDataSource class that calls Account endpoints through Ht
 Kotlin-SDK,Define ValidatorRepository interface,20,45,petersommerhoff,11/17/20,500,FALSE
 Kotlin-SDK,Integrate SonarQube into SDK for code quality analysis,41,70,IanArb,11/30/20,1000,FALSE
 Kotlin-SDK,Implement Blocks GET request for Banks API,61,67,nishp77,11/30/20,2000,FALSE
-Design,As a contributor I would like to see all the link to the main file for Figma in one place so that I don't have to ask for them everytime i need it,65,,osaroadade,12/2/20,1000,FALSE
+Design,As a contributor I would like to see all the link to the main file for Figma in one place so that I don't have to ask for them everytime i need it,65,,osaroadade,12/02/20,1000,FALSE
+Design,HIFI - Coins Topic Infographic,77,,devanshgajjar,12/02/20,1000,FALSE
