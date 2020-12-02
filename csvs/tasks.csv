@@ -363,15 +363,19 @@ Design,Project Proposal Templates for social media,74,,osaroadade,11/30/20,2000,
 Design,Motivational Coins Infographic,53,,YashovardhanSingh,11/29/20,2000,FALSE
 Design,Infographics on Project Proposals,70,,YashovardhanSingh,11/29/20,2000,FALSE
 Design,Coins Topic Infographic,57,,pabloqb2000,11/27/20,2000,FALSE
-thenewboston-python-client,Create new endpoints in Validator class,59,60,makaramkd,12/1/20,10000,
-thenewboston-python-client,Set max line length back to 79 to adhere to the PEP 8 code styling,41,61,velibor7,12/1/20,1000,
-thenewboston-python-client,Incorrect Bank.connection_requests() and Validator.connection_requests(),62,63,DucPhamTV,12/1/20,5000,
+thenewboston-python-client,Create new endpoints in Validator class,59,60,makaramkd,12/01/20,10000,
+thenewboston-python-client,Set max line length back to 79 to adhere to the PEP 8 code styling,41,61,velibor7,12/01/20,1000,
+thenewboston-python-client,Incorrect Bank.connection_requests() and Validator.connection_requests(),62,63,DucPhamTV,12/01/20,5000,
 Website,Join Our Community! page revamp,1068,1038,lukas-kasticky,11/30/20,5000,FALSE
 Website,Fix/mobile contributors num overflow,1041,1054,nparoski,11/30/20,1000,FALSE
 Website,Add new dot net core opening,1056,1060,jamessspanggg,11/30/20,250,FALSE
 Website,Added Hello World in Wolfo Language,351,979,dhakal0kushal,11/30/20,500,FALSE
-Website,Add tasks completed in Profile,1063,1065,jamessspanggg,12/2/20,5000,FALSE
-Website,971-updated docs cv - banks,971,999,aayushi14,12/2/20,1000,FALSE
-Website,Updated Docs for Primary Validator - Accounts #962 Fix,962,983,Hristijan95,12/2/20,1000,FALSE
+Website,Add tasks completed in Profile,1063,1065,jamessspanggg,12/02/20,5000,FALSE
+Website,971-updated docs cv - banks,971,999,aayushi14,12/02/20,1000,FALSE
+Website,Updated Docs for Primary Validator - Accounts #962 Fix,962,983,Hristijan95,12/02/20,1000,FALSE
 Bank,Fix Flake8 Issues for Bank,96,101,makaramkd,11/26/20,5000,FALSE
 Bank,Generate documentation for the codebase using sphinx,97,99,AbhayAysola,11/26/20,5000,FALSE
+Kotlin-SDK,Build AccountDataSource class that calls Account endpoints through HttpService,15,53,nishp77,11/21/20,1000,FALSE
+Kotlin-SDK,Define ValidatorRepository interface,20,45,petersommerhoff,11/17/20,500,FALSE
+Kotlin-SDK,Integrate SonarQube into SDK for code quality analysis,41,70,IanArb,11/30/20,1000,FALSE
+Kotlin-SDK,Implement Blocks GET request for Banks API,61,67,nishp77,11/30/20,2000,FALSE
