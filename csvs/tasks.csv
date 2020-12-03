@@ -381,3 +381,4 @@ Kotlin-SDK,Integrate SonarQube into SDK for code quality analysis,41,70,IanArb,1
 Kotlin-SDK,Implement Blocks GET request for Banks API,61,67,nishp77,11/30/20,2000,FALSE
 Design,As a contributor I would like to see all the link to the main file for Figma in one place so that I don't have to ask for them everytime i need it,65,,osaroadade,12/02/20,1000,FALSE
 Design,HIFI - Coins Topic Infographic,77,,devanshgajjar,12/02/20,1000,FALSE
+Kotlin-SDK,Implement ConfigDataSource class for Bank Config endpoint,49,59,matthewrkula,11/23/20,1000,FALSE
