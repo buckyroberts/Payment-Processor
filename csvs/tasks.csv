@@ -409,3 +409,4 @@ Design,Coins Mobile app Infographic,64,,Toledit,12/04/20,1000,FALSE
 thenewboston-js,[Task] Type Bank Get Config Response,17,18,sno2,12/09/20,500,FALSE
 thenewboston-js,[Task] Add Axios Response Generics for `ServerNode` Request Methods,15,16,sno2,12/08/20,500,FALSE
 thenewboston-js,[Task] Implement Browser Support with Browserify,9,13,mrbusysky,12/08/20,2000,FALSE
+thenewboston-python,Generate documentation for the codebase using sphinx,36,42,AbhayAysola,12/06/20,5000,FALSE
