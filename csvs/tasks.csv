@@ -399,3 +399,13 @@ Design,HIFI - Infographics on Project Proposals,78,,devanshgajjar,12/04/20,1000,
 Website,[Dropdowns] Allow outer div to be toggle-able,1075,1076,jamessspanggg,12/05/20,500,FALSE
 Website,Add Profile Info section,1062,1070,jamessspanggg,12/07/20,5000,FALSE
 Website,Modify teams data,1077,1081,jamessspanggg,12/07/20,500,FALSE
+Bank,Write a test for class BankViewSet using get method to verify bank details,107,114,DucPhamTV,12/07/20,1000,FALSE
+Bank,Write a test to validate unique constraint of block and validator together,108,115,DucPhamTV,12/07/20,1000,FALSE
+Bank,Unit test failed when Faker().pytest() = 0,117,118,DucPhamTV,12/06/20,2000,TRUE
+Bank,Write a test to validate trust value while creating a new Bank,112,119,DucPhamTV,12/06/20,1000,FALSE
+Design,Cryptocurrency topic Infographic,56,,Toledit,12/04/20,1000,FALSE
+Design,Yes to Coins Infographic,46,,Toledit,12/04/20,1000,FALSE
+Design,Coins Mobile app Infographic,64,,Toledit,12/04/20,1000,FALSE
+thenewboston-js,[Task] Type Bank Get Config Response,17,18,sno2,12/09/20,500,FALSE
+thenewboston-js,[Task] Add Axios Response Generics for `ServerNode` Request Methods,15,16,sno2,12/08/20,500,FALSE
+thenewboston-js,[Task] Implement Browser Support with Browserify,9,13,mrbusysky,12/08/20,2000,FALSE
