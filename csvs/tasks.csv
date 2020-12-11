@@ -1,5 +1,5 @@
 repository,title,issue_id,pr_id,completed_by,completed_date,amount_paid,bug_bounty
-Account-Manager,Add Success Toast,232,246,leelatanniru,9/03/20,2500,
+Account-Manager,Add Success Toast,232,246,leelatanniru,09/03/20,2500,
 Website,Design 1-2-3 Bubbles,182,,kristykjlee,9/16/20,2500,
 Account-Manager,When points are sent to friend the from sender account balance should get reduced,296,,webdeveloperswj,9/17/20,5000,
 Account-Manager,No notification received when points sent or received,299,,webdeveloperswj,9/17/20,5000,
@@ -415,3 +415,4 @@ Website,Last updated date for Docs #549,549,1091,CNFloss,12/09/20,2000,FALSE
 Website,Update to add tnb-js,1103,1098,mrbusysky,12/10/20,250,FALSE
 Website,Remove Sunil Chauhan,1092,1093,manishram,12/10/20,500,FALSE
 Website,Add wordpress developer to openings,1101,1102,manishram,12/10/20,500,FALSE
+Kotlin-SDK,Android Sample App,42,57,amarjeet987,12/03/20,2000,FALSE
