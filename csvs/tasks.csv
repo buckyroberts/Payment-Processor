@@ -416,9 +416,9 @@ Website,Update to add tnb-js,1103,1098,mrbusysky,12/10/20,250,FALSE
 Website,Remove Sunil Chauhan,1092,1093,manishram,12/10/20,500,FALSE
 Website,Add wordpress developer to openings,1101,1102,manishram,12/10/20,500,FALSE
 Kotlin-SDK,Android Sample App,42,57,amarjeet987,12/03/20,2000,FALSE
-Website,refactor- add routing on teams page,1095,1096,thesanjeevsharma,12/11/20,1000,FALSE
-Bank,Write a test to validate value of account number and trust in accounts,121,123,DucPhamTV,12/11,20,1000,FALSE
-Bank,Write a test to validate unique constraint of confirmation_validator and primary_validator together for InvalidBlock,109,122,DucPhamTV,12/11,20,1000,FALSE
+Website,refactor: add routing on teams page,1095,1096,thesanjeevsharma,12/11/20,1000,FALSE
+Bank,Write a test to validate value of account number and trust in accounts,121,123,DucPhamTV,12/11/20,1000,FALSE
+Bank,Write a test to validate unique constraint of confirmation_validator and primary_validator together for InvalidBlock,109,122,DucPhamTV,12/11/20,1000,FALSE
 Design,HIFI - Money to Currency Infographic,80,,devanshgajjar,12/10/20,1000,FALSE
 Design,HIFI infographic,89,,devanshgajjar,12/10/20,1000,FALSE
 Design,HIFI infographic,90,,devanshgajjar,12/10/20,1000,FALSE
