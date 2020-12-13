@@ -422,3 +422,13 @@ Bank,Write a test to validate unique constraint of confirmation_validator and pr
 Design,HIFI - Money to Currency Infographic,80,,devanshgajjar,12/10/20,1000,FALSE
 Design,HIFI infographic,89,,devanshgajjar,12/10/20,1000,FALSE
 Design,HIFI infographic,90,,devanshgajjar,12/10/20,1000,FALSE
+thenewboston-js,[Task] Create `Bank` Documentation,24,41,AbhayAysola,12/12/20,10000,FALSE
+thenewboston-js,[Task] Implement `Bank` POST Blocks Method,37,39,nishp77,12/11/20,2500,FALSE
+thenewboston-js,[Task] Type `PrimaryValidator.getConfig` Method Response,36,40,CNFloss,12/11/20,1000,FALSE
+thenewboston-js,[Task] Type `ConfirmationValidator.getConfig` Method Response,35,38,nishp77,12/11/20,1000,FALSE
+thenewboston-js,[Task] Implement POST Update Notice Method for `Bank`,28,33,CNFloss,12/11/20,2000,FALSE
+thenewboston-js,[Task] Create `Account` Documentation,22,34,sno2,12/10/20,7500,FALSE
+thenewboston-js,[Task] Implement POST Primary Validator Updated for `ConfirmationValidator`,30,32,AbhayAysola,12/10/20,2000,FALSE
+thenewboston-js,[Task] Implement POST Upgrade Request for `ConfirmationValidator`,29,31,AbhayAysola,12/09/20,2000,FALSE
+thenewboston-js,[Task] Refactor Account Class Construction,19,21,sno2,12/09/20,2000,FALSE
+thenewboston-js,[Task] Implement Update Account Method for `Bank`,14,20,AbhayAysola,12/09/20,3000,FALSE
