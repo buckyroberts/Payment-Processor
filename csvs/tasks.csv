@@ -433,3 +433,4 @@ thenewboston-js,[Task] Implement POST Upgrade Request for `ConfirmationValidator
 thenewboston-js,[Task] Refactor Account Class Construction,19,21,sno2,12/09/20,2000,FALSE
 thenewboston-js,[Task] Implement Update Account Method for `Bank`,14,20,AbhayAysola,12/09/20,3000,FALSE
 Website,Fix download button concatenation (#1055),1055,1115,SirDaev,12/14/20,500,FALSE
+Website,Added white logo,1073,1113,leelatanniru,12/14/20,500,FALSE
