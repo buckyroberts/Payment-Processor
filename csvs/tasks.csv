@@ -444,3 +444,7 @@ Website,Update documentation for Connection Requests,967,1026,DucPhamTV,12/14/20
 Website,Added Hello World in Shona,351,1126,tomijaga,12/15/20,500,FALSE
 Website,Adding discord,1111,1110,mrbusysky,12/15/20,1000,FALSE
 Website,Update for Project proposals,1116,1117,manishram,12/15/20,500,FALSE
+Kotlin-SDK,Implement POST request for invalid block in Banks API,64,87,petersommerhoff,12/12/20,2000,FALSE
+Kotlin-SDK,Implement PATCH request for Account in Banks API,65,74,petersommerhoff,12/06/20,2000,FALSE
+Kotlin-SDK,Implement GET request for invalid blocks in Banks API,63,75,nishp77,12/06/20,2000,FALSE
+Kotlin-SDK,Implement PATCH request for Banks in Banks API,66,78,IanArb,12/10/20,2000,FALSE
