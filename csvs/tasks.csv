@@ -448,3 +448,4 @@ Kotlin-SDK,Implement POST request for invalid block in Banks API,64,87,petersomm
 Kotlin-SDK,Implement PATCH request for Account in Banks API,65,74,petersommerhoff,12/06/20,2000,FALSE
 Kotlin-SDK,Implement GET request for invalid blocks in Banks API,63,75,nishp77,12/06/20,2000,FALSE
 Kotlin-SDK,Implement PATCH request for Banks in Banks API,66,78,IanArb,12/10/20,2000,FALSE
+thenewboston-js,[Task] Create `Validator` Documentation,25,43,CNFloss,12/14/20,7500,FALSE
