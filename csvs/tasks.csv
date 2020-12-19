@@ -1,23 +1,23 @@
 repository,title,issue_id,pr_id,completed_by,completed_date,amount_paid,bug_bounty
 Account-Manager,Add Success Toast,232,246,leelatanniru,09/03/20,2500,
-Website,Design 1-2-3 Bubbles,182,,kristykjlee,9/16/20,2500,
+Website,Design 1-2-3 Bubbles,182,,kristykjlee,9/16/20,2500,FALSE
 Account-Manager,When points are sent to friend the from sender account balance should get reduced,296,,webdeveloperswj,9/17/20,5000,
 Account-Manager,No notification received when points sent or received,299,,webdeveloperswj,9/17/20,5000,
 Account-Manager,Accounts Semantics & Side Menu Update,301,302,angle943,9/18/20,2500,
-Website,Homepage Update (1-2-3 Bubbles),184,186,buckyroberts,9/20/20,2500,
-Website,Add Basic Leaderboard Page,191,186,buckyroberts,9/20/20,2500,
-Website,Create Tasks and Help Pages,200,201,buckyroberts,9/20/20,2500,
+Website,Homepage Update (1-2-3 Bubbles),184,186,buckyroberts,9/20/20,2500,FALSE
+Website,Add Basic Leaderboard Page,191,186,buckyroberts,9/20/20,2500,FALSE
+Website,Create Tasks and Help Pages,200,201,buckyroberts,9/20/20,2500,FALSE
 Account-Manager,Should say Friend's Account instead of My Account,306,,Niekon01,9/21/20,5000,
 Account-Manager,"Create new account modal button should say ""Create"" instead of ""Add""",307,,Niekon01,9/21/20,5000,
 Account-Manager,Closes #306 and fixed a wording issue,306,308,Niekon01,9/21/20,5000,
-Website,[iPhone SE] Page moved horizontally,220,,webdeveloperswj,9/22/20,5000,
+Website,[iPhone SE] Page moved horizontally,220,,webdeveloperswj,9/22/20,5000,FALSE
 Account-Manager,Create Jest Tests for 'formatAddressFromNode',221,313,avgust13,9/22/20,5000,
 Account-Manager,Create Jest Tests for 'formatQueryParams',222,313,avgust13,9/22/20,5000,
 Account-Manager,Create Jest Tests for 'formatPath' and 'formatPathFromNode',223,313,avgust13,9/22/20,5000,
 Account-Manager,Create Jest Tests for 'parseAddressData',224,313,avgust13,9/22/20,5000,
 Account-Manager,Create Jest Tests for 'parseQueryParams',225,313,avgust13,9/22/20,5000,
 Account-Manager,Simple Text Update for Table Column Headers,269,313,avgust13,9/22/20,2500,
-Website,Leaderboard and Tasks Repository Filter URLs,204,226,thesanjeevsharma,9/22/20,10000,
+Website,Leaderboard and Tasks Repository Filter URLs,204,226,thesanjeevsharma,9/22/20,10000,FALSE
 Account-Manager,"Create new account modal button should say ""Create"" instead of ""Add""",307,314,angle943,9/22/20,5000,
 Account-Manager,Unable to switch to Bank of different network (different PV),309,319,avgust13,9/23/20,5000,
 Account-Manager,"[Desktop Windows] In user friend list , user should not get added with same nickname while editing nickname",318,325,avgust13,9/24/20,5000,
@@ -37,38 +37,38 @@ Account-Manager,Bank OVERVIEW UI update,354,379,avgust13,10/06/20,5000,
 Account-Manager,"Move Daily Rate"" to separate panel""",399,401,leelatanniru,10/14/20,5000,
 Account-Manager,"[Windows] When right clicked on any text under Validators, Banks, My Accounts and My Friend gives option for copy link",360,403,brian316,10/14/20,2500,
 Account-Manager,Error message can be improved when user enters invalid IP Address for bank account,395,405,brian316,10/17/20,1000,
-Website,"When there are more than one channel then only text should be: To apply, send us a message through any of the following channels: otherwise text should be: To apply, send us a message through the following channel:",255,264,thesanjeevsharma,10/02/20,500,
-Website,Openings Page Update,273,278,thesanjeevsharma,10/10/20,10000,
-Website,[All mobile devices] Page is not responsive it moves horizontally,301,306,GermaVinsmoke,10/19/20,2500,
-Website,[All mobile devices] Section should be aligned inline with other section above it,305,307,GermaVinsmoke,10/19/20,1000,
-Website,[All mobile devices] Page is not responsive,299,308,angle943,10/19/20,2500,
-Website,[All mobile devices] Page is not responsive,300,308,angle943,10/19/20,2500,
+Website,"When there are more than one channel then only text should be: To apply, send us a message through any of the following channels: otherwise text should be: To apply, send us a message through the following channel:",255,264,thesanjeevsharma,10/02/20,500,FALSE
+Website,Openings Page Update,273,278,thesanjeevsharma,10/10/20,10000,FALSE
+Website,[All mobile devices] Page is not responsive it moves horizontally,301,306,GermaVinsmoke,10/19/20,2500,FALSE
+Website,[All mobile devices] Section should be aligned inline with other section above it,305,307,GermaVinsmoke,10/19/20,1000,FALSE
+Website,[All mobile devices] Page is not responsive,299,308,angle943,10/19/20,2500,FALSE
+Website,[All mobile devices] Page is not responsive,300,308,angle943,10/19/20,2500,FALSE
 Account-Manager,Success message coming should be aligned at center of icon aside to it,411,412,moki298,10/20/20,2500,
-Website,[All mobile Devices] Page is not responsive,298,310,GermaVinsmoke,10/20/20,2500,
-Website,Highlighted section should be less in height,206,290,dahelg,10/11/20,2500,
-Website,[iPhone 320Px] Text goes out of section,248,289,itsnikhil,10/10/20,1000,
-Website,Documentation CSS issue.,295,312,angle943,10/21/20,1000,
-Website,[iPhone SE] Page moved horizontally,220,266,lapstjup,10/02/20,5000,
-Website,Update social media buttons on the main marketing page,321,,kristykjlee,10/24/20,1000,
-Website,FAQ page,320,,kristykjlee,10/24/20,2500,
-Website,Updated Top Navigation,317,,kristykjlee,10/24/20,2500,
-Website,Updated Footer,318,,kristykjlee,10/24/20,2500,
-Website,Social Media page,319,,kristykjlee,10/24/20,2500,
-Website,Add the functionality to use font-weight with our Inter Font,293,313,colfax23,10/26/20,10000,
-Website,Update social media buttons on the main marketing page,321,323,aayushi14,10/27/20,1000,
-Website,Updated Footer,318,325,thesanjeevsharma,10/27/20,2500,
-Website,Update Account Manager Guide Pages,280,328,colfax23,10/27/20,1000,
+Website,[All mobile Devices] Page is not responsive,298,310,GermaVinsmoke,10/20/20,2500,FALSE
+Website,Highlighted section should be less in height,206,290,dahelg,10/11/20,2500,FALSE
+Website,[iPhone 320Px] Text goes out of section,248,289,itsnikhil,10/10/20,1000,FALSE
+Website,Documentation CSS issue.,295,312,angle943,10/21/20,1000,FALSE
+Website,[iPhone SE] Page moved horizontally,220,266,lapstjup,10/02/20,5000,FALSE
+Website,Update social media buttons on the main marketing page,321,,kristykjlee,10/24/20,1000,FALSE
+Website,FAQ page,320,,kristykjlee,10/24/20,2500,FALSE
+Website,Updated Top Navigation,317,,kristykjlee,10/24/20,2500,FALSE
+Website,Updated Footer,318,,kristykjlee,10/24/20,2500,FALSE
+Website,Social Media page,319,,kristykjlee,10/24/20,2500,FALSE
+Website,Add the functionality to use font-weight with our Inter Font,293,313,colfax23,10/26/20,10000,FALSE
+Website,Update social media buttons on the main marketing page,321,323,aayushi14,10/27/20,1000,FALSE
+Website,Updated Footer,318,325,thesanjeevsharma,10/27/20,2500,FALSE
+Website,Update Account Manager Guide Pages,280,328,colfax23,10/27/20,1000,FALSE
 Account-Manager,Add the functionality to use font-weight with our Inter Font,416,419,colfax23,10/27/20,7500,
-Website,Landing Page Style Update,283,314,moki298,10/28/20,7500,
-Website,FAQ page,320,338,brmendez,10/30/20,2500,
-Website,Help to Social page,319,339,colfax23,10/30/20,2500,
-Website,Replace Footer icons with mdi-icons,335,340,thesanjeevsharma,10/30/20,1000,
-Website,Replace Homepage Social Media Hero icons to use SVG Icons,336,344,aayushi14,10/31/20,500,
-Website,Landing Page V2,333,,kristykjlee,10/31/20,2500,
-Website,Updated Top Navigation,317,343,angle943,10/31/20,5000,
-Website,Landing Page V2,333,346,aayushi14,11/01/20,2500,
-Website,Hello World in Different Languages for Marketing Site,322,350,angle943,11/01/20,500,
-Website,"Put Hello World"" in your OWN language!""",351,354,dorlivniopen,11/01/20,500,
+Website,Landing Page Style Update,283,314,moki298,10/28/20,7500,FALSE
+Website,FAQ page,320,338,brmendez,10/30/20,2500,FALSE
+Website,Social Media page,319,339,colfax23,10/30/20,2500,FALSE
+Website,Replace Footer icons with mdi-icons,335,340,thesanjeevsharma,10/30/20,1000,FALSE
+Website,Replace Homepage Social Media Hero icons to use SVG Icons,336,344,aayushi14,10/31/20,500,FALSE
+Website,Landing Page V2,333,,kristykjlee,10/31/20,2500,FALSE
+Website,Updated Top Navigation,317,343,angle943,10/31/20,5000,FALSE
+Website,Landing Page V2,333,346,aayushi14,11/01/20,2500,FALSE
+Website,Hello World in Different Languages for Marketing Site,322,350,angle943,11/01/20,500,FALSE
+Website,Put "Hello World" in your OWN language!,351,354,dorlivniopen,11/01/20,500,FALSE
 Website,no more stickies on website,357,,kristykjlee,11/01/20,500,
 Website,no more stickies on website,357,358,angle943,11/01/20,500,
 Website,Footer Update V2,330,359,angle943,11/01/20,500,
