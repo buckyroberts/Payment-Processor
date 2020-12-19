@@ -397,7 +397,7 @@ Design,Spending Coins Infographic,62,,smazydev,12/03/20,1000,FALSE
 Design,HIFI - Infographics on Project Proposals,79,,devanshgajjar,12/04/20,1000,FALSE
 Design,HIFI - Infographics on Project Proposals,78,,devanshgajjar,12/04/20,1000,FALSE
 Website,[Documentation] Breadcrumb menu does not toggle when clicked on icon,1075,1076,jamessspanggg,12/05/20,500,FALSE
-Website,Create the "Profile Info" section of the profile page,1062,1070,jamessspanggg,12/07/20,5000,FALSE
+Website,"Create the ""Profile Info"" section of the profile page",1062,1070,jamessspanggg,12/07/20,5000,FALSE
 Website,New Contributor,1077,1081,jamessspanggg,12/07/20,500,FALSE
 Bank,Write a test for class BankViewSet using get method to verify bank details,107,114,DucPhamTV,12/07/20,1000,FALSE
 Bank,Write a test to validate unique constraint of block and validator together,108,115,DucPhamTV,12/07/20,1000,FALSE
