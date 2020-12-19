@@ -367,12 +367,12 @@ thenewboston-python-client,Create new endpoints in Validator class,59,60,makaram
 thenewboston-python-client,Set max line length back to 79 to adhere to the PEP 8 code styling,41,61,velibor7,12/01/20,1000,
 thenewboston-python-client,Incorrect Bank.connection_requests() and Validator.connection_requests(),62,63,DucPhamTV,12/01/20,5000,
 Website,Join Our Community! page revamp,1068,1038,lukas-kasticky,11/30/20,5000,FALSE
-Website,Fix/mobile contributors num overflow,1041,1054,nparoski,11/30/20,1000,FALSE
-Website,Add new dot net core opening,1056,1060,jamessspanggg,11/30/20,250,FALSE
-Website,Added Hello World in Wolfo Language,351,979,dhakal0kushal,11/30/20,500,FALSE
-Website,Add tasks completed in Profile,1063,1065,jamessspanggg,12/02/20,5000,FALSE
-Website,971-updated docs cv - banks,971,999,aayushi14,12/02/20,1000,FALSE
-Website,Updated Docs for Primary Validator - Accounts #962 Fix,962,983,Hristijan95,12/02/20,1000,FALSE
+Website,[Leaderboard] High ranking number exceeds container in mobile view,1041,1054,nparoski,11/30/20,1000,FALSE
+Website,New Job Opening: Senior .NET Core developer,1056,1060,jamessspanggg,11/30/20,250,FALSE
+Website,"Put ""Hello World"" in your OWN language!",351,979,dhakal0kushal,11/30/20,500,FALSE
+Website,Create the "Tasks Completed" section of the profile page,1063,1065,jamessspanggg,12/02/20,5000,FALSE
+Website,Update Docs for Confirmation Validator - Banks,971,999,aayushi14,12/02/20,1000,FALSE
+Website,Update Docs for Primary Validator - Accounts,962,983,Hristijan95,12/02/20,1000,FALSE
 Bank,Fix Flake8 Issues for Bank,96,101,makaramkd,11/26/20,5000,FALSE
 Bank,Generate documentation for the codebase using sphinx,97,99,AbhayAysola,11/26/20,5000,FALSE
 Kotlin-SDK,Build AccountDataSource class that calls Account endpoints through HttpService,15,53,nishp77,11/21/20,1000,FALSE
@@ -382,12 +382,12 @@ Kotlin-SDK,Implement Blocks GET request for Banks API,61,67,nishp77,11/30/20,200
 Design,As a contributor I would like to see all the link to the main file for Figma in one place so that I don't have to ask for them everytime i need it,65,,osaroadade,12/02/20,1000,FALSE
 Design,HIFI - Coins Topic Infographic,77,,devanshgajjar,12/02/20,1000,FALSE
 Kotlin-SDK,Implement ConfigDataSource class for Bank Config endpoint,49,59,matthewrkula,11/23/20,1000,FALSE
-Website,Documentation fixes,955,982,velibor7,12/03/20,1000,FALSE
-Website,Documentation fixes,954,982,velibor7,12/03/20,1000,FALSE
-Website,Documentation fixes,951,982,velibor7,12/03/20,1000,FALSE
-Website,Issue bank confirmation services #970,970,1064,UweVanOpfern,12/03/20,1000,FALSE
-Website,964-docs primary validator banks,964,1057,aayushi14,12/03/20,1000,FALSE
-Website,Add new contributor,1069,1072,jamessspanggg,12/03/20,500,FALSE
+Website,Update Docs for Bank - Config,955,982,velibor7,12/03/20,1000,FALSE
+Website,Update Docs for Bank - Blocks,954,982,velibor7,12/03/20,1000,FALSE
+Website,Update Docs for Bank - Accounts,951,982,velibor7,12/03/20,1000,FALSE
+Website,Update Docs for Confirmation Validator - Bank Confirmation Services,970,1064,UweVanOpfern,12/03/20,1000,FALSE
+Website,Update Docs for Primary Validator - Banks,964,1057,aayushi14,12/03/20,1000,FALSE
+Website,New Contributor,1069,1072,jamessspanggg,12/03/20,500,FALSE
 Design,Trust Coins Infographic,63,,Niekon01,12/04/20,1000,FALSE
 Design,Coins Memes Infographic (includes 2),87,,dhakal0kushal,12/04/20,2000,FALSE
 Design,Coins Memes Infographic,86,,YashovardhanSingh,12/04/20,1000,FALSE
@@ -396,9 +396,9 @@ Design,Facts about Coins Infographic,61,,YashovardhanSingh,12/03/20,1000,FALSE
 Design,Spending Coins Infographic,62,,smazydev,12/03/20,1000,FALSE
 Design,HIFI - Infographics on Project Proposals,79,,devanshgajjar,12/04/20,1000,FALSE
 Design,HIFI - Infographics on Project Proposals,78,,devanshgajjar,12/04/20,1000,FALSE
-Website,[Dropdowns] Allow outer div to be toggle-able,1075,1076,jamessspanggg,12/05/20,500,FALSE
-Website,Add Profile Info section,1062,1070,jamessspanggg,12/07/20,5000,FALSE
-Website,Modify teams data,1077,1081,jamessspanggg,12/07/20,500,FALSE
+Website,[Documentation] Breadcrumb menu does not toggle when clicked on icon,1075,1076,jamessspanggg,12/05/20,500,FALSE
+Website,Create the "Profile Info" section of the profile page,1062,1070,jamessspanggg,12/07/20,5000,FALSE
+Website,New Contributor,1077,1081,jamessspanggg,12/07/20,500,FALSE
 Bank,Write a test for class BankViewSet using get method to verify bank details,107,114,DucPhamTV,12/07/20,1000,FALSE
 Bank,Write a test to validate unique constraint of block and validator together,108,115,DucPhamTV,12/07/20,1000,FALSE
 Bank,Unit test failed when Faker().pytest() = 0,117,118,DucPhamTV,12/06/20,2000,TRUE
@@ -410,13 +410,13 @@ thenewboston-js,[Task] Type Bank Get Config Response,17,18,sno2,12/09/20,500,FAL
 thenewboston-js,[Task] Add Axios Response Generics for `ServerNode` Request Methods,15,16,sno2,12/08/20,500,FALSE
 thenewboston-js,[Task] Implement Browser Support with Browserify,9,13,mrbusysky,12/08/20,2000,FALSE
 thenewboston-python,Generate documentation for the codebase using sphinx,36,42,AbhayAysola,12/06/20,5000,FALSE
-Website,Doc Update - Validator Upgrade Request,976,1045,wendtl,12/05/20,1000,FALSE
-Website,Last updated date for Docs #549,549,1091,CNFloss,12/09/20,2000,FALSE
-Website,Update to add tnb-js,1103,1098,mrbusysky,12/10/20,250,FALSE
-Website,Remove Sunil Chauhan,1092,1093,manishram,12/10/20,500,FALSE
-Website,Add wordpress developer to openings,1101,1102,manishram,12/10/20,500,FALSE
+Website,Update Docs for Confirmation Validator - Upgrade Request,976,1045,wendtl,12/05/20,1000,FALSE
+Website,Last updated date for Docs,549,1091,CNFloss,12/09/20,2000,FALSE
+Website,Add thenewboston-js to tasks page,1103,1098,mrbusysky,12/10/20,250,FALSE
+Website,Remove contributor,1092,1093,manishram,12/10/20,500,FALSE
+Website,WordPress Developer,1101,1102,manishram,12/10/20,500,FALSE
 Kotlin-SDK,Android Sample App,42,57,amarjeet987,12/03/20,2000,FALSE
-Website,refactor: add routing on teams page,1095,1096,thesanjeevsharma,12/11/20,1000,FALSE
+Website,Add routing to teams page,1095,1096,thesanjeevsharma,12/11/20,1000,FALSE
 Bank,Write a test to validate value of account number and trust in accounts,121,123,DucPhamTV,12/11/20,1000,FALSE
 Bank,Write a test to validate unique constraint of confirmation_validator and primary_validator together for InvalidBlock,109,122,DucPhamTV,12/11/20,1000,FALSE
 Design,HIFI - Money to Currency Infographic,80,,devanshgajjar,12/10/20,1000,FALSE
@@ -432,25 +432,25 @@ thenewboston-js,[Task] Implement POST Primary Validator Updated for `Confirmatio
 thenewboston-js,[Task] Implement POST Upgrade Request for `ConfirmationValidator`,29,31,AbhayAysola,12/09/20,2000,FALSE
 thenewboston-js,[Task] Refactor Account Class Construction,19,21,sno2,12/09/20,2000,FALSE
 thenewboston-js,[Task] Implement Update Account Method for `Bank`,14,20,AbhayAysola,12/09/20,3000,FALSE
-Website,Fix download button concatenation (#1055),1055,1115,SirDaev,12/14/20,500,FALSE
-Website,Added white logo,1073,1113,leelatanniru,12/14/20,500,FALSE
-Website,1083- added new contributor,1083,1086,aayushi14,12/14/20,500,FALSE
-Website,Profile: add link to team page,1109,1104,jamessspanggg,12/14/20,1000,FALSE
-Website,Add new kotlin contributor,1085,1090,jamessspanggg,12/14/20,500,FALSE
-Website,Update documentation for Connection Requests,974,1026,DucPhamTV,12/14/20,1000,FALSE
-Website,1084-added job opening,1084,1087,aayushi14,12/14/20,500,FALSE
-Website,Update documentation for Connection Requests,958,1026,DucPhamTV,12/14/20,1000,FALSE
-Website,Update documentation for Connection Requests,967,1026,DucPhamTV,12/14/20,1000,FALSE
-Website,Added Hello World in Shona,351,1126,tomijaga,12/15/20,500,FALSE
-Website,Adding discord,1111,1110,mrbusysky,12/15/20,1000,FALSE
-Website,Update for Project proposals,1116,1117,manishram,12/15/20,500,FALSE
+Website,Download button weird behaviour,1055,1115,SirDaev,12/14/20,500,FALSE
+Website,Add additional logos to Assets page,1073,1113,leelatanniru,12/14/20,500,FALSE
+Website,New Contributor,1083,1086,aayushi14,12/14/20,500,FALSE
+Website,[Profile] Add team link,1109,1104,jamessspanggg,12/14/20,1000,FALSE
+Website,New Contributor,1085,1090,jamessspanggg,12/14/20,500,FALSE
+Website,Update Docs for Confirmation Validator - Connection Requests,974,1026,DucPhamTV,12/14/20,1000,FALSE
+Website,Job Description,1084,1087,aayushi14,12/14/20,500,FALSE
+Website,Update Docs for Bank - Connection Requests,958,1026,DucPhamTV,12/14/20,1000,FALSE
+Website,Update Docs for Primary Validator - Connection Requests,967,1026,DucPhamTV,12/14/20,1000,FALSE
+Website,"Put ""Hello World"" in your OWN language!",351,1126,tomijaga,12/15/20,500,FALSE
+Website,Need to add discord to website,1111,1110,mrbusysky,12/15/20,1000,FALSE
+Website,Update the Project Proposals section,1116,1117,manishram,12/15/20,500,FALSE
 Kotlin-SDK,Implement POST request for invalid block in Banks API,64,87,petersommerhoff,12/12/20,2000,FALSE
 Kotlin-SDK,Implement PATCH request for Account in Banks API,65,74,petersommerhoff,12/06/20,2000,FALSE
 Kotlin-SDK,Implement GET request for invalid blocks in Banks API,63,75,nishp77,12/06/20,2000,FALSE
 Kotlin-SDK,Implement PATCH request for Banks in Banks API,66,78,IanArb,12/10/20,2000,FALSE
 thenewboston-js,[Task] Create `Validator` Documentation,25,43,CNFloss,12/14/20,7500,FALSE
-Website,Fix width of mobile menu dropdown,1129,1130,jamessspanggg,12/16/20,500,FALSE
-Website,[Documentaion] Bank confirmation blocks,956,980,VincentHch,12/05/20,1000,FALSE
-Website,[Documentation] Bank invalid blocks,957,981,VincentHch,12/02/20,1000,FALSE
-Website,Prevent mobile menu from blocking header elements during animation,582,1118,SirDaev,12/15/20,1000,FALSE
-Website,Add twitch link,1131,1132,jamessspanggg,12/18/20,500,FALSE
+Website,Mobile menu dropdown shifts things around,1129,1130,jamessspanggg,12/16/20,500,FALSE
+Website,Update Docs for Bank - Confirmation Blocks,956,980,VincentHch,12/05/20,1000,FALSE
+Website,Update Docs for Bank - Invalid Blocks,957,981,VincentHch,12/02/20,1000,FALSE
+Website,Mobile drop-down menu blocking logo & icon during animation,582,1118,SirDaev,12/15/20,1000,FALSE
+Website,Add Twitch link to Social Media page,1131,1132,jamessspanggg,12/18/20,500,FALSE
