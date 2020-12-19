@@ -320,21 +320,21 @@ Design,Teams page update,23,,kristykjlee,11/20/20,2000,FALSE
 Design,As a user I would like to be able to sell my goods to accumulate more TNB coins,24,,davidyapdy,11/24/20,2000,FALSE
 Design,Blockchain topic Infographic,55,,DrSparky-2007,11/24/20,2000,FALSE
 Website,Last updated date for Docs,549,,mofodox,11/08/20,500,FALSE
-Website,Adds new rule,1024,1025,manishram,11/25/20,500,FALSE
-Website,Feature/accesibility improvements,843,844,nparoski,11/25/20,2000,TRUE
-Website,fix: docs routing,1023,1027,thesanjeevsharma,11/26/20,1000,TRUE
-Website,Add how to set up payment board docs,990,1020,jamessspanggg,11/26/20,1000,FALSE
-Website,Update Swedish hello world,351,478,AntonFredrikSvensson,11/06/20,500,FALSE
-Website,Add github action workflow for linting,1032,1033,jamessspanggg,11/26/20,2000,FALSE
-Website,969-updated docs for Confirmation Validator - Accounts,969,998,aayushi14,11/26/20,1000,FALSE
-Website,968-updated docs for Primary Validator - Validators,968,992,aayushi14,11/26/20,1000,FALSE
-Website,[Documentation]: Updated Docs for Bank - Bank Transactions #952,952,986,UweVanOpfern,11/26/20,1000,FALSE
-Website,965-updated docs for Primary Validator - Config,965,991,aayushi14,11/26/20,1000,FALSE
-Website,961-updated docs for Bank - Validators,961,995,aayushi14,11/26/20,1000,FALSE
-Website,972-updated docs cv - config,972,1000,aayushi14,11/26/20,1000,FALSE
-Website,Update document for Bank API /Banks,953,1006,DucPhamTV,11/26/20,1000,FALSE
-Website,Remove contributor,1030,1031,jamessspanggg,11/26/20,250,FALSE
-Wensite,Hello World in Afaan Oromoo,351,949,Toledit,11/26/20,500,FALSE
+Website,Add new rule,1024,1025,manishram,11/25/20,500,FALSE
+Website,[Bug] Interactive elements don't have outlines on focus and are not clickable via keyboard.,843,844,nparoski,11/25/20,2000,TRUE
+Website,The guide page redirects to the home page,1023,1027,thesanjeevsharma,11/26/20,1000,TRUE
+Website,Add How to Set Up Payment Board Docs,990,1020,jamessspanggg,11/26/20,1000,FALSE
+Website,"Put ""Hello World"" in your OWN language!",351,478,AntonFredrikSvensson,11/06/20,500,FALSE
+Website,[Suggestion] Automate testing/linting using github actions,1032,1033,jamessspanggg,11/26/20,2000,FALSE
+Website,Update Docs for Confirmation Validator - Accounts,969,998,aayushi14,11/26/20,1000,FALSE
+Website,Update Docs for Primary Validator - Validators,968,992,aayushi14,11/26/20,1000,FALSE
+Website,Update Docs for Bank - Bank Transactions,952,986,UweVanOpfern,11/26/20,1000,FALSE
+Website,Update Docs for Primary Validator - Config,965,991,aayushi14,11/26/20,1000,FALSE
+Website,Update Docs for Bank - Validators,961,995,aayushi14,11/26/20,1000,FALSE
+Website,Update Docs for Confirmation Validator - Config,972,1000,aayushi14,11/26/20,1000,FALSE
+Website,Update Docs for Bank - Banks,953,1006,DucPhamTV,11/26/20,1000,FALSE
+Website,Remove team member,1030,1031,jamessspanggg,11/26/20,250,FALSE
+Website,"Put ""Hello World"" in your OWN language!",351,949,Toledit,11/26/20,500,FALSE
 Account-Manager,Import/Export Signing Keys Hi-Fi,148,,kristykjlee,11/17/20,5000,FALSE
 Account-Manager,Editing account nickname does not revalidate the nickname,488,489,jamessspanggg,11/20/20,1000,TRUE
 Account-Manager,Editing bank nickname does not revalidate the nickname,490,491,jamessspanggg,11/20/20,1000,TRUE
@@ -343,20 +343,20 @@ Account-Manager,[Suggestion] Move validation values to a constant file,496,497,j
 Account-Manager,Able to give nickname that is very long,494,495,jamessspanggg,11/22/20,500,TRUE
 Validator,Fix Flake8 Issues for Validator,91,94,AbhayAysola,11/27/20,5000,FALSE
 Validator,Generate documentation for the codebase using sphinx,93,95,AbhayAysola,11/26/20,5000,FALSE
-Website,fixes #1042,1042,1043,YashovardhanSingh,11/27/20,500,TRUE
-Website,Add new contributor,1039,1040,jamessspanggg,11/27/20,250,FALSE
+Website,The leaderboard page redirects to the home page,1042,1043,YashovardhanSingh,11/27/20,500,TRUE
+Website,New Contributor,1039,1040,jamessspanggg,11/27/20,250,FALSE
 Kotlin-SDK,Standardise unit tests with Kotest assertions,47,69,IanArb,11/28/20,2000,FALSE
 Kotlin-SDK,Implement BankTransactionsDataSource class for Bank Transactions Endpoint,48,48,itsnikhil,11/18/20,1000,FALSE
 Kotlin-SDK,Implement BankTransactionRepository for Bank API,51,54,itsnikhil,11/18/20,500,FALSE
-Website,[Documentation]: Updated Docs for Bank - Bank Transactions #952,966,986,UweVanOpfern,11/26/20,1000,FALSE
-Website,Feature/design team,1050,1053,nparoski,11/29/20,250,FALSE
-Website,Reuse avatar component in SlideUpAccountDetails,1051,1052,jamessspanggg,11/28/20,1000,FALSE
-Website,Fix/ie blank page,211,1044,nparoski,11/28/20,2000,FALSE
-Website,977-updated docs cv - validators,977,1001,aayushi14,11/28/20,1000,FALSE
-Website,Add new job opening,1046,1048,jamessspanggg,11/28/20,250,FALSE
-Website,Add Stylelint as CSS/SCSS linter,1036,1049,jamessspanggg,11/28/20,2500,FALSE
+Website,Update Docs for Primary Validator - Confirmation Blocks,966,986,UweVanOpfern,11/26/20,1000,FALSE
+Website,New Contributor,1050,1053,nparoski,11/29/20,250,FALSE
+Website,[Leaderboard] Slide up account details shifts around when initially loaded,1051,1052,jamessspanggg,11/28/20,1000,FALSE
+Website,[Internet Explorer] Site not working,211,1044,nparoski,11/28/20,2000,FALSE
+Website,Update Docs for Confirmation Validator - Validators,977,1001,aayushi14,11/28/20,1000,FALSE
+Website,New Job Opening,1046,1048,jamessspanggg,11/28/20,250,FALSE
+Website,[Suggestion] Linter for css/scss files,1036,1049,jamessspanggg,11/28/20,2500,FALSE
 thenewboston-js,[Task] Implement `ServerNode` POST Request Method,7,8,sno2,11/28/20,250,FALSE
-Website,New content writer job opening,1047,1058,Hristijan95,11/29/20,250,FALSE
+Website,New Job Opening,1047,1058,Hristijan95,11/29/20,250,FALSE
 Design,Join Our Community! page revamp,22,,lukas-kasticky,11/27/20,7500,FALSE
 Design,Money to Currency Infographic,60,,YashovardhanSingh,11/30/20,2000,FALSE
 Design,Project Proposal Templates for social media,74,,osaroadade,11/30/20,2000,FALSE
