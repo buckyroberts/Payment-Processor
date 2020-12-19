@@ -208,71 +208,71 @@ Website,"Put ""Hello World"" in your OWN language!",351,727,ddyakov,11/12/20,500
 Website,"Put ""Hello World"" in your OWN language!",351,735,Tobel158,11/12/20,500,FALSE
 Website,"Put ""Hello World"" in your OWN language!",351,736,VincentHch,11/12/20,500,FALSE
 Website,"Put ""Hello World"" in your OWN language!",351,740,sardorml,11/12/20,500,FALSE
-Website,Links in the navbar cannot be opened in a new tab,752,753,BlueBlazin,11/12/20,500,
-Website,Fixes: #523 Assets page,523,641,manishram,11/12/20,7500,
-Website,Openings - Hiring Freeze #738 Fixed!,738,739,Akshit1311,11/12/20,1000,
-Website,Prevent content jumping in leaderboard page,703,704,jamessspanggg,11/11/20,1000,
-Website,Fix Social page heading and links alignment,686,716,cfviotti,11/11/20,500,
-Website,[#675] Fix hash link in documentations page,675,676,jamessspanggg,11/10/20,500,
-Website,[#679] Fix leaderboard drop down,679,680,jamessspanggg,11/10/20,1000,
-Website,added @mersimoski to front-end team,699,700,thesanjeevsharma,11/10/20,500,
-Website,updated engineering openings,706,707,thesanjeevsharma,11/10/20,500,
-Website,Fixed typos in FAQ page,705,653,DenverCoder1,11/10/20,500,
-Website,Fixes #389: Download page needs design update for iPhone 5,389,560,nrednav,11/11/20,2000,
-Website,feat: Add contributor to the team of front-end developers,750,755,subhamg,11/12/20,500,
-Website,Feature/Account manager docs,761,737,whitelionx,11/12/20,1000,
-Website,fixed typo in react/jsx style guide,756,759,ddyakov,11/13/20,500,
-Website,Added hello world in khmer language,351,742,sotheavuthnguon,11/12/20,500,
-Website,Added Czech language,351,762,The-Veil,11/12/20,500,
-Website,Add correct hello-world in Slovak,351,685,danieloravec,11/12/20,500,
-Website,Added Hello world in Catalan,351,766,Rosendo6,11/13/20,500,
-Website,Changed hello in telugu to real form of hello i.e namaste,351,677,suhailpappu,11/13/20,500,
-Website,Fix code highlighting in documentation,733,734,jamessspanggg,11/13/20,1000,
-Website,763- fixed incorrect text on Add Friends page,763,764,aayushi14,11/13/20,500,
-Website,Hello world in Polish,351,765,P-Sklodowska,11/14/20,500,
-Website,Added Maltese language.,351,771,laughablehaha,11/14/20,500,
-Website,New Member Added Issue 773,773,777,LunarDeveloper,11/14/20,500,
-Website,New contributor added,772,775,hasham56,11/14/20,500,
-Website,Add new contributor to the Back-End Developers,745,746,manishram,11/14/20,500,
-Website,[#743] Add new front end contributor,743,744,jamessspanggg,11/14/20,500,
-Website,Change sorting of members to be based on contributorId,747,788,jamessspanggg,11/14/20,500,
-Website,improved correctness and clarity in itroduction page text,800,801,ddyakov,11/14/20,500,
-Website,New Contributer #782,782,784,Akshit1311,11/13/20,500,
-Website,fixes #787,787,794,YashovardhanSingh,11/13/20,500,
-Website,New Contributor Added,793,797,hasham56,11/13/20,500,
-Website,donate-card-margin fixes,776,817,rahulkiller104,11/14/20,500,
+Website,Links in the navbar cannot be opened in a new tab,753,752,BlueBlazin,11/12/20,500,FALSE
+Website,Design Assets page,523,641,manishram,11/12/20,7500,FALSE
+Website,Openings - HIRING FREEZE,738,739,Akshit1311,11/12/20,1000,FALSE
+Website,[Leaderboard] Image content jumping when loading page,703,704,jamessspanggg,11/11/20,1000,FALSE
+Website,"""Join the Community"" heading in /social",686,716,cfviotti,11/11/20,500,FALSE
+Website,[Documentation] Hash link snap issue,675,676,jamessspanggg,11/10/20,500,FALSE
+Website,[Leaderboard] Dropdown does not work,679,680,jamessspanggg,11/10/20,1000,FALSE
+Website,Update teams page,699,700,thesanjeevsharma,11/10/20,500,FALSE
+Website,Update engineering openings,706,707,thesanjeevsharma,11/10/20,500,FALSE
+Website,Proofreading FAQ page,705,653,DenverCoder1,11/10/20,500,FALSE
+Website,Download page needs design update for iPhone 5,389,560,nrednav,11/11/20,2000,FALSE
+Website,New Contributor,750,755,subhamg,11/12/20,500,FALSE
+Website,More Account Manager Docs,761,737,whitelionx,11/12/20,1000,FALSE
+Website,Typo in the documentation.,756,759,ddyakov,11/13/20,500,FALSE
+Website,"Put ""Hello World"" in your OWN language!",351,742,sotheavuthnguon,11/12/20,500,FALSE
+Website,"Put ""Hello World"" in your OWN language!",351,762,The-Veil,11/12/20,500,FALSE
+Website,"Put ""Hello World"" in your OWN language!",351,685,danieloravec,11/12/20,500,FALSE
+Website,"Put ""Hello World"" in your OWN language!",351,766,Rosendo6,11/13/20,500,FALSE
+Website,"Put ""Hello World"" in your OWN language!",351,677,suhailpappu,11/13/20,500,FALSE
+Website,[Documentation] Code segments under CSS / SASS not highlighted properly,733,734,jamessspanggg,11/13/20,1000,FALSE
+Website,Incorrect Text on the Add Friends Page,763,764,aayushi14,11/13/20,500,FALSE
+Website,"Put ""Hello World"" in your OWN language!",351,765,P-Sklodowska,11/14/20,500,FALSE
+Website,"Put ""Hello World"" in your OWN language!",351,771,laughablehaha,11/14/20,500,FALSE
+Website,New Contributor,773,777,LunarDeveloper,11/14/20,500,FALSE
+Website,New Contributor,772,775,hasham56,11/14/20,500,FALSE
+Website,New Contributor,745,746,manishram,11/14/20,500,FALSE
+Website,New Contributor,743,744,jamessspanggg,11/14/20,500,FALSE
+Website,Sorting of team members not working as expected,747,788,jamessspanggg,11/14/20,500,FALSE
+Website,Small correctness and clarity mistakes in introduction page,800,801,ddyakov,11/14/20,500,FALSE
+Website,New Contributor,782,784,Akshit1311,11/13/20,500,FALSE
+Website,A little typo in the 'Openings' page,787,794,YashovardhanSingh,11/13/20,500,FALSE
+Website,New Contributor,793,797,hasham56,11/13/20,500,FALSE
+Website,extra right margin in donate-card on mobile,776,817,rahulkiller104,11/14/20,500,FALSE
 marketing,LinkedIn Banner,6,,SOHDA31,11/15/20,7500,
-Website,Hello world in pali,351,824,KingChampion36,11/15/20,500,
-Website,Hello world in Akan,351,692,fosteradorkor,11/15/20,500,
-Website,Add Hello World Twi (Akan),351,820,Weav3r,11/15/20,500,
-Website,Update of hello-world.ts and a suggestion.,351,698,phoenixArtwork,11/15/20,500,
-Website,fix: long-press TopNav links on Android,812,813,PatNeedham,11/15/20,500,
-Website,Fix/double focus,830,831,nparoski,11/15/20,1000,
-Website,Fixes Left Navigation Links,564,803,manishram,11/15/20,1000,
-Website,👌auto select download tab based on user system,819,805,akamfoad,11/15/20,1000,
-Website,Complete title of recent task on hover,815,816,manishram,11/15/20,500,
-Website,Enforce width of task sections in leaderboard,839,840,jamessspanggg,11/15/20,2000,
-Website,Added contributor for issue #821,821,823,KingChampion36,11/15/20,500,
-Website,[FAQ] Fix console error in development mode,845,846,jamessspanggg,11/15/20,500,
-Website,Page Title Fix: Assets and Openings page,854,855,manishram,11/16/20,500,
-Website,Remove empty new line in scripts within deployment guides,858,859,jamessspanggg,11/16/20,500,
-Website,Added Hello World in Aragonese,351,861,pabloqb2000,11/16/20,500,
-Website,Added Burmese language,351,860,dark121211,11/16/20,500,
-Website,Update hello-world.ts,351,874,siemen-subbaiah,11/17/20,500,
-Website,Added Hello World in Welsh language,351,868,melsh123221,11/16/20,500,
-Website,Added 'Hello world' in Georgian,351,867,Hot-Shot75,11/16/20,500,
-Website,Added 'Hello World' in Latin.,351,862,briankinane,11/16/20,500,
-Website,Fixed typo in the documentation account: 3972dfcfb9fd488cf90644b599558d3e265bdb883686933f62e8450aaee974b1,889,757,alexkimeu0,11/17/20,500,
-Website,Utilise react-helmet-async instead of react-helmet,856,857,jamessspanggg,11/16/20,1000,
-Website,Fix console warnings,863,865,jamessspanggg,11/16/20,1000,
-Website,Remove package-lock.json and update npm commands to yarn,828,829,ffpetrovic,11/16/20,500,
-Website,New contributor added for front end (#866),866,871,KingChampion36,11/16/20,500,
-Website,Add new user,872,873,VincentHch,11/16/20,500,
-Website,added Kotlin-SDK to tasks,876,882,thesanjeevsharma,11/17/20,500,
-Website,Fixes #550 - Added Sorting in Tasks,550,616,kush-daga,11/16/20,7500,
+Website,"Put ""Hello World"" in your OWN language!",351,824,KingChampion36,11/15/20,500,FALSE
+Website,"Put ""Hello World"" in your OWN language!",351,692,fosteradorkor,11/15/20,500,FALSE
+Website,"Put ""Hello World"" in your OWN language!",351,820,Weav3r,11/15/20,500,FALSE
+Website,"Put ""Hello World"" in your OWN language!",351,698,phoenixArtwork,11/15/20,500,FALSE
+Website,[Android] Long-press on top nav links doesn't give option to open in new tab,812,813,PatNeedham,11/15/20,500,FALSE
+Website,[Bug]Website buttons in navigation have double focus.,830,831,nparoski,11/15/20,1000,FALSE
+Website,Task Left Menu Issue,564,803,manishram,11/15/20,1000,FALSE
+Website,website doesn't auto select download tab based on user system,819,805,akamfoad,11/15/20,1000,FALSE
+Website,Issue with recent task title,815,816,manishram,11/15/20,500,FALSE
+Website,[Leaderboard] Inconsistencies in width of tasks,839,840,jamessspanggg,11/15/20,2000,FALSE
+Website,New Contributor,821,823,KingChampion36,11/15/20,500,FALSE
+Website,[FAQ] Console error when in dev mode,845,846,jamessspanggg,11/15/20,500,FALSE
+Website,Title Missing: Assets and Openings page,854,855,manishram,11/16/20,500,FALSE
+Website,[Documentation] Empty new lines in deployment guide,858,859,jamessspanggg,11/16/20,500,FALSE
+Website,"Put ""Hello World"" in your OWN language!",351,861,pabloqb2000,11/16/20,500,FALSE
+Website,"Put ""Hello World"" in your OWN language!",351,860,dark121211,11/16/20,500,FALSE
+Website"Put ""Hello World"" in your OWN language!",351,874,siemen-subbaiah,11/17/20,500,FALSE
+Website,"Put ""Hello World"" in your OWN language!",351,868,melsh123221,11/16/20,500,FALSE
+Website,"Put ""Hello World"" in your OWN language!",351,867,Hot-Shot75,11/16/20,500,FALSE
+Website,"Put ""Hello World"" in your OWN language!",351,862,briankinane,11/16/20,500,FALSE
+Website,Documentation typo,889,757,alexkimeu0,11/17/20,500,FALSE
+Website,UNSAFE_componentWillMount console error,856,857,jamessspanggg,11/16/20,1000,FALSE
+Website,Fix console warnings during development,863,865,jamessspanggg,11/16/20,1000,FALSE
+Website,Remove package-lock.json and use yarn,828,829,ffpetrovic,11/16/20,500,FALSE
+Website,New Contributor,866,871,KingChampion36,11/16/20,500,FALSE
+Website,New Contributor,872,873,VincentHch,11/16/20,500,FALSE
+Website,Add Kotlin SDK to tasks,876,882,thesanjeevsharma,11/17/20,500,FALSE
+Website,[Feature Request] Tasks should be sortable by time and coins,550,616,kush-daga,11/16/20,7500,FALSE
 thenewboston-python-client,Bank - banks api calls,15,24,jtavak,11/17/20,5000,
-Website,Added Maori language,351,884,Tuhinga,11/18/20,500,
-Website,'Hello World' in Haitian Creole,351,891,lucedawg,11/18/20,500,
+Website,"Put ""Hello World"" in your OWN language!",351,884,Tuhinga,11/18/20,500,FALSE
+Website,"Put ""Hello World"" in your OWN language!",351,891,lucedawg,11/18/20,500,FALSE
 thenewboston-python-client,Bank - get bank config,16,34,VincentHch,11/17/20,5000,
 thenewboston-python-client,Bank - patch api call for validators path,22,23,velibor7,11/17/20,5000,
 thenewboston-python-client,Bank - validator confirmation services api calls,19,37,CirXe0N,11/17/20,5000,
