@@ -133,18 +133,18 @@ Website,"Put ""Hello World"" in your OWN language!",351,484,hLudde,11/05/20,500,
 Website,"Put ""Hello World"" in your OWN language!",351,485,phase7,11/05/20,500,FALSE
 Website,"Put ""Hello World"" in your OWN language!",351,486,JayBIOS,11/05/20,500,FALSE
 Website,"Put ""Hello World"" in your OWN language!",351,490,VJKLFT,11/05/20,500,FALSE
-Website,Static Teams Page,503,508,buckyroberts,11/05/20,500,
-Website,Task page margin,413,469,itsnikhil,11/06/20,1000,
-Website,Added Hello World in Swahili,351,635,alexkimeu0,11/09/20,500,
-Website,Docs need some language/grammatical fixes,619,624,sdhiaeddine,11/09/20,1000,
-Website,Updated the Team page,627,639,jaelee0409,11/09/20,1000,
-Website,Add hello world in javanese,351,642,jamessspanggg,11/09/20,500,
-Website,Add hello world in Amharic,351,649,rasabel,11/09/20,500,
-Website,Added Hello World in Punjabi,351,623,singh-sarabjeet,11/09/20,500,
-Website,Fixes: #399 Added go to top button,399,600,manishram,11/09/20,1000,
-Website,Added Hello World in Hungarian language.,351,597,vilihegyi,11/09/20,500,
-Website,fix: Apply z-translation to make rotated chevron visible in Safari,446,504,mthomas-io,11/09/20,1000,
-Website,Hellow World in Belarusian,351,652,askass,11/09/20,500,
+Website,Static Teams Page,503,508,buckyroberts,11/05/20,500,FALSE
+Website,Task page margin,413,469,itsnikhil,11/06/20,1000,FALSE
+Website,"Put ""Hello World"" in your OWN language!",351,635,alexkimeu0,11/09/20,500,FALSE
+Website,Docs need some language/grammatical fixes,619,624,sdhiaeddine,11/09/20,1000,FALSE
+Website,Team Page - Member Updates,627,639,jaelee0409,11/09/20,1000,FALSE
+Website,"Put ""Hello World"" in your OWN language!",351,642,jamessspanggg,11/09/20,500,FALSE
+Website,"Put ""Hello World"" in your OWN language!",351,649,rasabel,11/09/20,500,FALSE
+Website,"Put ""Hello World"" in your OWN language!",351,623,singh-sarabjeet,11/09/20,500,FALSE
+Website,add the floating button that takes us to the top of the page,399,600,manishram,11/09/20,1000,FALSE
+Website,"Put ""Hello World"" in your OWN language!",351,597,vilihegyi,11/09/20,500,FALSE
+Website,Get Started / Community chevron icon disappears on toggle in Safari,446,504,mthomas-io,11/09/20,1000,FALSE
+Website,"Put ""Hello World"" in your OWN language!",351,652,askass,11/09/20,500,FALSE
 thenewboston-python-client,Implemented some validator features,13,12,jtavak,11/08/20,10000,
 thenewboston-python-client,Write and read signing key file,1,9,DucPhamTV,11/08/20,5000,
 thenewboston-python-client,Write and read signing key file,2,9,DucPhamTV,11/08/20,5000,
