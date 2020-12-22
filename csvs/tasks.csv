@@ -432,6 +432,8 @@ thenewboston-js,[Task] Implement POST Primary Validator Updated for `Confirmatio
 thenewboston-js,[Task] Implement POST Upgrade Request for `ConfirmationValidator`,29,31,AbhayAysola,12/09/20,2000,FALSE
 thenewboston-js,[Task] Refactor Account Class Construction,19,21,sno2,12/09/20,2000,FALSE
 thenewboston-js,[Task] Implement Update Account Method for `Bank`,14,20,AbhayAysola,12/09/20,3000,FALSE
+thenewboston-js,Fix the minified Browserify file,48,45,AbhayAysola,12/19/2020,1000,FALSE
+thenewboston-js,Updated some documentation,49,46,Meharban-Singh,12/22/2020,500,FALSE
 Website,Download button weird behaviour,1055,1115,SirDaev,12/14/20,500,FALSE
 Website,Add additional logos to Assets page,1073,1113,leelatanniru,12/14/20,500,FALSE
 Website,New Contributor,1083,1086,aayushi14,12/14/20,500,FALSE
