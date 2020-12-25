@@ -456,3 +456,6 @@ Website,Update Docs for Bank - Confirmation Blocks,956,980,VincentHch,12/05/20,1
 Website,Update Docs for Bank - Invalid Blocks,957,981,VincentHch,12/02/20,1000,FALSE
 Website,Mobile drop-down menu blocking logo & icon during animation,582,1118,SirDaev,12/15/20,1000,FALSE
 Website,Add Twitch link to Social Media page,1131,1132,jamessspanggg,12/18/20,500,FALSE
+thenewboston-js,Implement Payment Handler,51,50,sno2,12/23/2020,3000,FALSE
+thenewboston-js,Implemented post request for bank blocks under primary-validator 😁😁,47,54,nishp77,12/23/2020,2500,FALSE
+Validator,Write test_confirmation_block_history_post,108,130,DucPhamTV,12/18/2020,1000,FALSE
