@@ -456,3 +456,6 @@ Website,Update Docs for Bank - Confirmation Blocks,956,980,VincentHch,12/05/20,1
 Website,Update Docs for Bank - Invalid Blocks,957,981,VincentHch,12/02/20,1000,FALSE
 Website,Mobile drop-down menu blocking logo & icon during animation,582,1118,SirDaev,12/15/20,1000,FALSE
 Website,Add Twitch link to Social Media page,1131,1132,jamessspanggg,12/18/20,500,FALSE
+Website,Top contributors not showing in README,1147,1148,jamessspanggg,12/25/20,250,FALSE
+Website,Sharing website link with hash param does not snap to correct position,1127,1141,jamessspanggg,12/22/20,1000,FALSE
+Website,New Contributor,1139,1140,Rajputusman,12/22/20,500,FALSE
