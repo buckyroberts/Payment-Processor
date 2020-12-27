@@ -432,8 +432,8 @@ thenewboston-js,[Task] Implement POST Primary Validator Updated for `Confirmatio
 thenewboston-js,[Task] Implement POST Upgrade Request for `ConfirmationValidator`,29,31,AbhayAysola,12/09/20,2000,FALSE
 thenewboston-js,[Task] Refactor Account Class Construction,19,21,sno2,12/09/20,2000,FALSE
 thenewboston-js,[Task] Implement Update Account Method for `Bank`,14,20,AbhayAysola,12/09/20,3000,FALSE
-thenewboston-js,Fix the minified Browserify file,48,45,AbhayAysola,12/19/2020,1000,FALSE
-thenewboston-js,Updated some documentation,49,46,Meharban-Singh,12/22/2020,500,FALSE
+thenewboston-js,Fix the minified Browserify file,48,45,AbhayAysola,12/19/20,1000,FALSE
+thenewboston-js,Updated some documentation,49,46,Meharban-Singh,12/22/20,500,FALSE
 Website,Download button weird behaviour,1055,1115,SirDaev,12/14/20,500,FALSE
 Website,Add additional logos to Assets page,1073,1113,leelatanniru,12/14/20,500,FALSE
 Website,New Contributor,1083,1086,aayushi14,12/14/20,500,FALSE
@@ -474,3 +474,11 @@ Validator,Write a test to validate existing bank and validator using node identi
 Validator,Write a test to cover invalid request from primary identifier from connection request,120,129,DucPhamTV,12/16/20,1000,FALSE
 Validator,Write a test to cover invalid node type from connection requests,121,129,DucPhamTV,12/16/20,1000,FALSE
 Validator,Write a test to verify that primary validator field is required in connect request,122,129,DucPhamTV,12/16/20,1000,FALSE
+Website,Top contributors not showing in README,1147,1148,jamessspanggg,12/25/20,250,FALSE
+Website,Sharing website link with hash param does not snap to correct position,1127,1141,jamessspanggg,12/22/20,1000,FALSE
+Website,New Contributor,1139,1140,Rajputusman,12/22/20,500,FALSE
+Kotlin-SDK,Implement POST request for Blocks in Banks API,62,90,nishp77,12/17/20,2000,FALSE
+Kotlin-SDK,Implement GET confirmation services Bank API,81,91,IanArb,12/19/20,2000,FALSE
+Kotlin-SDK,Replace all uses of BankTrustResponse with Bank,79,89,tomijaga,12/17/20,1000,FALSE
+Kotlin-SDK,Implement POST confirmation services Bank API,82,99,IanArb,12/22/20,2000,FALSE
+Kotlin-SDK,Implement POST upgrade notice Bank API,83,100,IanArb,12/27/20,2000,FALSE
