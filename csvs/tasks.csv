@@ -464,5 +464,13 @@ Validator,Write a test for function head_block_hash_view(), queued_confirmation_
 Validator,Write a test for function block_chain_view() and block_queue_view(),104,126,DucPhamTV,12/13/20,1000,FALSE
 Validator,Create a test to create a bank using post method,102,126,DucPhamTV,12/13/20,1000,FALSE
 Validator,Write test for class ConnectionRequestView to cover creation of connection request,107,129,DucPhamTV,12/16/20,1000,FALSE
-
-
+Validator,Write a test for class ValidatorViewSet using post method and get method,106,127,DucPhamTV,12/12/20,1000,FALSE
+Validator,Write test to validate primary validator and node type,109,129,DucPhamTV,12/16/20,2000,FALSE
+Validator,Write a test to verify bank creation and confirmation validator creation using connection_requests url,115,129,DucPhamTV,12/16/20,2000,FALSE
+Validator,Write a test to verify the validator's connection to itself should fail with 400 status,116,129,DucPhamTV,12/16/20,1000,FALSE
+Validator,Write a test to verify the validator's connection to the existing bank and validator which should return 400 status,117,129,DucPhamTV,12/16/20,2000,FALSE
+Validator,Write a test to validate existing bank and validator using connection request,118,129,DucPhamTV,12/16/20,2000,FALSE
+Validator,Write a test to validate existing bank and validator using node identifier,119,129,DucPhamTV,12/16/20,2000,FALSE
+Validator,Write a test to cover invalid request from primary identifier from connection request,120,129,DucPhamTV,12/16/20,1000,FALSE
+Validator,Write a test to cover invalid node type from connection requests,121,129,DucPhamTV,12/16/20,1000,FALSE
+Validator,Write a test to verify that primary validator field is required in connect request,122,129,DucPhamTV,12/16/20,1000,FALSE
