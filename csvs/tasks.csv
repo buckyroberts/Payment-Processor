@@ -460,7 +460,7 @@ thenewboston-js,Implement Payment Handler,51,50,sno2,12/23/20,3000,FALSE
 thenewboston-js,Implemented post request for bank blocks under primary-validator 😁😁,47,54,nishp77,12/23/20,2500,FALSE
 Validator,Write test for class ConfirmationBlockHistory to cover creation of block history,108,130,DucPhamTV,12/18/20,1000,FALSE
 Validator,Write a test for function add_block_to_queue to add block to the queue,114,127,DucPhamTV,12/13/20,1000,FALSE
-Validator,Write a test for function head_block_hash_view(), queued_confirmation_blocks_view() and valid_confirmation_blocks_view(),105,126,DucPhamTV,12/13/20,1000,FALSE
+Validator,Write a test for function head_block_hash_view() queued_confirmation_blocks_view() and valid_confirmation_blocks_view(),105,126,DucPhamTV,12/13/20,1000,FALSE
 Validator,Write a test for function block_chain_view() and block_queue_view(),104,126,DucPhamTV,12/13/20,1000,FALSE
 Validator,Create a test to create a bank using post method,102,126,DucPhamTV,12/13/20,1000,FALSE
 Validator,Write test for class ConnectionRequestView to cover creation of connection request,107,129,DucPhamTV,12/16/20,1000,FALSE
