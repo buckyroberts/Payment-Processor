@@ -485,4 +485,5 @@ Kotlin-SDK,Implement POST upgrade notice Bank API,83,100,IanArb,12/27/20,2000,FA
 Website,Redux implementation,1080,1122,Hristijan95,12/28/20,10000,FALSE
 Website,Prepare the top navigation for user profile,1061,1100,amarjeet987,12/31/20,2000,FALSE
 Website,Update Docs for Confirmation Validator - Primary Validator Updated,975,1150,wajeehmisbahkhan,12/31/20,1000,FALSE
-Website,Slack link on homepage no longer active,1152,1155,singh-sarabjeet,12/30/20,1000,TRUE
+Website,Slack link on homepage no longer active,1152,1155,singh-sarabjeet,12/30/20,500,TRUE
+Website,Update Docs for Bank - Validator Confirmation Services,959,1134,DucPhamTV,12/31/20,1000,FALSE
