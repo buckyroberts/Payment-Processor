@@ -482,3 +482,4 @@ Kotlin-SDK,Implement GET confirmation services Bank API,81,91,IanArb,12/19/20,20
 Kotlin-SDK,Replace all uses of BankTrustResponse with Bank,79,89,tomijaga,12/17/20,1000,FALSE
 Kotlin-SDK,Implement POST confirmation services Bank API,82,99,IanArb,12/22/20,2000,FALSE
 Kotlin-SDK,Implement POST upgrade notice Bank API,83,100,IanArb,12/27/20,2000,FALSE
+Website,Redux implementation,1080,1122,Hristijan95,12/28/20,10000,FALSE
