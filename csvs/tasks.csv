@@ -489,6 +489,7 @@ Website,Slack link on homepage no longer active,1152,1155,singh-sarabjeet,12/30/
 Website,Update Docs for Bank - Validator Confirmation Services,959,1134,DucPhamTV,12/31/20,1000,FALSE
 Website,Update the team pages,1013,1138,thesanjeevsharma,12/31/20,10000,FALSE
 Website,Update Docs for Primary Validator - Bank Blocks,963,1146,DucPhamTV,12/31/20,1000,FALSE
+thenewboston-js,[Task] Create `PrimaryValidator` Documentation,27,55,AbhayAysola,12/27/20,5000,FALSE
 Kotlin-SDK,Implement GET request for Clean in Bank API,94,103,nishp77,12/28/20,2000,FALSE
 Kotlin-SDK,Implement GET request for Crawl in Bank API,96,105,nishp77,12/29/20,2000,FALSE
 Kotlin-SDK,Implement POST request for Clean in Bank API,95,104,nishp77,12/29/20,2000,FALSE
