@@ -497,17 +497,17 @@ Kotlin-SDK,Implement POST connection request Bank API,80,106,IanArb,12/30/20,200
 Design,Coins inspiring meme infographic,93,,dhakal0kushal,12/20/20,1000,FALSE
 Design,Promoting our Project proposal task,104,,mrbusysky,12/29/20,2000,FALSE
 Design,Logo designs for apparel/stickers,92,,Toledit,12/21/20,10000,FALSE
-Website,Teams Section repository name duplicated,1174,1175,jamessspanggg,01/04/21,500,FALSE
-Website,New Contributor,1166,1173,singh-sarabjeet,01/06/21,500,FALSE
-Website,New Contributor,1162,1172,singh-sarabjeet,01/05/21,500,FALSE
-Website,Remove Contributor,1163,1164,singh-sarabjeet,01/04/21,500,FALSE
+Website,Teams Section repository name duplicated,1174,1175,jamessspanggg,1/4/21,500,FALSE
+Website,New Contributor,1166,1173,singh-sarabjeet,1/6/21,500,FALSE
+Website,New Contributor,1162,1172,singh-sarabjeet,1/5/21,500,FALSE
+Website,Remove Contributor,1163,1164,singh-sarabjeet,1/4/21,500,FALSE
 Website,Auth forms: unable to click on submit button after filling all inputs correctly,1168,1169,jamessspanggg,1/16/21,1000,TRUE
 Website,"[Accessibility] Add `autocomplete` attributes for `type=""password""` input fields",1165,1167,jamessspanggg,1/16/21,500,TRUE
-Website,Add Francis Polignano as a contributer,1156,1171,singh-sarabjeet,01/11/21,500,FALSE
+Website,Add Francis Polignano as a contributer,1156,1171,singh-sarabjeet,1/11/21,500,FALSE
 Website,New Contributor - Aathil Ahamed,1188,1206,Paul-Taiwo,1/17/21,500,FALSE
 Website,New Contributor - Tristan Spearing,1186,1203,Paul-Taiwo,1/17/21,500,FALSE
 Website,New Contributor - Tomiwa,1187,1202,Paul-Taiwo,1/17/21,500,FALSE
-Website,Add title on some pages,626,654,Paul-Taiwo,11/09/20,2000,FALSE
+Website,Add title on some pages,626,654,Paul-Taiwo,11/9/20,2000,FALSE
 Website,[Leaderboard] Mismatch of issue for tasks completed,1200,1205,jroberts91,1/18/21,250,FALSE
 Website,Remove Contributor from Teams page,1207,1209,jroberts91,1/18/21,500,FALSE
 Website,Standardize query param component,1195,1196,jamessspanggg,1/19/21,2000,FALSE
