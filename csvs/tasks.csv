@@ -519,3 +519,4 @@ Kotlin-SDK,Implement Pagination for GET endpoints in Bank API,98,111,tomijaga,1/
 Kotlin-SDK,Implement POST request for Crawl in Bank API,97,109,nishp77,1/3/21,2000,FALSE
 Kotlin-SDK,Implement GET request for Config in Primary Validator API,117,121,tomijaga,1/25/21,2000,FALSE
 Website,Mobile drop down icon not clickable,1179,1190,AkinAguda,1/26/21,1000,TRUE
+Website,Remove Contributor from Teams Page,1210,1213,Rajputusman,1/21/21,500,FALSE
