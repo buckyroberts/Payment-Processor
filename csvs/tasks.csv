@@ -547,3 +547,14 @@ Website,Remove job openings,1310,1315,AmrOuf,2/18/21,250,FALSE
 Website,Add a new job opening,1274,1323,thesanjeevsharma,2/19/21,500,FALSE
 Website,New Contributor,1319,1322,aayushi14,2/19/21,250,FALSE
 Website,Remove team member from Teams Page,1297,1305,achalpatel,2/19/21,1000,FALSE
+Kotlin-SDK,Implement GET requests for Validators for Primary Validator API,119,122,tomijaga,1/28/21,2500,FALSE
+Kotlin-SDK,Implement GET request for Banks for Primary Validator API,118,123,tomijaga,1/28/21,2500,FALSE
+Kotlin-SDK,Implement GET request for Accounts in Primary Validator API,114,124,tomijaga,2/1/21,2500,FALSE
+Kotlin-SDK,Implement GET request for confirmation blocks in Primary Validator API,116,125,IanArb,02/04/21,2000,FALSE
+Kotlin-SDK,Implement POST request for Connection Requests for Primary Validator API,120,126,IanArb,02/11/21,2000,FALSE
+Kotlin-SDK,Implement GET requests for Accounts endpoint in Confirmation Validator API,127,141,IanArb,02/12/21,2500,FALSE
+Kotlin-SDK,Implement POST request for Bank Blocks in Primary Validator API,115,142,tomijaga,02/12/21,2000,FALSE
+Kotlin-SDK,Implement GET request for Config endpoint in Confirmation Validator API,132,143,tomijaga,2/13/21,2000,FALSE
+Kotlin-SDK,Implement GET clean endpoint in Confirmation Validator API,130,145,nishp77,2/13/21,2000,FALSE
+Kotlin-SDK,Implement POST request for clean endpoint in Confirmation Validator API,131,146,nishp77,2/13/21,2000,FALSE
+Kotlin-SDK,Implement GET requests for Confirmation Blocks endpoint in Confirmation Validator API,133,147,tomijaga,2/17/21,2000,FALSE
