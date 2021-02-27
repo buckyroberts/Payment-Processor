@@ -579,3 +579,5 @@ Website,UNIT TESTS - components/DocWrapper/DocSubSection,1350,1413,tomijaga,2/25
 Website,UNIT TESTS - components/HashLink,1357,1413,tomijaga,2/25/21,500,FALSE
 Website,UNIT TESTS - components/MarketingCard,1363,1412,thesanjeevsharma,2/25/21,2500,FALSE
 Website,UNIT TESTS - components/SocialMediaIcon,1374,1402,denistsoi,2/25/21,500,FALSE
+Validator,Set daily_confirmation_rate on initialize_validator,55,131,DucPhamTV,01/19/21,5000,FALSE
+
