@@ -588,3 +588,4 @@ Kotlin-SDK,Implement GET request for Confirmation Services endpoint in Confirmat
 Kotlin-SDK,Implement POST request for Connection Requests in Confirmation Validator API,135,153,tomijaga,2/27/21,2000,FALSE
 Website,UNIT TESTS - components/QueryParams/QueryParamsOffsetAndLimit,1370,1432,jamessspanggg,2/28/21,500,FALSE
 Website,UNIT TESTS - components/CodeSnipper/BaseCodeSnippet,1336,1431,jamessspanggg,2/28/21,2500,FALSE
+Website,UNIT TESTS - components/Table/TableParams,1377,1427,denistsoi,2/28/21,2500,FALSE
