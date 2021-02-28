@@ -580,4 +580,9 @@ Website,UNIT TESTS - components/HashLink,1357,1413,tomijaga,2/25/21,500,FALSE
 Website,UNIT TESTS - components/MarketingCard,1363,1412,thesanjeevsharma,2/25/21,2500,FALSE
 Website,UNIT TESTS - components/SocialMediaIcon,1374,1402,denistsoi,2/25/21,500,FALSE
 Validator,Set daily_confirmation_rate on initialize_validator,55,131,DucPhamTV,01/19/21,5000,FALSE
-
+Kotlin-SDK,Implement GET request for Crawl endpoint in Confirmation Validator API,136,148,nishp77,2/20/21,2000,FALSE
+Kotlin-SDK,Implement GET requests in validators endpoint in Confirmation Validator API,140,149,tomijaga,2/21/21,2500,FALSE
+Kotlin-SDK,Implement POST request for confirmation blocks endpoint in Confirmation Validator API,134,150,tomijaga,2/22/21,2000,FALSE
+Kotlin-SDK,Implement POST request for Crawl endpoint in Confirmation Validator API,137,151,nishp77,2/22/21,2000,FALSE
+Kotlin-SDK,Implement GET request for Confirmation Services endpoint in Confirmation Validator API,128,152,tomijaga,2/25/21,2000,FALSE
+Kotlin-SDK,Implement POST request for Connection Requests in Confirmation Validator API,135,153,tomijaga,2/27/21,2000,FALSE
