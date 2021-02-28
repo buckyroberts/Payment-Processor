@@ -596,3 +596,4 @@ Website,Remove Contributor from teams page,1418,1425,IvanDanilov66,2/28/21,250,F
 Website,UNIT TESTS - components/PageTitle,1366,1420,denistsoi,2/28/21,250,FALSE
 Website,UNIT TESTS - components/Loader,1361,1419,denistsoi,2/28/21,250,FALSE
 Website,UNIT TESTS - components/DocWrapper/DocList,1348,1401,tomijaga,2/25/21,1000,FALSE
+Website,UNIT TESTS - components/Footer/index.tsx,1355,1416,denistsoi,2/26/21,2000,FALSE
