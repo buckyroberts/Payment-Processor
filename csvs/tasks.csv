@@ -626,3 +626,4 @@ Website,Allow first input to be focused on mount for Signin and CreateAccount,14
 Website,UNIT TESTS - components/DashboardLayout,1341,1458,amarjeet987,3/09/21,1000,FALSE
 Website,New Contributor,1462,1463,bojan-ilijevski,3/09/21,250,FALSE
 Website,UNIT TESTS - components/DropdownInput,1351,1466,denistsoi,3/09/21,2000,FALSE
+Website,UNIT TESTS - components/DocsMenuItems,1342,1461,denistsoi,3/09/21,2000,FALSE
