@@ -636,3 +636,4 @@ thenewboston-js,[Task] Send database synchronisable idempotent payment,57,67,Abh
 thenewboston-js,test: PaymentHandler Tests,70,,AbhayAysola,03/05/2021,500,FALSE
 Website,Mobile popover highlighted item has weird border,1539,1540,jamessspanggg,3/13/21,500,FALSE
 Website,Blockchain Payment Auditor,1529,1536,AmrOuf,3/13/21,250,FALSE
+Website,Active user popover items not accessible,1537,1538,jamessspanggg,3/13/21,500,FALSE
