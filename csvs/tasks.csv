@@ -631,3 +631,7 @@ Website,UNIT TESTS - components/CopyableAccountNumber,1340,1449,denistsoi,3/03/2
 Website,UNIT TESTS - components/Tabs,1379,1450,denistsoi,3/04/21,2000,FALSE
 Website,UNIT TESTS - components/QR,1369,1512,denistsoi,3/10/21,1000,FALSE
 Website,UNIT TESTS - components/DocWrapper/DocContainer,1344,1469,PrinceRajRoy,3/09/21,2500,FALSE
+thenewboston-js,[Task] Add "fee" Field in Transactions,61,67,AbhayAysola,03/05/2021,500,250
+thenewboston-js,[Task] Send database synchronisable idempotent payment,57,67,AbhayAysola,03/05/2021,2000,250
+thenewboston-js,test: PaymentHandler Tests,70,,AbhayAysola,03/05/2021,500,FALSE
+
