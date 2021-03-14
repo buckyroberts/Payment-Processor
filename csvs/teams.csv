@@ -1,5 +1,4 @@
 team,title,isLead,payPerDay,createdDate,contributor_id,display_name,github_username,profile_image,slack_username,account_number
-.NET Core,Software Developer,TRUE,2800,2020-07-08T02:14:59.307535Z,56,Mircea Teodor Oprea,Mirch,https://avatars1.githubusercontent.com/u/15807790?s=460&u=44cb333c66bf58ee7b5b5d5391c7653d0e705b96&v=4,Mircea Teodor Oprea,dc3eb7a93238a4e691817d294c97fa372748807c473130901b71b819032a2faa
 Back-End Developers,Back-End Lead,TRUE,2800,2020-07-08T02:14:59.307535Z,4,Volodymyr,vosi,https://avatars0.githubusercontent.com/u/758024?s=460&v=4,Volodymyr,
 Back-End Developers,Back-End Lead,TRUE,2800,2020-07-08T02:14:59.307535Z,5,Mikhail,fonar,https://ca.slack-edge.com/T07PJD1FZ-U01CTP5N98D-11bd9bb494f5-512,Mikhail,7c7339dab547bc08a8c2ecb9d46675dc4ed01b72321a27e66e923fed0306c952
 Back-End Developers,Senior Django/Python Developer,TRUE,2800,2020-07-08T02:14:59.307535Z,39,Santee,sbalasa,https://ca.slack-edge.com/T07PJD1FZ-U01DYUZSU22-9904d0218507-512,Santhosh Balasa,d2131316a7286972bf15bfe914beac2fe56505a6b7a13aa3916a4f355736cbb3
