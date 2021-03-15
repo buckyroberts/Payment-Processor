@@ -651,3 +651,5 @@ Website,"Put ""Hello World"" in your OWN language!",351,1253,Ishmael28,2/05/21,5
 Website,"Put ""Hello World"" in your OWN language!",351,1279,AmrOuf,2/14/21,500,FALSE
 Website,Add a required `Display Name: field` in the sign up form,1489,1507,manishram,3/14/21,500,FALSE
 Website,"Complete ""Role and Responsibilities""",1534,1535,Rajputusman,3/13/21,2500,FALSE
+Kotlin-SDK,Implement POST request for Upgrade endpoint in Confirmation Validator API,139,155,tomijaga,3/8/21,2000,FALSE
+Kotlin-SDK,Implement POST request for update endpoint in Confirmation Validator API,138,154,tomijaga,3/4/21,2000,FALSE
