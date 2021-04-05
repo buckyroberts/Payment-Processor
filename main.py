@@ -2,6 +2,7 @@ import json
 from urllib.request import Request, urlopen
 
 from config.secret import GITHUB_OAUTH_TOKEN
+from utils.payment_requests import get_audit_results, get_payment_request_details
 
 
 def fetch(url):
@@ -17,39 +18,8 @@ def fetch(url):
     )
     response = urlopen(request)
     results = json.loads(response.read())
+
     return results
-
-
-def get_payment_requests(issue):
-    """
-    Filter out the payment requests from a GitHub issue
-    """
-
-    lines = issue.get('body').splitlines()
-    payment_requests = [line for line in lines if line.startswith('[payment_request|') and line.endswith(']')]
-    return payment_requests
-
-
-def get_payment_request_data(issue):
-    """
-    Return payment request data
-    """
-
-    for payment_request in get_payment_requests(issue):
-        print(parse_payment_request(payment_request))
-
-
-def parse_payment_request(payment_request):
-    """
-    Parse payment request line of text into dictionary
-    """
-
-    results = payment_request.replace('[payment_request|', '').replace(']', '')
-    amount, user = results.split('|')
-    return {
-        'amount': int(amount),
-        'user': user
-    }
 
 
 def run():
@@ -57,10 +27,18 @@ def run():
     Run main application
     """
 
-    issues = fetch('https://api.github.com/repos/thenewboston-developers/Management/issues?labels=Payment+Due')
+    payment_due_issues = fetch(
+        'https://api.github.com/repos/thenewboston-developers/Management/issues?labels=Payment+Due'
+    )
 
-    for issue in issues:
-        get_payment_request_data(issue)
+    for payment_due_issue in payment_due_issues:
+        payment_request_details = get_payment_request_details(payment_due_issue)
+        print(payment_request_details)
+
+        number = payment_due_issue['number']
+        comments = fetch(f'https://api.github.com/repos/thenewboston-developers/Management/issues/{number}/comments')
+        audit_results = get_audit_results(comments)
+        print(audit_results)
 
 
 if __name__ == '__main__':
