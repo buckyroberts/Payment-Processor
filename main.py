@@ -1,12 +1,14 @@
 import json
 from urllib.request import Request, urlopen
 
+from config.constants import APPROVED, DENIED
 from config.secret import GITHUB_OAUTH_TOKEN
 from utils.payment_requests import get_audit_results, get_payment_request_details, is_issue_eligible_for_processing
 
 """
 TODO
 - Ensure we aren't paying out duplicate issues
+- Create payment receipt markdown file
 """
 
 
@@ -37,17 +39,12 @@ def display_payment_details(*, payment_request_details, audit_results):
             print(f'{amount} | {user} | {assessment}')
 
 
-def fetch(url):
+def fetch(*, url, headers):
     """
     Fetch API data and return as Python object
     """
 
-    request = Request(
-        url,
-        headers={
-            'Authorization': f'token {GITHUB_OAUTH_TOKEN}'
-        }
-    )
+    request = Request(url, headers=headers)
     response = urlopen(request)
     results = json.loads(response.read())
 
@@ -56,11 +53,13 @@ def fetch(url):
 
 def process_payment(*, payment_request_details, audit_results, issue_number):
     """
-    Process payment including:
-    - calculating all payment recipients and amounts
-    - sending payments to each
-    - writing results to a CSV file after each payment has been sent
-    - updating the GitHub issue with the proper label
+    Process issue payment sending payments to each user
+    For issues where all payments have been denied those will be logged as well
+
+    For each payment recipient:
+        sending payment (MOCK THIS FOR NOW - DO THIS LAST)
+        writing results to a CSV file
+        removing "Payment Due" label and adding the proper payment status label
     """
 
     payment_requests = payment_request_details['payment_requests']
@@ -81,10 +80,9 @@ def process_payment(*, payment_request_details, audit_results, issue_number):
 
                 if amount == requested_amount and user == requested_user:
 
-                    # TODO: Constants
-                    if assessment == 'approved':
+                    if assessment == APPROVED:
                         approvals += 1
-                    elif assessment == 'denied':
+                    elif assessment == DENIED:
                         denials += 1
 
         if approvals > denials and approvals != 0:
@@ -97,14 +95,20 @@ def run():
     """
 
     payment_due_issues = fetch(
-        'https://api.github.com/repos/thenewboston-developers/Management/issues?labels=Payment+Due'
+        url='https://api.github.com/repos/thenewboston-developers/Management/issues?labels=Payment+Due',
+        headers={
+            'Authorization': f'token {GITHUB_OAUTH_TOKEN}'
+        }
     )
 
     for payment_due_issue in payment_due_issues:
         payment_request_details = get_payment_request_details(payment_due_issue)
         issue_number = payment_due_issue['number']
         comments = fetch(
-            f'https://api.github.com/repos/thenewboston-developers/Management/issues/{issue_number}/comments'
+            url=f'https://api.github.com/repos/thenewboston-developers/Management/issues/{issue_number}/comments',
+            headers={
+                'Authorization': f'token {GITHUB_OAUTH_TOKEN}'
+            }
         )
         audit_results = get_audit_results(comments)
 
