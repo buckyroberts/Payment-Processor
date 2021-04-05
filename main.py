@@ -63,6 +63,9 @@ def process_payment(*, payment_request_details, audit_results):
     - updating the GitHub issue with the proper label
     """
 
+    # TODO: Here
+    pass
+
 
 def run():
     """
@@ -79,7 +82,8 @@ def run():
         comments = fetch(f'https://api.github.com/repos/thenewboston-developers/Management/issues/{number}/comments')
         audit_results = get_audit_results(comments)
 
-        print(is_issue_eligible_for_processing(audit_results))
+        if not is_issue_eligible_for_processing(audit_results):
+            continue
 
         display_payment_details(
             payment_request_details=payment_request_details,
