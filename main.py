@@ -54,7 +54,7 @@ def fetch(url):
     return results
 
 
-def process_payment(*, payment_request_details, audit_results):
+def process_payment(*, payment_request_details, audit_results, issue_number):
     """
     Process payment including:
     - calculating all payment recipients and amounts
@@ -63,8 +63,32 @@ def process_payment(*, payment_request_details, audit_results):
     - updating the GitHub issue with the proper label
     """
 
-    # TODO: Here
-    pass
+    payment_requests = payment_request_details['payment_requests']
+
+    for payment_request in payment_requests:
+        requested_amount = payment_request['amount']
+        requested_user = payment_request['user']
+
+        approvals = 0
+        denials = 0
+
+        for auditor, responses in audit_results.items():
+
+            for response in responses:
+                amount = response['amount']
+                user = response['user']
+                assessment = response['assessment']
+
+                if amount == requested_amount and user == requested_user:
+
+                    # TODO: Constants
+                    if assessment == 'approved':
+                        approvals += 1
+                    elif assessment == 'denied':
+                        denials += 1
+
+        if approvals > denials and approvals != 0:
+            print(f'Pay {requested_user} {requested_amount} coins for issue #{issue_number}')
 
 
 def run():
@@ -78,12 +102,20 @@ def run():
 
     for payment_due_issue in payment_due_issues:
         payment_request_details = get_payment_request_details(payment_due_issue)
-        number = payment_due_issue['number']
-        comments = fetch(f'https://api.github.com/repos/thenewboston-developers/Management/issues/{number}/comments')
+        issue_number = payment_due_issue['number']
+        comments = fetch(
+            f'https://api.github.com/repos/thenewboston-developers/Management/issues/{issue_number}/comments'
+        )
         audit_results = get_audit_results(comments)
 
         if not is_issue_eligible_for_processing(audit_results):
             continue
+
+        process_payment(
+            payment_request_details=payment_request_details,
+            audit_results=audit_results,
+            issue_number=issue_number
+        )
 
         display_payment_details(
             payment_request_details=payment_request_details,
