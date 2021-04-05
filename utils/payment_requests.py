@@ -40,6 +40,18 @@ def get_payment_request_details(issue):
     }
 
 
+def is_issue_eligible_for_processing(audit_results):
+    """
+    Return boolean that indicates whether or not the issue is eligible for payment processing
+    This will be true when the majority of auditors have provided their auditing results
+    """
+
+    audit_responses = len([auditor for auditor, responses in audit_results.items() if responses])
+    threshold = len(AUDITORS) / 2
+
+    return bool(audit_responses > threshold)
+
+
 def parse_comment_body_for_payment_data(comment_body):
     """
     Parse a GitHub comment body and return a list of payment request dicts
