@@ -20,10 +20,7 @@ def get_audit_results(comments):
         if audit_results[username]:
             continue
 
-        print(username)
-
-        for payment_data in parse_comment_body_for_payment_data(comment_body):
-            print(payment_data)
+        audit_results[username] = parse_comment_body_for_payment_data(comment_body)
 
     return audit_results
 
