@@ -26,8 +26,8 @@ def display_payment_details(*, payment_request_details, audit_results):
         user = payment_request['user']
         print(f'{amount} | {user}')
 
-    spacer = '-' * 40
-    print(f'\n{spacer}')
+    spacer = '-' * 20
+    print(f'\n{spacer} Audit Results {spacer}')
 
     for auditor, responses in audit_results.items():
         print(f'\n{auditor}:')
@@ -115,15 +115,18 @@ def run():
         if not is_issue_eligible_for_processing(audit_results):
             continue
 
+        display_payment_details(
+            payment_request_details=payment_request_details,
+            audit_results=audit_results
+        )
+
+        spacer = '-' * 20
+        print(f'\n{spacer} Payments Needed {spacer}\n')
+
         process_payment(
             payment_request_details=payment_request_details,
             audit_results=audit_results,
             issue_number=issue_number
-        )
-
-        display_payment_details(
-            payment_request_details=payment_request_details,
-            audit_results=audit_results
         )
 
 
