@@ -9,6 +9,7 @@ from utils.payment_requests import get_audit_results, get_payment_request_detail
 TODO
 - Ensure we aren't paying out duplicate issues
 - Create payment receipt markdown file
+- Update auth token to have proper permissions
 """
 
 
