@@ -36,7 +36,20 @@ def get_payment_request_data(issue):
     """
 
     for payment_request in get_payment_requests(issue):
-        print(payment_request)
+        print(parse_payment_request(payment_request))
+
+
+def parse_payment_request(payment_request):
+    """
+    Parse payment request line of text into dictionary
+    """
+
+    results = payment_request.replace('[payment_request|', '').replace(']', '')
+    amount, user = results.split('|')
+    return {
+        'amount': int(amount),
+        'user': user
+    }
 
 
 def run():
