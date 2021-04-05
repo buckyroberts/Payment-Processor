@@ -1,6 +1,6 @@
 ## Overview
 
-Payment processing scripts for thenewboston digital currency.
+Payment processing bot for thenewboston digital currency.
 
 ## Project Setup
 
@@ -8,6 +8,9 @@ Install required packages:
 ```
 pip3 install -r requirements.txt
 ```
+
+Use the `config/secret.sample.py` file as a template to create a new `config/secret.py` file. Fill in the details 
+required there.
 
 ## Testing
 

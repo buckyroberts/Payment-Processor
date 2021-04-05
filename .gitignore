@@ -36,3 +36,6 @@ env/
 venv
 venv.bak/
 venv/
+
+# Secret
+config/secret.py
