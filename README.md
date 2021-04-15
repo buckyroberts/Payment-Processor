@@ -1,6 +1,6 @@
 ## Overview
 
-Payment processing scripts for thenewboston digital currency.
+Payment processing scripts for thenewboston digital currency. Is valid for intro.
 
 ## Project Setup
 
